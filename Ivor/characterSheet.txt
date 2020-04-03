@@ -174,7 +174,7 @@ Level & XP:__1_________________________________          \/        \/        \/
 |that are to come.                                                             |
 |                                                                              |
 +-Flaws------------------------------------------------------------------------+
-|Uncovering the trust of this cult is my life's work - I'd risk everything to  |
+|Uncovering the truth of this cult is my life's work - I'd risk everything to  |
 |uncover the truth, even if it meant I couldn't return to complete the         |
 |Chronicle                                                                     |
 |                                                                              |
@@ -183,8 +183,12 @@ Level & XP:__1_________________________________          \/        \/        \/
 |                                                                              |
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
-|                                                                              |
-|                                                                              |
+| Standard Actions:                                                            |
+|    o Dash: Movement - 60ft                                                   |
+|    o Disengage: Movement doesn't provoke opp atacks for rest of turn         |
+|    o Dodge: Until start of next turn [Only applies if can see attacker]      |
+|        --> Dex saving throws taken at advantage                              |
+|        --> Attacks made against me are at disadvantage                       |
 |                                                                              |
 |                                                                              |
 |                                                                              |
