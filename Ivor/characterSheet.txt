@@ -81,6 +81,7 @@ Level & XP:__1_________________________________          \/        \/        \/
 |                                                                              |
 | Hermit:                                                                      |
 |   o Research notes on the cult                                               |
+|   o Letter instructing assistance from the head of the Order                 |
 |   o Winter Blanket                                                           |
 |   o Herbalism Kit                                                            |
 |                                                                              |

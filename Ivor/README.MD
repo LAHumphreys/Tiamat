@@ -19,9 +19,24 @@ and when he choose to specialise in the obscure "Cult of the Dragon", he seemed
 destined to be no more than a footnote in the venerable institution's famed
 Chronicles.
 
-### A life dedicated to obscure research ===
+### A life dedicated to obscure research
 
 For nearly 20 years Ivor meticulously studied his subject in the Oak-Tree
 archives. More often than not, when he did venture out to ancient libraries or
 rumoured historical sites he would return empty handed - inevitably generating
 gentle mockery from his more successful brothers at the Abbey.
+
+## Journey to Greenest
+
+### The unlikely protagonist
+
+With the continent in turmoil, Ivor suddenly finds himself the unlikely centre
+of attention at the Abbey. Handed a letter of patent from the head of his
+order, Ivor is sent out to learn all he can; before he must return to the
+Abbey and lead the effort to Chronicle these unprecedented times.
+
+As the situation continues to deteriorate, it becomes apparent the solitary
+traveller will need to overcome his introverted nature and find some
+companions if he is to have a chance to live long enough to return and write
+his Chronicle. More in hope than expectation, Ivor joins the many travellers
+heading for the relative protection of the fortified Trading Town of Greenest
