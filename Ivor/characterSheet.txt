@@ -1,0 +1,222 @@
+Name:________Ivor______________________________  ________     ____   ________   
+Race:________Human_____________________________  \______ \   /  _ \  \______ \  
+Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
+Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
+Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
+Level & XP:__1_________________________________          \/        \/        \/ 
++-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
+| Inspiration                    [  ] |  |    14 | |    +7       | |    30     |
+| Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum:       8                    |
+| STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
+| Saving Throws              [X] [+2] |  | Current:       8                    |
+| Athlethic                  [ ] [ 0] |  | Hit Dice:      1D8                  |
++-------------------------------------+  +-Death Saves-------------------------+
+| DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
+| Saving Throws              [X] [+4] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [ ] [+2] |  +-------------------------------------+
+| Sleight of Hand            [ ] [+2] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+4] |  |                                     |
++-------------------------------------+  | Languages:                          |
+| CONSTITUTION              [11] [ 0] |  |   o Common                          |
+| Saving Throws              [ ] [ 0] |  |   o Elvish                          |
++-------------------------------------+  |   o Draconic (Read & Write only)    |
+| INTELLIGENCE              [ 9] [-1] |  |                                     |
+| Saving Throws              [ ] [-1] |  | Tools:                              |
+| Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
+| History                    [ ] [-1] |  |                                     |
+| Investigation              [ ] [-1] |  |  Observant:                         |
+| Investigation [passive]        (14) |  |   o Lip Reading                     |
+| Nature                     [ ] [-1] |  |   o +1 WIS                          |
+| Religion                   [X] [+1] |  |   o +5 passive perception (WIS)     |
++-------------------------------------+  |   o +5 passive Investigation (INT)  |
+| WISDOM                    [14] [+2] |  |                                     |
+| Saving Throws              [ ] [+2] |  |  Alert:                             |
+| Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
+| Insight                    [X] [+4] |  |   o Can't be surprised (concious)   |
+| Medicine                   [X] [+4] |  |   o Other creatuers can't gain adv  |
+| Perception                 [X] [+4] |  |     due to being unseen             |
+| Perception [passive]           (19) |  |                                     |
+| Survival                   [ ] [+2] |  |                                     |
++-------------------------------------+  |                                     |
+| CHARISMA                  [ 7] [-2] |  |                                     |
+| Saving Throws              [ ] [-2] |  |                                     |
+| Deception                  [ ] [-2] |  |                                     |
+| Intimidation               [ ] [-2] |  |                                     |
+| Performance                [ ] [-2] |  |                                     |
+| Persuation                 [ ] [-2] |  |                                     |
++-------------------------------------+  +-------------------------------------+
++-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
+| Short Sword   |   +4   |   1D6 +2 P |                               |        |
+| Darts  [20]   |   +4   |   1D4 +2 P | Range: 20 / 60                |        |
+| Unarmed       |   +4   |   1D4 +2 B |                               |        |
+|               |        |            |                               |        |
++-Combat Features--------------------------------------------------------------+
+| Monk Weapons:                                                                |
+|     o Shortswords, Simple mele weapons                                       |
+|     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
+| Opponents cannot gain advantage from being unseen                            |
+|                                                                              |
+|                                                                              |
++-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
+|               |        |                                            |        |
+|               |        |                                            |        |
+|               |        |                                            |        |
+|               |        |                                            |        |
++---------------+--------+--------------------------------------------+--------+
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
+| PP [      ] | | GP [     5] | | EP [       ] | | SP [      ] | | CP [      ] |
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
++-Equipment-----------------------------------------------------------+-Weight-+
+| Explorer's Pack:                                                             |
+|   o Backpack                                                                 |
+|   o Bedroll                                                                  |
+|   o Mess kit                                                                 |
+|   o Tinderbox                                                                |
+|   o Torches [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
+|   o Rations [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
+|   o Water Skin                                                               |
+|   o 50ft Hemp Rope                                                           |
+|                                                                              |
+| Hermit:                                                                      |
+|   o Research notes on the cult                                               |
+|   o Winter Blanket                                                           |
+|   o Herbalism Kit                                                            |
+|                                                                              |
+| Max. Bearing Capacity:                                      Weight:          |
++------------------------------------------------------------------------------+
++-Racial Features--------------------------------------------------------------+
+|  +1 Dex                                                                      |
+|  +1 Wis                                                                      |
+|  +1 Skill (Perception)                                                       |
+|  +1 Language (Elvish)                                                        |
+|  +1 Feat (Alert)                                                             |
+|                                                                              |
++-Background Feature-----------------------------------------------------------+
+|  o Medicine Proficiency                                                      |
+|  o Religion Proficiency                                                      |
+|  o Tool Proficiency: Herbalism                                               |
+|                                                                              |
++-Class Features---------------------------------------------------------------+
+|  o Simple Weapon Proficiency                                                 |
+|  o Shortsword Proficiency                                                    |
+|  o STR Saving Throws                                                         |
+|  o DEX Saving Throws                                                         |
+|  o Stealth Proficiency                                                       |
+|  o Insight Proficiency                                                       |
+|  o Artisan's Tools - Archaeologist's Tools                                   |
+|                                                                              |
++-Level 2----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 3----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 4----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 5----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 6----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 7----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 8----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 9----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 10---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 11---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 12---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 13---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 14---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 15---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 16---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++------------------------------------------------------------------------------+
++-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
+|     35     |   5'8''  |135lbs (61kg) |  brown     |Sun Darkened|  Black      |
++-Appearance-+----------+--------------+------------+------------+-------------+
+|                                                                              |
+|                                                                              |
++-Personality Traits-----------------------------------------------------------+
+|I've studied these people for 20 years, of course I know that... if only I    |
+|could remember which journal I recorded that in...                            |
+|                                                                              |
++-Ideals-----------------------------------------------------------------------+
+|My order teaches us that we must chronicle the events of the world, not to    |
+|preach morals onto others.                                                    |
+|                                                                              |
++-Bonds------------------------------------------------------------------------+
+|It is my duty to chronicle the events of these tumultuous for the generations |
+|that are to come.                                                             |
+|                                                                              |
++-Flaws------------------------------------------------------------------------+
+|Uncovering the trust of this cult is my life's work - I'd risk everything to  |
+|uncover the truth, even if it meant I couldn't return to complete the         |
+|Chronicle                                                                     |
+|                                                                              |
++-Allies & Organizations-------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Notes------------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++-Known Players----+-Character--------------+-Race----------+-Class------------+
+|                  |                        |               |                  |
+|                  |                        |               |                  |
+|                  |                        |               |                  |
++------------------+------------------------+---------------+------------------+
+
+
+
