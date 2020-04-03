@@ -3,14 +3,14 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__1_________________________________          \/        \/        \/ 
+Level & XP:__2_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    30     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    40     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       8                    |
++-------------------------------------+  | Maximum:       13                   |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       8                    |
+| Saving Throws              [X] [+2] |  | Current:       13                   |
 | Athlethic                  [ ] [ 0] |  | Hit Dice:      1D8                  |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
@@ -53,6 +53,10 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
+| Ki Points [ ] [ ]                                                            |
+|     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
+|     o Patient Defence - take Dodge has a bonus action                        |
+|     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple mele weapons                                       |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
@@ -109,7 +113,9 @@ Level & XP:__1_________________________________          \/        \/        \/
 |  o Artisan's Tools - Archaeologist's Tools                                   |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
-|                                                                              |
+|  o HP +5                                                                     |
+|  o Unarmored Movement + 10ft                                                 |
+|  o Ki Points: 2                                                              |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
 |                                                                              |
