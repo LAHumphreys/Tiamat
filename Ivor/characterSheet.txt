@@ -35,7 +35,7 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Saving Throws              [ ] [+2] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
 | Insight                    [X] [+4] |  |   o Can't be surprised (concious)   |
-| Medicine                   [X] [+4] |  |   o Other creatuers can't gain adv  |
+| Medicine                   [X] [+4] |  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+4] |  |     due to being unseen             |
 | Perception [passive]           (19) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
@@ -106,7 +106,7 @@ Level & XP:__1_________________________________          \/        \/        \/
 |  o DEX Saving Throws                                                         |
 |  o Stealth Proficiency                                                       |
 |  o Insight Proficiency                                                       |
-|  o Artisan's Tools - Archaeologist's Tools                                   |
+|  o Artisan's Tools - Illuminated Manuscript scribe's tools                   |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
 |                                                                              |
