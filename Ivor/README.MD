@@ -150,4 +150,30 @@ With the streets swarming with enemies, not to mention the dragon which was stil
 any rescue mission would need to use the city catacombs. Without the numbers to save everyone, the party chose to
 prioritise the Temple - hoping to find some healers to tend to the many wounded amongst the survivors in the keep.
 
+### Rescue mission to the Temple of Chauntea
+
+The catacombs were cramped, dark, and dank - and the noxious assault on his senses told Ivor that more that at least some of these tunnels were part of the City's sewage system. Initially Ivor had been dubious when Selina had taken out her pipes - but had to admit that the carnivorous rats that infested the tunnels seemed to be giving her a wide berth.
+
+The party emerged from the cellars in a burned out inn outside the temple - to discover a small army attempting to smash the down the doors. Vastly out-numbered it was agreed that Ivor, Modar and John will attempt to scout around the back of the temple. Creeping behind a low stone wall the trio spy a lonely officer smoking a pipe, an impressive looking Scimitar strapped to his waist. As the 3 plan their surprise attack, the young man nonchalantly puts out his pipe, calling out:
+
+> "Are you going to crouch in the rain all day, or are we going to fight?"
+
+Their cover blown, it was apparent this man had to be dealt with quickly before reinforcements could be summoned. 
+
+1. Round 1 - Quick attack against the Lieutenant
+   * Before anyone else had a chance to react, Ivor leaped out from cover and takes a swing at the Lieutenant, who easily parried and Ivor had allow his momentum to carry him forward to avoid the counter thrust as he made for the partial cover of the hedgerow across the courtyard.
+   
+1. Round 2 - Kobalds brewing trouble
+   * With John was occupying the officer, Ivor was reaching down to grab a dart when he spied two Kobolds preparing a vial of ominously smoking liquid through the Temple's open upper window.
+   * Not wanting to find out what would happen if they managed to get it through the small opening, Ivor strode over and punched the vial out of the small creature's hands.
+   * The Kobold turned to the monk in anger, but in the next instant was falling back - one of Modar's arrows protruding from his chest. Too late Ivor realised the danger and he was quickly spluttering from noxious fumes as more of the nasty vials in the Kobald's backpack shattered when it fell backwards.
+   
+1. Round 3 - Stumble
+   * Through the fumes Ivor could see John being set upon by the Scimitar wielding officer. Determined to render aid he staggered towards the fray, only to be overcome by his light-headedness - collapsing to the floor.
+   * Ivor's years of training kicked and he quickly sprung to his feet, but when he was struck by a rock from the sling of yet more Kobolds he could start to feel his legs giving out beneath him.
+   
+1. Round 4 - Rescue
+   * Swaying on his feet, Ivor fealt a sudden rush of warm energy flowing into him as Seul laid his hand on the Monk's shoulder.
+   * Reinvigorated Ivor picked up his sword and took in the scene. Sensing trouble the rest of the party had arrived and were starting to overwhelm the small group of cultists who'd come to investigate the commotion. Selina was standing over the now unconscious officer.
+   * Using his well honed reflexes to step under yet another fire bolt, he executed a darting attack with his short sword against the nearest cultist as the party made quick work of mopping up.
 
