@@ -126,18 +126,28 @@ he didn't need telling twice.
       
     * Looking around its clear the party now has control of the Jetty
     
-    Turn 3: Takes out a cobold with a dart
-      - Faced with one fo the Ambush drakes bearing down on Brigid and himself, he has no choice but to stand and fight. Grapping a dart from his belt he delicately launches it at the remaining cobold. (The first was thrown off by the drake - the second was blown in a cloud of poison launched from the War Forged's wrist). Taken in the neck, the cobold falls into the canal - leaving a confused drake on its own.
+## The siege of Greenest
 
-    Turn 4:  Into the City!
-      - Everyone's in the canal. Brigid is leading a charge into the City, and Ivor recognises that's the only sensible option.
-      - Charging after here, Ivor falls behind when he has to gingerly  maneuver his notes scroll under the gate, attempting to minimise water damage to his
-      - Leosin is a colleague of mine from the temple and is resident in the city. He'll need to fixup the scrol from the water damage
-      - 
+### Aftermarth
 
-    Turn 5:  OFFS. More?? Fine, charge it is...
-      - Ivor climb's out onto the jetty and is faced with a choice. Brigid already has a cobold on her back - but there are a couple of cultists clearly preparing to cast arcane trouble. Judging Brigid more than capable of taking out a Cobold he strides towards the first of the cultists. Drawing his short sword with as much of flourish as he can manage, his strike is so comically wide it functions as a feint. Distracted the cultist fails to notice the first flying towards his face. Staggering back from the blow, the cultist's bolt of fire harmless shoots up into the sky...
+Having cleared the jetty, Ivor and his companions made a break for the
+keep - where (aided by the chaos the party caused by the Water gate) the remaining city guards have managed to regain
+control . A grateful Governor Nighthill instructed a Sargent to find the party a spot to take a breath and recuperate.
 
-    Turn 6:  Cultists everywhere...
-      ...as the cobold fall backwards from the blow, Ivor brings his sword back around and thrusts into the chest of the Cobold. Shortly afterwards the remaining cultist is covered in a nasty acidic spray from the Warforged. As the dust settles Ivor looks around to see 
+Later, as night fell, Ivor stirred from a meditation exercise to find a familiar face waiting patiently for him to emerge from is revery.
+
+> "Leosin! Good to see you safe!"
+
+As the old friends caught up, it quickly became apparent that the Town was still very much in 
+serious trouble. Leo has been sent by the governor, who is offering 20 gp a head for anyone who can help with the Town's
+plight. The situation was grim:
+  * Cultists, Kobolds and even some opportunistic bandits are pouring through the streets
+  * There are at least two pockets of trapped civilians:
+      * The large temple of Chauntea is being besieged by an organised squad of the cultists
+      * A similar group are hold up in the old Town Mill 
+
+With the streets swarming with enemies, not to mention the dragon which was still circling the keep, it was agreed that
+any rescue mission would need to use the city catacombs. Without the numbers to save everyone, the party chose to
+prioritise the Temple - hoping to find some healers to tend to the many wounded amongst the survivors in the keep.
+
 
