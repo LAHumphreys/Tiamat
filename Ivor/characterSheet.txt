@@ -10,8 +10,8 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:       8                    |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       8                    |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:      1D8                  |
+| Saving Throws              [X] [+2] |  | Current:       8 - 3 = 5            |
+| Athletic                   [ ] [ 0] |  | Hit Dice:      1D8                  |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+4] |  | Failures                [ ] [ ] [ ] |
@@ -45,11 +45,11 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Deception                  [ ] [-2] |  |                                     |
 | Intimidation               [ ] [-2] |  |                                     |
 | Performance                [ ] [-2] |  |                                     |
-| Persuation                 [ ] [-2] |  |                                     |
+| Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Short Sword   |   +4   |   1D6 +2 P |                               |        |
-| Darts  [20]   |   +4   |   1D4 +2 P | Range: 20 / 60                |        |
+| Darts  [19]   |   +4   |   1D4 +2 P | Range: 20 / 60                |        |
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
@@ -218,10 +218,12 @@ Level & XP:__1_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Known Players----+-Character--------------+-Race----------+-Class------------+
-|                  |                        |               |                  |
-|                  |                        |               |                  |
+| Zoe              | Selina                 |               | druid            |
+| Michael          | Soul (War forge)       |               |                  |
+| James            | John Oak Leaf          | Half Elf      | fighter          |
+| Camilla          | Brigid                 | Human         |                  |
+| Rachel           | Mawdar                 |               |                  |
 |                  |                        |               |                  |
 +------------------+------------------------+---------------+------------------+
-
 
 
