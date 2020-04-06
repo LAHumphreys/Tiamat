@@ -8,9 +8,9 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Inspiration                    [  ] |  |    14 | |    +7       | |    40     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       13                   |
++-------------------------------------+  | Maximum:       18                   |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       13                   |
+| Saving Throws              [X] [+2] |  | Current:       18                   |
 | Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ]           |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
@@ -53,14 +53,28 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
-| Ki Points [ ] [ ]                                                            |
+| Ki Points [ ] [ ] [ ]                                                        |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
+|                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple mele weapons                                       |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
+|                                                                              |
 | Opponents cannot gain advantage from being unseen                            |
+|                                                                              |
+| Deflect Missiles [reaction]                                                  |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 5                                        |
+|     o 0 DMG => Catch the missile: +4 / 1D4 + 2, Range: 20ft / 60ft           |
+|                                                                              |
+| Shadows Arts                                                                 |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 2 = 12                           |
+|     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
+|     o [2 ki Points]: Darkvision                                              |
+|     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
+|     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
+|     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
@@ -118,6 +132,10 @@ Level & XP:__2_________________________________          \/        \/        \/
 |  o Ki Points: 2                                                              |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Ki Points: +1                                                             |
+|  o Deflect Missiles                                                          |
+|  o Way of Shadows: Shadow Arts                                               |
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
