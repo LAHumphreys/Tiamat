@@ -10,7 +10,7 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:       13                   |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       13-4-8+9-1 = 9       |
+| Saving Throws              [X] [+2] |  | Current:       13                   |
 | Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ]           |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
@@ -53,7 +53,7 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
-| Ki Points [X] [ ]                                                            |
+| Ki Points [ ] [ ]                                                            |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
