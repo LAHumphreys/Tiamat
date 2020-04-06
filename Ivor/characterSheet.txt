@@ -11,7 +11,7 @@ Level & XP:__2_________________________________          \/        \/        \/
 +-------------------------------------+  | Maximum:       13                   |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
 | Saving Throws              [X] [+2] |  | Current:       13-4-8+9-1 = 9       |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:      1D8                  |
+| Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ]           |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+4] |  | Failures                [ ] [ ] [ ] |
