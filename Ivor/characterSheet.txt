@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__3_________________________________          \/        \/        \/ 
+Level & XP:__4_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    40     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    50     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       18                   |
++-------------------------------------+  | Maximum:       23                   |
 | STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       18                   |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ] [ ]       |
+| Saving Throws              [X] [+2] |  | Current:       23                   |
+| Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ] [ ] [ ]   |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+4] |  | Failures                [ ] [ ] [ ] |
@@ -39,12 +39,12 @@ Level & XP:__3_________________________________          \/        \/        \/
 | Perception                 [X] [+4] |  |     due to being unseen             |
 | Perception [passive]           (19) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
-+-------------------------------------+  |                                     |
-| CHARISMA                  [ 7] [-2] |  |                                     |
-| Saving Throws              [ ] [-2] |  |                                     |
-| Deception                  [ ] [-2] |  |                                     |
-| Intimidation               [ ] [-2] |  |                                     |
-| Performance                [ ] [-2] |  |                                     |
++-------------------------------------+  |  Mobile:                            |
+| CHARISMA                  [ 7] [-2] |  |   o +10ft Movement                  |
+| Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
+| Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
+| Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
+| Performance                [ ] [-2] |  |     against this turn.              |
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
@@ -53,7 +53,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
-| Ki Points [ ] [ ] [ ]                                                        |
+| Ki Points [ ] [ ] [ ] [ ]                                                    |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
@@ -65,7 +65,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 5                                        |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 6                                        |
 |     o 0 DMG => Catch the missile: +4 / 1D4 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -76,6 +76,8 @@ Level & XP:__3_________________________________          \/        \/        \/
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
+| Slow Fall (reaction):                                                        |
+|     o Reduce fall damange by 5 x [LVL] = 20                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -140,6 +142,11 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall                                                                 |
+|  o Deflect Missile +1                                                        |
+|  o Mobile: mov+10, no opp from attacked opp, dash over diff. terrain         |
 |                                                                              |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
@@ -209,7 +216,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
 | Standard Actions:                                                            |
-|    o Dash: Movement - 60ft                                                   |
+|    o Dash: Movement - 100ft                                                   |
 |    o Disengage: Movement doesn't provoke opp atacks for rest of turn         |
 |    o Dodge: Until start of next turn [Only applies if can see attacker]      |
 |        --> Dex saving throws taken at advantage                              |
