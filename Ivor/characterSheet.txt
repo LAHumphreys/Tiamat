@@ -4,7 +4,7 @@ Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
 Level & XP:__4_________________________________          \/        \/        \/ 
-+-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
++-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    50     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
@@ -50,7 +50,9 @@ Level & XP:__4_________________________________          \/        \/        \/
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Short Sword   |   +4   |   1D6 +2 P |                               |        |
 | Darts  [19]   |   +4   |   1D4 +2 P | Range: 20 / 60                |        |
+| Hand Axe [3]  |   +4   |   1D6 +2 P | Range: 20 / 60 [X] [ ] [ ]    |        |
 | Unarmed       |   +4   |   1D4 +2 B |                               |        |
+| Dagger        |   +4   |   1D4 +2 B |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Ki Points [ ] [ ] [ ] [ ]                                                    |
@@ -66,7 +68,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
 |     o 1D10 + [DEX] + [LVL] = 1D10 + 6                                        |
-|     o 0 DMG => Catch the missile: +4 / 1D4 + 2, Range: 20ft / 60ft           |
+|     o 0 DMG >= Catch the missile: +4 / 1D4 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 2 = 12                           |
@@ -86,7 +88,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 |               |        |                                            |        |
 +---------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [    55] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [   375] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 | Explorer's Pack:                                                             |
@@ -98,7 +100,8 @@ Level & XP:__4_________________________________          \/        \/        \/
 |   o Rations [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
 |   o Water Skin                                                               |
 |   o 50ft Hemp Rope                                                           |
-|   o Healing potion [ ]
+|   o Healing potion [ ]                                                       |
+|   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
 |                                                                              |
 | Hermit:                                                                      |
 |   o Research notes on the cult                                               |
@@ -216,7 +219,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
 | Standard Actions:                                                            |
-|    o Dash: Movement - 100ft                                                   |
+|    o Dash: Movement - 100ft                                                  |
 |    o Disengage: Movement doesn't provoke opp atacks for rest of turn         |
 |    o Dodge: Until start of next turn [Only applies if can see attacker]      |
 |        --> Dex saving throws taken at advantage                              |
@@ -231,11 +234,13 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Known Players----+-Character--------------+-Race----------+-Class------------+
-| Zoe              | Selina                 |               | Druid            |
+| Zoe              | Selina                 | Cedar         | Druid            |
 | Michael          | Seul (War forge)       | War Forged    | Artificer        |
+| Michael          | Basil                  | Tiefling      | Artificer        |
 | James            | John Oak Leaf          | Half Elf      |                  |
 | Camilla          | Brigid                 | Human         | Fighter          |
 | Rachel           | Modar                  | Valdkin       | Rogue            |
+| Rachel           | Kyleth                 |               |                  |
 |                  |                        |               |                  |
 +------------------+------------------------+---------------+------------------+
 
