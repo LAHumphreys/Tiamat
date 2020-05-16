@@ -84,7 +84,7 @@ Level & XP:__5_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 20                                  |
+|     o Reduce fall damange by 5 x [LVL] = 25                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -168,6 +168,7 @@ Level & XP:__5_________________________________          \/        \/        \/
 |  o Extra Attack                                                              |
 |  o Ki Points: +1                                                             |
 |  o Stunning Strike                                                           |
+|  o Slow Fall +5                                                              |
 |                                                                              |
 |                                                                              |
 |                                                                              |
