@@ -37,7 +37,7 @@ Level & XP:__5_________________________________          \/        \/        \/
 | Insight                    [X] [+5] |  |   o Can't be surprised (concious)   |
 | Medicine                   [X] [+5] |  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+5] |  |     due to being unseen             |
-| Perception [passive]           (19) |  |                                     |
+| Perception [passive]           (20) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 7] [-2] |  |   o +10ft Movement                  |
