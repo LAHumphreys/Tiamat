@@ -57,10 +57,13 @@ Level & XP:__5_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ]                                                    |
+| Ki Points [ ] [ ] [ ] [ ] [ ]                                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
+|     o Stunning Strike - after successful mele attack,                        |
+|          - target has CON save --FAIL-> Stunned until end of my next turn    |
 |                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple mele weapons                                       |
@@ -73,7 +76,6 @@ Level & XP:__5_________________________________          \/        \/        \/
 |     o 0 DMG >= Catch the missile: +5 / 1D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
 |     o [2 ki Points]: Darkvision                                              |
 |     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
@@ -160,6 +162,8 @@ Level & XP:__5_________________________________          \/        \/        \/
 |  o Deflect Missile +1                                                        |
 |  o Martial Arts: 1d6                                                         |
 |  o Extra Attack                                                              |
+|  o Ki Points: +1                                                             |
+|  o Stunning Strike                                                           |
 |                                                                              |
 |                                                                              |
 |                                                                              |
@@ -233,8 +237,15 @@ Level & XP:__5_________________________________          \/        \/        \/
 |        --> Dex saving throws taken at advantage                              |
 |        --> Attacks made against me are at disadvantage                       |
 |                                                                              |
+|  Stunned:                                                                    |
+|    o Incapacitated (see below)                                               |
+|    o Can't move                                                              |
+|    o Can only speak falteringly                                              |
+|    o Auto fails strength and dex saves                                       |
+|    o Attacks against the creature have advantage                             |
 |                                                                              |
-|                                                                              |
+|  Incapacitated:                                                              |
+|    o Create can't take actions or reactions                                  |
 |                                                                              |
 |                                                                              |
 |                                                                              |
