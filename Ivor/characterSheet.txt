@@ -3,21 +3,21 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__4_________________________________          \/        \/        \/ 
+Level & XP:__5_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    50     |
-| Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
+| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       23                   |
-| STRENGTH                  [10] [ 0] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+2] |  | Current:       23                   |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:      D8 [ ] [ ] [ ] [ ]   |
++-------------------------------------+  | Maximum:      28                    |
+| STRENGTH                  [10] [ 0] |  | Modifier:     n/a                   |
+| Saving Throws              [X] [+3] |  | Current:      28                    |
+| Athlethic                  [ ] [ 0] |  | Hit Dice:     D8 [ ] [ ] [ ] [ ] [ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+4] |  | Failures                [ ] [ ] [ ] |
+| Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [ ] [+2] |  +-------------------------------------+
 | Sleight of Hand            [ ] [+2] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+4] |  |                                     |
+| Stealth                    [X] [+5] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
 | Saving Throws              [ ] [ 0] |  |   o Elvish                          |
@@ -29,14 +29,14 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Investigation              [ ] [-1] |  |  Observant:                         |
 | Investigation [passive]        (14) |  |   o Lip Reading                     |
 | Nature                     [ ] [-1] |  |   o +1 WIS                          |
-| Religion                   [X] [+1] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
-| Insight                    [X] [+4] |  |   o Can't be surprised (concious)   |
-| Medicine                   [X] [+4] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+4] |  |     due to being unseen             |
+| Insight                    [X] [+5] |  |   o Can't be surprised (concious)   |
+| Medicine                   [X] [+5] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+5] |  |     due to being unseen             |
 | Perception [passive]           (19) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -48,17 +48,22 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Short Sword   |   +4   |   1D6 +2 P |                               |        |
-| Darts  [19]   |   +4   |   1D4 +2 P | Range: 20 / 60                |        |
-| Hand Axe [3]  |   +4   |   1D6 +2 P | Range: 20 / 60 [X] [ ] [ ]    |        |
-| Unarmed       |   +4   |   1D4 +2 B |                               |        |
-| Dagger        |   +4   |   1D4 +2 B |                               |        |
+| Short Sword   |   +5   |   1D6 +2 P |                               |        |
+| Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
+| Hand Axe [3]  |   +5   |   1D6 +2 P | Range: 20 / 60 [ ] [ ] [ ]    |        |
+| Unarmed       |   +5   |   1D6 +2 B |                               |        |
+| Dagger        |   +5   |   1D6 +2 P |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
-| Ki Points [ ] [ ] [ ] [ ]                                                    |
+| Number of Attacks per attack action: 2                                       |
+|                                                                              |
+| Ki Points [ ] [ ] [ ] [ ] [ ]                                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
+|     o Stunning Strike - after successful mele attack,                        |
+|          - target has CON save --FAIL-> Stunned until end of my next turn    |
 |                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple mele weapons                                       |
@@ -67,11 +72,10 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 6                                        |
-|     o 0 DMG >= Catch the missile: +4 / 1D4 + 2, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 7                                        |
+|     o 0 DMG >= Catch the missile: +5 / 1D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 2 = 12                           |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
 |     o [2 ki Points]: Darkvision                                              |
 |     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
@@ -153,6 +157,14 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o <prof> +1: skills,WIS sav, STR sav                                        |
+|  o Deflect Missile +1                                                        |
+|  o Martial Arts: 1d6                                                         |
+|  o Extra Attack                                                              |
+|  o Ki Points: +1                                                             |
+|  o Stunning Strike                                                           |
+|                                                                              |
 |                                                                              |
 |                                                                              |
 +-Level 6----------------------------------------------------------------------+
@@ -225,8 +237,15 @@ Level & XP:__4_________________________________          \/        \/        \/
 |        --> Dex saving throws taken at advantage                              |
 |        --> Attacks made against me are at disadvantage                       |
 |                                                                              |
+|  Stunned:                                                                    |
+|    o Incapacitated (see below)                                               |
+|    o Can't move                                                              |
+|    o Can only speak falteringly                                              |
+|    o Auto fails strength and dex saves                                       |
+|    o Attacks against the creature have advantage                             |
 |                                                                              |
-|                                                                              |
+|  Incapacitated:                                                              |
+|    o Create can't take actions or reactions                                  |
 |                                                                              |
 |                                                                              |
 |                                                                              |
