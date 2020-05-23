@@ -70,6 +70,10 @@ Level & XP:__5_________________________________          \/        \/        \/
 |     o Shortswords, Simple mele weapons                                       |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
 |                                                                              |
+|  Death Ward (long rest): [ ]                                                 |
+|     o If would reduce to 0, reduce to 1 instead                              |
+|     o If an effect would kill instantaneously, it is negated                 |
+|                                                                              |
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
@@ -85,6 +89,9 @@ Level & XP:__5_________________________________          \/        \/        \/
 |                                                                              |
 | Slow Fall (reaction):                                                        |
 |     o Reduce fall damange by 5 x [LVL] = 25                                  |
+|                                                                              |
+| Death Ward coin:                                                             |
+|     o                                                                        |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -113,6 +120,10 @@ Level & XP:__5_________________________________          \/        \/        \/
 |   o Letter instructing assistance from the head of the Order                 |
 |   o Winter Blanket                                                           |
 |   o Herbalism Kit                                                            |
+|                                                                              |
+| Combat:                                                                      |
+|   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
+|               - 1 of 3: (1: Keilith, 1: Assasin)                             |
 |                                                                              |
 | Misc                                                                         |
 |   o Wizard's pipe:                                                           |
@@ -252,6 +263,9 @@ Level & XP:__5_________________________________          \/        \/        \/
 |  Incapacitated:                                                              |
 |    o Create can't take actions or reactions                                  |
 |                                                                              |
+|  Cover:                                                                      |
+|    o Half cover: +2 AC, +2 DEX saves,                                        |
+|    o 3/4 cover: +5 AC, +5 DEX saves                                          |
 |                                                                              |
 |                                                                              |
 |                                                                              |
