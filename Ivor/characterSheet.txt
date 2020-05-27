@@ -7,7 +7,7 @@ Level & XP:__6_________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    50     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [19] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:      33                    |
 | STRENGTH                  [10] [ 0] |  | Modifier:     n/a                   |
 | Saving Throws              [X] [+3] |  | Current:      33                    |
