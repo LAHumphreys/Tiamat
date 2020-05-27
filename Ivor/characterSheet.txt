@@ -82,7 +82,7 @@ Level & XP:__5_________________________________          \/        \/        \/
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
-|     o [2 ki Points]: Darkvision                                              |
+|     o [2 ki Points]: Darkvision (60ft / 8 hours)                             |
 |     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
