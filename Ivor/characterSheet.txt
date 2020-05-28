@@ -5,7 +5,7 @@ Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
 Level & XP:__6_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    50     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:      33                    |
@@ -51,7 +51,7 @@ Level & XP:__6_________________________________          \/        \/        \/
 | Short Sword   |   +5   |   1D6 +2 P |                               |        |
 | Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
 | Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Unarmed       |   +5   |   1D6 +2 B |                               |        |
+| Unarmed       |   +5   |   1D6 +2 BM|                               |        |
 | Dagger        |   +5   |   1D6 +2 P |                               |        |
 | Nunchak (acid)|   +5   |   1D6 +2 A |                               |        |
 |               |        |            |                               |        |
@@ -62,15 +62,24 @@ Level & XP:__6_________________________________          \/        \/        \/
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
-|     o Step of the Wind - take Disengage or Dash as bonus. Jump x2 distance   |
+|     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
 |     o Stunning Strike - after successful mele attack,                        |
 |          - target has CON save --FAIL-> Stunned until end of my next turn    |
 |                                                                              |
+| Shadow Step (bonus action):                                                  | 
+|     o Prerequisite: In dim light or darkness, can see target                 |
+|     o Target: 60ft, in dim light or darkness                                 |
+|     o Advantage on first melee attack made this turn                         |
+|                                                                              |
 | Monk Weapons:                                                                |
-|     o Shortswords, Simple mele weapons                                       |
+|     o Shortswords, Simple melee weapons                                      |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
 |                                                                              |
-|  Death Ward (long rest): [ ]                                                 |
+| Ki empowered Strikes:                                                        |
+|     o Fists count as magical for the purpose of overcoming resistance /      |
+|       immunity to nonmagical attacks / damage                                |
+|                                                                              |
+| Death Ward (long rest): [ ]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
@@ -89,9 +98,6 @@ Level & XP:__6_________________________________          \/        \/        \/
 |                                                                              |
 | Slow Fall (reaction):                                                        |
 |     o Reduce fall damange by 5 x [LVL] = 30                                  |
-|                                                                              |
-| Death Ward coin:                                                             |
-|     o                                                                        |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -188,6 +194,9 @@ Level & XP:__6_________________________________          \/        \/        \/
 |  o Deflect Missile +1                                                        |
 |  o Ki Points: +1                                                             |
 |  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Ki Empowered Strikes                                                      |
+|  o Shadow Step                                                               |
 |                                                                              |
 |                                                                              |
 +-Level 7----------------------------------------------------------------------+
