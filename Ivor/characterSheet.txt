@@ -3,20 +3,20 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__11_________________________________          \/        \/        \/ 
+Level & XP:__12_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    58    Modifier: n/a     |
-| STRENGTH                  [10] [ 0] |  | Current:    58
++-------------------------------------+  | Maximum:    63    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    63
 | Saving Throws              [X] [+4] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ]         |
+| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [ ] [+2] |  +-------------------------------------+
-| Sleight of Hand            [ ] [+2] |  +-Other Proficiencies & Languages-----+
+| Acrobatics                 [X] [+6] |  +-------------------------------------+
+| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [X] [+6] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
@@ -26,8 +26,8 @@ Level & XP:__11_________________________________          \/        \/        \/
 | Saving Throws              [ ] [-1] |  | Tools:                              |
 | Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
 | History                    [ ] [-1] |  |                                     |
-| Investigation              [ ] [-1] |  |  Observant:                         |
-| Investigation [passive]        (14) |  |   o Lip Reading                     |
+| Investigation              [X] [+3] |  |  Observant:                         |
+| Investigation [passive]        (17) |  |   o Lip Reading                     |
 | Nature                     [ ] [-1] |  |   o +1 WIS                          |
 | Religion                   [X] [+3] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
@@ -59,7 +59,7 @@ Level & XP:__11_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -96,7 +96,7 @@ Level & XP:__11_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 13                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 14                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -107,7 +107,7 @@ Level & XP:__11_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 55                                  |
+|     o Reduce fall damange by 5 x [LVL] = 60                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -324,6 +324,11 @@ Level & XP:__11_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Feat: Skilled (Investigation, Acrobatics, Slight of Hand)                 |
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
