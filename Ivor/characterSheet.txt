@@ -3,40 +3,40 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__12_________________________________          \/        \/        \/ 
+Level & XP:__13_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
-| Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    63    Modifier: n/a     |
-| STRENGTH                  [10] [ 0] |  | Current:    63
-| Saving Throws              [X] [+4] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ]      |
+| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum:    68    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    68
+| Saving Throws              [X] [+5] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ][ ]   |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+6] |  +-------------------------------------+
-| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+6] |  |                                     |
+| Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+7] |  +-------------------------------------+
+| Sleight of Hand            [X] [+7] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+7] |  |                                     |
 +-------------------------------------+  | Languages:                          |
-| CONSTITUTION              [11] [ 0] |  |   o Common                          |
-| Saving Throws              [ ] [ 0] |  |   o Elvish                          |
-+-------------------------------------+  |   o Draconic (Read & Write only)    |
+| CONSTITUTION              [11] [ 0] |  |   o Common, Elvish                  |
+| Saving Throws              [ ] [ 0] |  |   o Draconic (Read & Write only)    |
++-------------------------------------+  |   o Tongue of sun and moon          |
 | INTELLIGENCE              [ 9] [-1] |  |                                     |
 | Saving Throws              [ ] [-1] |  | Tools:                              |
 | Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
 | History                    [ ] [-1] |  |                                     |
-| Investigation              [X] [+3] |  |  Observant:                         |
+| Investigation              [X] [+4] |  |  Observant:                         |
 | Investigation [passive]        (17) |  |   o Lip Reading                     |
 | Nature                     [ ] [-1] |  |   o +1 WIS                          |
-| Religion                   [X] [+3] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+4] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
-| Insight                    [X] [+6] |  |   o Can't be surprised (concious)   |
-| Medicine                   [X] [+6] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+6] |  |     due to being unseen             |
+| Insight                    [X] [+7] |  |   o Can't be surprised (concious)   |
+| Medicine                   [X] [+7] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+7] |  |     due to being unseen             |
 | Perception [passive]           (20) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -59,8 +59,8 @@ Level & XP:__12_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 2 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -96,7 +96,7 @@ Level & XP:__12_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 14                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 15                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -107,7 +107,7 @@ Level & XP:__12_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 60                                  |
+|     o Reduce fall damange by 5 x [LVL] = 65                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -127,6 +127,10 @@ Level & XP:__12_________________________________          \/        \/        \/
 |                                                                              |
 | Purity of Body:                                                              |
 |     o Immune to diseases and poison                                          |
+|                                                                              |
+| Tongue of Sun & Moon:                                                        |
+|     o Understand all spoken languages                                        |
+|     o Any creature that can understand a language, can understand what I say |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -332,6 +336,12 @@ Level & XP:__12_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Tongue of Sun and Moon                                                    |
 |                                                                              |
 |                                                                              |
 +-Level 14---------------------------------------------------------------------+
