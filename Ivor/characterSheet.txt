@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__13_________________________________          \/        \/        \/ 
+Level & XP:__14_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    65     |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    68    Modifier: n/a     |
-| STRENGTH                  [10] [ 0] |  | Current:    68
++-------------------------------------+  | Maximum:    73    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    73                      |
 | Saving Throws              [X] [+5] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ][ ]   |
+| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
@@ -23,7 +23,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 | Saving Throws              [ ] [ 0] |  |   o Draconic (Read & Write only)    |
 +-------------------------------------+  |   o Tongue of sun and moon          |
 | INTELLIGENCE              [ 9] [-1] |  |                                     |
-| Saving Throws              [ ] [-1] |  | Tools:                              |
+| Saving Throws              [X] [+4] |  | Tools:                              |
 | Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
 | History                    [ ] [-1] |  |                                     |
 | Investigation              [X] [+4] |  |  Observant:                         |
@@ -32,7 +32,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 | Religion                   [X] [+4] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [14] [+2] |  |                                     |
-| Saving Throws              [ ] [+2] |  |  Alert:                             |
+| Saving Throws              [X] [+7] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
 | Insight                    [X] [+7] |  |   o Can't be surprised (concious)   |
 | Medicine                   [X] [+7] |  |   o Other creatures can't gain adv  |
@@ -41,7 +41,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 7] [-2] |  |   o +10ft Movement                  |
-| Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws              [X] [+3] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
@@ -59,7 +59,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 2 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -96,7 +96,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 15                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 16                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -107,7 +107,7 @@ Level & XP:__13_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 65                                  |
+|     o Reduce fall damange by 5 x [LVL] = 70                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -131,6 +131,10 @@ Level & XP:__13_________________________________          \/        \/        \/
 | Tongue of Sun & Moon:                                                        |
 |     o Understand all spoken languages                                        |
 |     o Any creature that can understand a language, can understand what I say |
+|                                                                              |
+| Diamond Soul:                                                                |
+|     o Proficiency in all saves                                               |
+|     o [Fail a saving throw] => [1 ki point] => re-roll & take second result  |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -345,6 +349,12 @@ Level & XP:__13_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 14---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Diamond Soul                                                              |
 |                                                                              |
 |                                                                              |
 +-Level 15---------------------------------------------------------------------+
