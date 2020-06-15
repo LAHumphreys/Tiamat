@@ -3,40 +3,40 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__6_________________________________          \/        \/        \/ 
+Level & XP:__13_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
-| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:      33                    |
-| STRENGTH                  [10] [ 0] |  | Modifier:     n/a                   |
-| Saving Throws              [X] [+3] |  | Current:      33                    |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:     D8 [ ][ ][ ][ ][ ][ ] |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
+| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum:    68    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    68
+| Saving Throws              [X] [+5] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ][ ]   |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [ ] [+2] |  +-------------------------------------+
-| Sleight of Hand            [ ] [+2] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+5] |  |                                     |
+| Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+7] |  +-------------------------------------+
+| Sleight of Hand            [X] [+7] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+7] |  |                                     |
 +-------------------------------------+  | Languages:                          |
-| CONSTITUTION              [11] [ 0] |  |   o Common                          |
-| Saving Throws              [ ] [ 0] |  |   o Elvish                          |
-+-------------------------------------+  |   o Draconic (Read & Write only)    |
+| CONSTITUTION              [11] [ 0] |  |   o Common, Elvish                  |
+| Saving Throws              [ ] [ 0] |  |   o Draconic (Read & Write only)    |
++-------------------------------------+  |   o Tongue of sun and moon          |
 | INTELLIGENCE              [ 9] [-1] |  |                                     |
 | Saving Throws              [ ] [-1] |  | Tools:                              |
 | Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
 | History                    [ ] [-1] |  |                                     |
-| Investigation              [ ] [-1] |  |  Observant:                         |
-| Investigation [passive]        (14) |  |   o Lip Reading                     |
+| Investigation              [X] [+4] |  |  Observant:                         |
+| Investigation [passive]        (17) |  |   o Lip Reading                     |
 | Nature                     [ ] [-1] |  |   o +1 WIS                          |
-| Religion                   [X] [+2] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+4] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
-| Insight                    [X] [+5] |  |   o Can't be surprised (concious)   |
-| Medicine                   [X] [+5] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+5] |  |     due to being unseen             |
+| Insight                    [X] [+7] |  |   o Can't be surprised (concious)   |
+| Medicine                   [X] [+7] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+7] |  |     due to being unseen             |
 | Perception [passive]           (20) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -48,33 +48,42 @@ Level & XP:__6_________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Short Sword   |   +5   |   1D6 +2 P |                               |        |
-| Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
-| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Unarmed       |   +5   |   1D6 +2 BM|                               |        |
-| Javelin       |   +7   |   1D6 +4 P | Range: 30 / 120 [ ]           |        |
-| Dagger        |   +5   |   1D6 +2 P |                               |        |
-| Nunchak (acid)|   +5   |   1D6 +2 A |                               |        |
+| Short Sword   |   +6   |   1D8 +2 P |                               |        |
+| Darts  [19]   |   +6   |   1D4 +2 P | Range: 20 / 60                |        |
+| Hand Axe [3]  |   +6   |   1D8 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
+| Unarmed       |   +6   |   1D8 +2 BM|                               |        |
+| Javelin       |   +8   |   1D6 +4 P | Range: 30 / 120 [ ]           |        |
+| Dagger        |   +6   |   1D8 +2 P |                               |        |
+| Nunchak (acid)|   +6   |   1D8 +2 A |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ]                                            |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 2 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
 |     o Stunning Strike - after successful mele attack,                        |
 |          - target has CON save --FAIL-> Stunned until end of my next turn    |
 |                                                                              |
-| Shadow Step (bonus action):                                                  | 
+| Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
 |     o Target: 60ft, in dim light or darkness                                 |
 |     o Advantage on first melee attack made this turn                         |
 |                                                                              |
+| Cloak of Shadows                                                             |
+|     o Prerequisite: In dim light or darkness                                 |
+|     o [action] Become invisible                                              |
+|     o Remain invisible ubtil you attack, cast spell or are in bright light   |
+|                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple melee weapons                                      |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
+|                                                                              |
+| Unarmored movement:                                                          |
+|     o Can move along vertical surfaces and across liquids on your turn       |
+|       without falling during the move                                        |
 |                                                                              |
 | Ki empowered Strikes:                                                        |
 |     o Fists count as magical for the purpose of overcoming resistance /      |
@@ -87,8 +96,8 @@ Level & XP:__6_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 8                                        |
-|     o 0 DMG >= Catch the missile: +5 / 1D6 + 2, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 15                                       |
+|     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
@@ -98,14 +107,74 @@ Level & XP:__6_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 30                                  |
+|     o Reduce fall damange by 5 x [LVL] = 65                                  |
 |                                                                              |
+| Evasion:                                                                     |
+|     o DEX Save:                                                              |
+|        - Success: No damage instead of half                                  |
+|        - Failure: 1/2 damage instead of full                                 |
+|                                                                              |
+| Lucky: [ ] [ ] [ ] (recharge: long rest)                                     |
+|     o Can re-roll a attack roll, ability check or saving throw               |
+|         - Can declare after die is rolled, but *before* result is known      |
+|         - Can choose which of the two is used                                |
+|     o When a creature attacks you, can roll a d20 and then decide whether the|
+|       attack uses your rolls or their's                                      |
+|                                                                              |
+| Stillness of Mind:                                                           |
+|     o [action] End one effect on yourself that is causing you to be CHARMED  |
+|                or FRIGHTENED                                                 |
+|                                                                              |
+| Purity of Body:                                                              |
+|     o Immune to diseases and poison                                          |
+|                                                                              |
+| Tongue of Sun & Moon:                                                        |
+|     o Understand all spoken languages                                        |
+|     o Any creature that can understand a language, can understand what I say |
+|                                                                              |
++-Familiar---------------------------------------------------------------------+
+|+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
+|| Tia Maria | Coffee Dragon | Chaotic Good | Large cat | Chocolate coloured  ||
+|+-AC-----+--Speed--+---Fly---+--Climb-----+-Hit Points-----------------------+|
+||   15   |  60ft   |   60ft  |    60ft    | Max:         36                  ||
+|+--------+---------+---------+------------+ Resistances: Fire                ||
+|+-Attr+-STR-+-DEX-+-CON-+-INT-+-WIS-+CHAR-| Current:     36                  ||
+||     |  8  | 14  | 13  | 6   | 11  | 13  | Hit Dice:[ ][ ][ ][ ][ ][ ][ ][ ]||
+|+-----|-----|-----|-----|-----|-----|---- +- Death Saves --------------------+|
+|| Mod | -1  | +2  | +1  | -2  | 0   | +1  | Successes: [ ] [ ] [ ]           ||
+|| Sav | -1  | +4  | +3  | -2  | +2  | +3  | Failures:  [ ] [ ] [ ]           ||
+|+-Skills------------+-Passive Skills------+-Languages------------------------+|
+|| Perception: [+2]  | Perception [14]     | - Draconic                       ||
+|| Stealth:    [+4]  | Investigation [8]   |                                  ||
+|+-Other Features-------------------------------------------------------------+|
+|| - Dark Vision (60ft)                                                       ||
+|+-Aura of Alertness----------------------------------------------------------+|
+|| - Creatures within 60ft of the coffee dragon have advantage on perception  ||
+||   (WIS) checks                                                             ||
+|| - Creatures within 60ft of the coffee dragon (as well as the dragon) cannot||
+||   be magically put to sleep                                                ||
+|| - If the dragon is under the effects of a slow spell, the aura is          ||
+||   suppressed                                                               ||
+||                                                                            ||
+|+-Caffeine Crash-------------------------------------------------------------+|
+|| - If the dragon is affected by the slow spell, it has disadvantage on all  ||
+||   attack rolls until the effect ends                                       ||
+|+-Innate Casting-------------------------------------------------------------+|
+|| - Haste (1x day) [ ]                                                       ||
+|+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
+|| Bite       |   +4      |  1D10 +2 P | reach (5ft)                          ||
+|| Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
+||   - Failed save: Create has "Haste", End of turn roll 1D6, ends on 5 or 6  ||
+||   - Successful save: Half damage                                           ||
+|+----------------------------------------------------------------------------+|
+|                                                                              |
++------------------------------------------------------------------------------+
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 |               |        |                                            |        |
 |               |        |                                            |        |
 |               |        |                                            |        |
-+---------------+--------+--------------------------------------------+--------+
+----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 | PP [      ] | | GP [   345] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
@@ -145,9 +214,23 @@ Level & XP:__6_________________________________          \/        \/        \/
 |  +1 Feat (Alert)                                                             |
 |                                                                              |
 +-Background Feature-----------------------------------------------------------+
-|  o Medicine Proficiency                                                      |
-|  o Religion Proficiency                                                      |
-|  o Tool Proficiency: Herbalism                                               |
+|  o Hermit Background:                                                        |
+|     - Medicine Proficiency                                                   |
+|     - Religion Proficiency                                                   |
+|     - Tool Proficiency: Herbalism                                            |
+|                                                                              |
+|  o Rustic Hospitality (Folk Hero for saving the peasent farmers from ruin):  |
+|     - You can find a place to hide, rest, or recuperate among other          |
+|       commoners, unless you have shown yourself to be a danger to them.      |
+|     - They will shield you from the law or anyone else searching for you,    |
+|       *BUT* they will not risk their lives for you.                          |
+|                                                                              |
+|  o Most wanted (Baldur's Gate):                                              |
+|     - It is well known that a very large bounty is available to the person(s)|
+|       who can aprehend Ivor and return him to the lords of Buldur's gate.    |
+|     - His likeness has been preproduced accurately in wanted posters, and he |
+|       is widely rumoured to have a tiny unique chocolate coloured dragon as a|
+|       companion                                                              |
 |                                                                              |
 +-Class Features---------------------------------------------------------------+
 |  o Simple Weapon Proficiency                                                 |
@@ -180,7 +263,7 @@ Level & XP:__6_________________________________          \/        \/        \/
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
 |  o HP +5                                                                     |
-|  o <prof> +1: skills,WIS sav, STR sav                                        |
+|  o <prof> +1: skills,DEX sav, STR sav                                        |
 |  o Deflect Missile +1                                                        |
 |  o Martial Arts: 1d6                                                         |
 |  o Extra Attack                                                              |
@@ -201,24 +284,64 @@ Level & XP:__6_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 7----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Evasion                                                                   |
+|  o Stillness of Mind                                                         |
 |                                                                              |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Feat: Lucky                                                               |
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: vertical surfaces                                     |
 |                                                                              |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Purity of Body                                                            |
 |                                                                              |
 |                                                                              |
 +-Level 11---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Martial Arts: 1d8                                                         |
+|  o Cloak of Shadows                                                          |
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Feat: Skilled (Investigation, Acrobatics, Slight of Hand)                 |
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Tongue of Sun and Moon                                                    |
 |                                                                              |
 |                                                                              |
 +-Level 14---------------------------------------------------------------------+
@@ -280,6 +403,21 @@ Level & XP:__6_________________________________          \/        \/        \/
 |  Cover:                                                                      |
 |    o Half cover: +2 AC, +2 DEX saves,                                        |
 |    o 3/4 cover: +5 AC, +5 DEX saves                                          |
+|                                                                              |
+|  Haste:                                                                      |
+|    o Duration: 1 minutes, Range: 30ft                                        |
+|    o Target: 1 willing creature:                                             |
+|        ->  Speed x2                                                          |
+|        ->  AC +2                                                             |
+|        ->  Advantage on DEX saving throws                                    |
+|        ->  The target has an additional action each turn. Can only be used   |
+|            for one of:                                                       |
+|              ---> attack (only one *weapon* attack)                          |
+|              ---> Dash / Disengage / Hide                                    |
+|              ---> Use an object                                              |
+|    o  When the spell ends                                                    |
+|        ->  Target can't move or take actions actions until after its next    |
+|            turn as a wave of lethargy hits it                                |
 |                                                                              |
 |                                                                              |
 |                                                                              |
