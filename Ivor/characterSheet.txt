@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__7_________________________________          \/        \/        \/ 
+Level & XP:__8_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    38                      |
-| STRENGTH                  [10] [ 0] |  | Modifier:   n/a                     |
-| Saving Throws              [X] [+3] |  | Current:    38                      |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
++-------------------------------------+  | Maximum:    43    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    43
+| Saving Throws              [X] [+3] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [ ] [ 0] |  |                [ ]                  |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
@@ -59,7 +59,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -87,7 +87,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 9                                        |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 10                                        |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -98,7 +98,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 35                                  |
+|     o Reduce fall damange by 5 x [LVL] = 40                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -108,6 +108,13 @@ Level & XP:__7_________________________________          \/        \/        \/
 | Stillness of Mind:                                                           |
 |     o [action] End one effect on yourself that is causing you to be CHARMED  |
 |                or FRIGHTENED                                                 |
+|                                                                              |
+| Lucky: [ ] [ ] [ ] (recharge: long rest)                                     |
+|     o Can re-roll a attack roll, ability check or saving throw               |
+|         - Can declare after die is rolled, but *before* result is known      |
+|         - Can choose which of the two is used                                |
+|     o When a creature attacks you, can roll a d20 and then decide whether the|
+|       attack uses your rolls or their's                                      |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -270,6 +277,11 @@ Level & XP:__7_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Feat: Lucky                                                               |
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
