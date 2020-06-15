@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__9_________________________________          \/        \/        \/ 
+Level & XP:__10_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    48    Modifier: n/a     |
-| STRENGTH                  [10] [ 0] |  | Current:    48
++-------------------------------------+  | Maximum:    53    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    53
 | Saving Throws              [X] [+4] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [ ] [ 0] |  |                [ ][ ]               |
+| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ]            |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
@@ -59,7 +59,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -91,7 +91,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 12                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -102,16 +102,12 @@ Level & XP:__9_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 45                                  |
+|     o Reduce fall damange by 5 x [LVL] = 50                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
 |        - Success: No damage instead of half                                  |
 |        - Failure: 1/2 damage instead of full                                 |
-|                                                                              |
-| Stillness of Mind:                                                           |
-|     o [action] End one effect on yourself that is causing you to be CHARMED  |
-|                or FRIGHTENED                                                 |
 |                                                                              |
 | Lucky: [ ] [ ] [ ] (recharge: long rest)                                     |
 |     o Can re-roll a attack roll, ability check or saving throw               |
@@ -119,6 +115,13 @@ Level & XP:__9_________________________________          \/        \/        \/
 |         - Can choose which of the two is used                                |
 |     o When a creature attacks you, can roll a d20 and then decide whether the|
 |       attack uses your rolls or their's                                      |
+|                                                                              |
+| Stillness of Mind:                                                           |
+|     o [action] End one effect on yourself that is causing you to be CHARMED  |
+|                or FRIGHTENED                                                 |
+|                                                                              |
+| Purity of Body:                                                              |
+|     o Immune to diseases and poison                                          |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -298,6 +301,12 @@ Level & XP:__9_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Purity of Body                                                            |
 |                                                                              |
 |                                                                              |
 +-Level 11---------------------------------------------------------------------+
