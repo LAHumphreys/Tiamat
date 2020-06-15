@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__14_________________________________          \/        \/        \/ 
+Level & XP:__15_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    65     |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    73    Modifier: n/a     |
-| STRENGTH                  [10] [ 0] |  | Current:    73                      |
++-------------------------------------+  | Maximum:    78    Modifier: n/a     |
+| STRENGTH                  [10] [ 0] |  | Current:    78                      |
 | Saving Throws              [X] [+5] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [ ] [ 0] |  |                [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [ ] [ 0] |  |             [ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
@@ -59,7 +59,7 @@ Level & XP:__14_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]            |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 2 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -96,7 +96,7 @@ Level & XP:__14_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 16                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 17                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -107,7 +107,7 @@ Level & XP:__14_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 70                                  |
+|     o Reduce fall damange by 5 x [LVL] = 75                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -135,6 +135,11 @@ Level & XP:__14_________________________________          \/        \/        \/
 | Diamond Soul:                                                                |
 |     o Proficiency in all saves                                               |
 |     o [Fail a saving throw] => [1 ki point] => re-roll & take second result  |
+|                                                                              |
+| Timeless body:                                                               |
+|     o Suffer none of the fraility of old age (and can't be aged magically)   |
+|     o Do not need food or water                                              |
+|     o Can still die of old age                                               |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -358,6 +363,11 @@ Level & XP:__14_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 15---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missiles                                                          |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Timeless body                                                             |
 |                                                                              |
 |                                                                              |
 +-Level 16---------------------------------------------------------------------+
