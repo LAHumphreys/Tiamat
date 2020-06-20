@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__6_________________________________          \/        \/        \/ 
+Level & XP:__7_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [ X] |  |    14 | |    +7       | |    55     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:      33                    |
-| STRENGTH                  [10] [ 0] |  | Modifier:     n/a                   |
-| Saving Throws              [X] [+3] |  | Current:      33                    |
-| Athlethic                  [ ] [ 0] |  | Hit Dice:     D8 [ ][ ][ ][ ][ ][ ] |
++-------------------------------------+  | Maximum:    38                      |
+| STRENGTH                  [10] [ 0] |  | Modifier:   n/a                     |
+| Saving Throws              [X] [+3] |  | Current:    38                      |
+| Athlethic                  [ ] [ 0] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
@@ -59,7 +59,7 @@ Level & XP:__6_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ]                                            |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -87,8 +87,8 @@ Level & XP:__6_________________________________          \/        \/        \/
 | Opponents cannot gain advantage from being unseen                            |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 8                                        |
-|     o 0 DMG >= Catch the missile: +5 / 1D6 + 2, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 9                                        |
+|     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
@@ -98,7 +98,16 @@ Level & XP:__6_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 30                                  |
+|     o Reduce fall damange by 5 x [LVL] = 35                                  |
+|                                                                              |
+| Evasion:                                                                     |
+|     o DEX Save:                                                              |
+|        - Success: No damage instead of half                                  |
+|        - Failure: 1/2 damage instead of full                                 |
+|                                                                              |
+| Stillness of Mind:                                                           |
+|     o [action] End one effect on yourself that is causing you to be CHARMED  |
+|                or FRIGHTENED                                                 |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -252,6 +261,12 @@ Level & XP:__6_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 7----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Evasion                                                                   |
+|  o Stillness of Mind                                                         |
 |                                                                              |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
