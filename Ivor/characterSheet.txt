@@ -10,7 +10,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:    38                      |
 | STRENGTH                  [10] [ 0] |  | Modifier:   n/a                     |
-| Saving Throws              [X] [+3] |  | Current:    38                      |
+| Saving Throws              [X] [+3] |  | Current:    38-4-22+8=12+8=20
 | Athlethic                  [ ] [ 0] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
@@ -50,16 +50,16 @@ Level & XP:__7_________________________________          \/        \/        \/
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Short Sword   |   +5   |   1D6 +2 P |                               |        |
 | Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
-| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
+| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [X] [ ] [ ]    |        |
 | Unarmed       |   +5   |   1D6 +2 BM|                               |        |
 | Javelin       |   +7   |   1D6 +4 P | Range: 30 / 120 [ ]           |        |
 | Dagger        |   +5   |   1D6 +2 P |                               |        |
-| Nunchak (acid)|   +5   |   1D6 +2 A |                               |        |
+| Nunchak (acid)|   +5   |   1D6 +2 AM|                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                        |
+| Ki Points [X] [X] [X] [ ] [ ] [ ] [ ]                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -84,7 +84,9 @@ Level & XP:__7_________________________________          \/        \/        \/
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
-| Opponents cannot gain advantage from being unseen                            |
+| Ambush / sneak attacks:                                                      |
+|     o Opponents cannot gain advantage from being unseen                      |
+|     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
 |     o 1D10 + [DEX] + [LVL] = 1D10 + 9                                        |
@@ -137,7 +139,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 || - If the dragon is affected by the slow spell, it has disadvantage on all  ||
 ||   attack rolls until the effect ends                                       ||
 |+-Innate Casting-------------------------------------------------------------+|
-|| - Haste (1x day) [ ]                                                       ||
+|| - Haste (1x day) [X]                                                       ||
 |+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
 || Bite       |   +4      |  1D10 +2 P | reach (5ft)                          ||
 || Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
@@ -147,9 +149,6 @@ Level & XP:__7_________________________________          \/        \/        \/
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
-|               |        |                                            |        |
-|               |        |                                            |        |
-|               |        |                                            |        |
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
@@ -165,7 +164,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 |   o Rations [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
 |   o Water Skin                                                               |
 |   o 50ft Hemp Rope                                                           |
-|   o Healing potion [ ]                                                       |
+|   o Healing potion [ ] [ ] (2d4 +2)                                          |
 |   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
 |                                                                              |
 | Hermit:                                                                      |
