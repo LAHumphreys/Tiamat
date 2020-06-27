@@ -3,20 +3,20 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__7_________________________________          \/        \/        \/ 
+Level & XP:__8_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [ X] |  |    14 | |    +7       | |    55     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    38                      |
-| STRENGTH                  [10] [ 0] |  | Modifier:   n/a                     |
-| Saving Throws              [X] [+3] |  | Current:    38-4-22+8=12+8=20
-| Athlethic                  [ ] [ 0] |  | Hit Dice:   D8 [ ][ ][ ][ ][ ][ ][ ]|
++-------------------------------------+  | Maximum:  45                        |
+| STRENGTH                  [10] [ 0] |  | Modifier: n/a                       |
+| Saving Throws              [X] [+3] |  | Current:  45                        |
+| Athlethic                  [X] [+3] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [ ] [+2] |  +-------------------------------------+
-| Sleight of Hand            [ ] [+2] |  +-Other Proficiencies & Languages-----+
+| Acrobatics                 [X] [+5] |  +-------------------------------------+
+| Sleight of Hand            [X] [+5] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [X] [+5] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
@@ -50,7 +50,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Short Sword   |   +5   |   1D6 +2 P |                               |        |
 | Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
-| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [X] [ ] [ ]    |        |
+| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
 | Unarmed       |   +5   |   1D6 +2 BM|                               |        |
 | Javelin       |   +7   |   1D6 +4 P | Range: 30 / 120 [ ]           |        |
 | Dagger        |   +5   |   1D6 +2 P |                               |        |
@@ -59,7 +59,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [ ] [ ] [ ] [ ]                                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -89,7 +89,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 9                                        |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 10                                        |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -100,7 +100,7 @@ Level & XP:__7_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 35                                  |
+|     o Reduce fall damange by 5 x [LVL] = 40                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -269,6 +269,11 @@ Level & XP:__7_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
+|  o HP +7                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Skilled:  acrobatics, athetics, sleight of hand                           |
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
