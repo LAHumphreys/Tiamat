@@ -48,13 +48,13 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Short Sword   |   +5   |   1D6 +2 P |                               |        |
-| Darts  [19]   |   +5   |   1D4 +2 P | Range: 20 / 60                |        |
-| Hand Axe [3]  |   +5   |   1D6 +2 S | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Unarmed       |   +5   |   1D6 +2 BM|                               |        |
-| Javelin       |   +7   |   1D6 +4 P | Range: 30 / 120 [ ]           |        |
-| Dagger        |   +5   |   1D6 +2 P |                               |        |
-| Nunchak (acid)|   +5   |   1D6 +2 AM|                               |        |
+| Short Sword   |   +5   |   1D6+2 P  |                               |        |
+| Darts  (19)   |   +5   |   1D4+2 P  | Range: 20 / 60                |        |
+| Hand Axe (3)  |   +5   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
+| Unarmed       |   +5   |   1D6+2 BM |                               |        |
+| Javelin       |   +7   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
+| Dagger        |   +5   |   1D6+2 P  |                               |        |
+| Nunchak (acid)|   +5   |   1D6+2 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
