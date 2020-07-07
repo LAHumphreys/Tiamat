@@ -379,5 +379,10 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Rachel           | Modar                  | Valdkin       | Rogue            |
 | Rachel           | Kyleth                 |               |                  |
 |                  |                        |               |                  |
++-Known NPCs-------+-----------------------------------------------------------+
+| Azbara jos       | (human) Showed up with the red mask at the haunted castle |
+| Ahan Strongmaster| (Emerald enclave)                                         |
+| Laryn Keenblade  | Defected - Member of cult of the dragon                   |
 +------------------+------------------------+---------------+------------------+
+
 
