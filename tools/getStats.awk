@@ -17,7 +17,7 @@ function printSkill(name, mod) {
 }
 
 # Attributes
-/\| [A-Z]+ +\[[0-9]+]/ {
+/\| [A-Z]+ +\[[ 0-9]+]/ {
     attr=$2
     gsub(/^ +/, "", attr)
     attr=substr(attr,0,3)
