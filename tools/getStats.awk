@@ -24,6 +24,11 @@ function printSkill(name, mod) {
     printSkill(attr, $5)
 }
 
+#  Initative
+/Inspiration/ {
+    printSkill("Initiative", $8)
+}
+
 #  Skills
 /\[[X ]\] \[[+-][0-9]\]/ {
     skill=$2
