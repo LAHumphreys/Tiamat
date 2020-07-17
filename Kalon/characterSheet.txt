@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__7_________________________________          \/        \/        \/ 
-+-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
-| Inspiration                    [  ] |  | 20    | |     +4      | |    30     |
+Level & XP:__8_________________________________          \/        \/        \/ 
++-------------------------------------+  +-AC----+ +-Initiative--+ +-Speed-----+
+| Inspiration                    [  ] |  | 20(23)| |     +4      | |    30     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    68                      |
-| STRENGTH                  [14] [+2] |  | Modifier:   +3                      |
-| Saving Throws              [X] [+5] |  | Current:    68                      |
-| Athlethics                 [X] [+5] |  | Hit Dice:   1D10 [ ][ ][ ][ ][ ][ ] |
++-------------------------------------+  | Maximum:  75                        |
+| STRENGTH                  [14] [+2] |  | Current:  75                        |
+| Saving Throws              [X] [+5] |  | Hit Dice: 1D10 [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethics                 [X] [+5] |  | 
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [20] [+5] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+7] |  | Failures                [ ] [ ] [ ] |
@@ -62,6 +62,9 @@ Level & XP:__7_________________________________          \/        \/        \/
 |                                                                              |
 | Action Surge [ ] (short rest):                                               |
 |  - One additional action                                                     |
+|                                                                              |
+| Defensive Duelist (reaction):                                                |
+|  - whem you are hit by an attack, use reaction to add prof to AC             |
 |                                                                              |
 | Remarkable Athlete:                                                          |
 |  - Add half prof to all CON, DEX and STR skills you don't have prof in       |
@@ -124,7 +127,8 @@ Level & XP:__7_________________________________          \/        \/        \/
 | Remarkable athlete                                                           |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
-|                                                                              |
+| HP: + 7                                                                     |
+| Feat: Defensive Duelist                                                      |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
 |                                                                              |
