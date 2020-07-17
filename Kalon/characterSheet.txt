@@ -3,29 +3,29 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__4_________________________________          \/        \/        \/ 
+Level & XP:__5_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
 | Inspiration                    [  ] |  | 20    | |     +4      | |    30     |
-| Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
+| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       39                   |
++-------------------------------------+  | Maximum:       51                   |
 | STRENGTH                  [14] [+2] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+4] |  | Current:       39                   |
-| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ][ ][ ]    |
+| Saving Throws              [X] [+5] |  | Current:       51                   |
+| Athlethic                  [X] [+5] |  | Hit Dice:      1D10 [ ][ ][ ][ ][ ] |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+6] |  +-------------------------------------+
+| Acrobatics                 [X] [+7] |  +-------------------------------------+
 | Sleight of Hand            [ ] [  ] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [ ] [  ] |  |                                     |
 +-------------------------------------+  |                                     |
 | CONSTITUTION              [16] [+3] |  |                                     |
-| Saving Throws              [X] [+5] |  | Medium Armor Master                 |
+| Saving Throws              [X] [+6] |  | Medium Armor Master                 |
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
 | Arcana                     [ ] [  ] |  | Duel Wielder:                       |
-| History                    [X] [+3] |  |  - +1 to AC when duel wielding      |
+| History                    [X] [+4] |  |  - +1 to AC when duel wielding      |
 | Investigation              [ ] [  ] |  |  - doesn't need to be light         |
 | Investigation [passive]        (  ) |  |  - can draw or stow two one handed  |
 | Nature                     [ ] [  ] |  |    weapons.                         |
@@ -48,8 +48,8 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Persuation                 [X] [+4] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
-| Rapier (off)  |   +6   |   1D8    P |  crit: 19-20                  |        |
+| Rapier        |   +7   |   1D8 +4 P |  crit: 19-20                  |        |
+| Rapier (off)  |   +7   |   1D8    P |  crit: 19-20                  |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
@@ -106,6 +106,9 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Feat: Duel Wielder                                                           |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
+| HP: + 12                                                                     |
+| Prof: +1                                                                     |
+| Extra Attack                                                                 |
 |                                                                              |
 |                                                                              |
 +-Level 6----------------------------------------------------------------------+
