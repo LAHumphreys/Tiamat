@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__1_________________________________          \/        \/        \/ 
+Level & XP:__2_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
 | Inspiration                    [  ] |  | 19    | |     +4      | |    30     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       13                   |
++-------------------------------------+  | Maximum:       25                   |
 | STRENGTH                  [14] [+2] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+4] |  | Current:       13                   |
-| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ]             |
+| Saving Throws              [X] [+4] |  | Current:       25                   |
+| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ]          |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
@@ -57,6 +57,9 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Fighting Style: Defense                                                      |
 |  - AC+1 when wearing armor                                                   |
 |                                                                              |
+| Action Surge [ ] (short rest):                                               |
+|  - One additional action                                                     |
+|                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 | Half Plate    | 15     | Dex max 2 / stealth: disadv                |        |
 |               |        |                                            |        |
@@ -87,7 +90,8 @@ Level & XP:__1_________________________________          \/        \/        \/
 | Fighting Style: Defense                                                      |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
-|                                                                              |
+| HP: + 12                                                                     |
+| Action Surge                                                                 |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
 |                                                                              |
