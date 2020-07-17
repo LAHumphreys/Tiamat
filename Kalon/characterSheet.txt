@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__2_________________________________          \/        \/        \/ 
+Level & XP:__3_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
 | Inspiration                    [  ] |  | 19    | |     +4      | |    30     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       25                   |
++-------------------------------------+  | Maximum:       31                   |
 | STRENGTH                  [14] [+2] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+4] |  | Current:       25                   |
-| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ]          |
+| Saving Throws              [X] [+4] |  | Current:       31                   |
+| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ][ ]       |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
@@ -48,11 +48,13 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Persuation                 [X] [+4] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Rapier        |   +6   |   1D8 +4 P |                               |        |
+| Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
 |   - (bonus action): HP += 1D10 + [LVL]                                       |
+|                                                                              |
+| Improved Critical (19-20)                                                    |
 |                                                                              |
 | Fighting Style: Defense                                                      |
 |  - AC+1 when wearing armor                                                   |
@@ -94,6 +96,8 @@ Level & XP:__2_________________________________          \/        \/        \/
 | Action Surge                                                                 |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
+| HP: + 6                                                                      |
+| Martial Archetype: Champion (Improved Critical)                              |
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
@@ -144,21 +148,12 @@ Level & XP:__2_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Personality Traits-----------------------------------------------------------+
-|I've studied these people for 20 years, of course I know that... if only I    |
-|could remember which journal I recorded that in...                            |
 |                                                                              |
 +-Ideals-----------------------------------------------------------------------+
-|My order teaches us that we must chronicle the events of the world, not to    |
-|preach morals onto others.                                                    |
 |                                                                              |
 +-Bonds------------------------------------------------------------------------+
-|It is my duty to chronicle the events of these tumultuous for the generations |
-|that are to come.                                                             |
 |                                                                              |
 +-Flaws------------------------------------------------------------------------+
-|Uncovering the trust of this cult is my life's work - I'd risk everything to  |
-|uncover the truth, even if it meant I couldn't return to complete the         |
-|Chronicle                                                                     |
 |                                                                              |
 +-Allies & Organizations-------------------------------------------------------+
 |                                                                              |
