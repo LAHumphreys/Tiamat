@@ -3,29 +3,29 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__8_________________________________          \/        \/        \/ 
+Level & XP:__9_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative--+ +-Speed-----+
-| Inspiration                    [  ] |  | 20(23)| |     +4      | |    30     |
-| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
+| Inspiration                    [  ] |  | 20(24)| |     +5      | |    30     |
+| Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:  75                        |
-| STRENGTH                  [14] [+2] |  | Current:  75                        |
-| Saving Throws              [X] [+5] |  | Hit Dice: 1D10 [ ][ ][ ][ ][ ][ ][ ]|
-| Athlethics                 [X] [+5] |  | 
++-------------------------------------+  | Maximum:  86                        |
+| STRENGTH                  [14] [+2] |  | Current:  86                        |
+| Saving Throws              [X] [+6] |  | Hit Dice: 1D10 [ ][ ][ ][ ][ ][ ][ ]|
+| Athlethics                 [X] [+6] |  |                [ ]
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [20] [+5] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+7] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+8] |  +-------------------------------------+
+| Acrobatics                 [X] [+9] |  +-------------------------------------+
 | Sleight of Hand            [ ] [+7] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [ ] [+7] |  |                                     |
 +-------------------------------------+  |                                     |
 | CONSTITUTION              [16] [+3] |  |                                     |
-| Saving Throws              [X] [+6] |  | Medium Armor Master                 |
+| Saving Throws              [X] [+7] |  | Medium Armor Master                 |
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
 | Arcana                     [ ] [  ] |  | Duel Wielder:                       |
-| History                    [X] [+4] |  |  - +1 to AC when duel wielding      |
+| History                    [X] [+5] |  |  - +1 to AC when duel wielding      |
 | Investigation              [ ] [  ] |  |  - doesn't need to be light         |
 | Investigation [passive]        (  ) |  |  - can draw or stow two one handed  |
 | Nature                     [ ] [  ] |  |    weapons.                         |
@@ -45,11 +45,11 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Deception                  [ ] [  ] |  |                                     |
 | Intimidation               [ ] [  ] |  |                                     |
 | Performance                [ ] [  ] |  |                                     |
-| Persuation                 [X] [+4] |  |                                     |
+| Persuation                 [X] [+6] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Rapier        |   +8   |   1D8 +5 P |  crit: 19-20                  |        |
-| Rapier (off)  |   +8   |   1D8    P |  crit: 19-20                  |        |
+| Rapier        |   +9   |   1D8 +5 P |  crit: 19-20                  |        |
+| Rapier (off)  |   +9   |   1D8    P |  crit: 19-20                  |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
@@ -62,6 +62,9 @@ Level & XP:__8_________________________________          \/        \/        \/
 |                                                                              |
 | Action Surge [ ] (short rest):                                               |
 |  - One additional action                                                     |
+|                                                                              |
+| Indomitable [ ] (long rest):                                                 |
+|  - re-roll failed saving throw                                               |
 |                                                                              |
 | Defensive Duelist (reaction):                                                |
 |  - whem you are hit by an attack, use reaction to add prof to AC             |
@@ -77,7 +80,7 @@ Level & XP:__8_________________________________          \/        \/        \/
 |               |        |                                            |        |
 +---------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [     5] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [    25] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 |                                                                              |
@@ -131,7 +134,9 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Feat: Defensive Duelist                                                      |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
-|                                                                              |
+| HP: + 11                                                                     |
+| Prof: +1                                                                     |
+| Indomitable:                                                                 |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
 |                                                                              |
