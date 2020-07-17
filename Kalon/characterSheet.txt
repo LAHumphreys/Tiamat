@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__3_________________________________          \/        \/        \/ 
+Level & XP:__4_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
-| Inspiration                    [  ] |  | 19    | |     +4      | |    30     |
+| Inspiration                    [  ] |  | 20    | |     +4      | |    30     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:       31                   |
++-------------------------------------+  | Maximum:       39                   |
 | STRENGTH                  [14] [+2] |  | Modifier:      n/a                  |
-| Saving Throws              [X] [+4] |  | Current:       31                   |
-| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ][ ]       |
+| Saving Throws              [X] [+4] |  | Current:       39                   |
+| Athlethic                  [X] [+4] |  | Hit Dice:      1D10 [ ][ ][ ][ ]    |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
@@ -24,16 +24,16 @@ Level & XP:__3_________________________________          \/        \/        \/
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
-| Arcana                     [ ] [  ] |  |                                     |
-| History                    [X] [+3] |  |                                     |
-| Investigation              [ ] [  ] |  | Languages:                          |
-| Investigation [passive]        (  ) |  |   - Common                          |
-| Nature                     [ ] [  ] |  |   - Elven                           |
-| Religion                   [ ] [  ] |  |   - Dwarfish                        |
-+-------------------------------------+  |                                     |
-| WISDOM                    [ 9] [-1] |  |                                     |
-| Saving Throws              [ ] [-1] |  |                                     |
-| Animal Handling            [ ] [  ] |  |                                     |
+| Arcana                     [ ] [  ] |  | Duel Wielder:                       |
+| History                    [X] [+3] |  |  - +1 to AC when duel wielding      |
+| Investigation              [ ] [  ] |  |  - doesn't need to be light         |
+| Investigation [passive]        (  ) |  |  - can draw or stow two one handed  |
+| Nature                     [ ] [  ] |  |    weapons.                         |
+| Religion                   [ ] [  ] |  |                                     |
++-------------------------------------+  |  Languages:                         |
+| WISDOM                    [ 9] [-1] |  |    - Common                         |
+| Saving Throws              [ ] [-1] |  |    - Elven                          |
+| Animal Handling            [ ] [  ] |  |    - Dwarfish                       |
 | Insight                    [ ] [  ] |  |                                     |
 | Medicine                   [ ] [  ] |  |                                     |
 | Perception                 [ ] [  ] |  |                                     |
@@ -49,6 +49,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
+| Rapier (off)  |   +6   |   1D8    P |  crit: 19-20                  |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
@@ -101,7 +102,8 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
-|                                                                              |
+| HP: + 8                                                                      |
+| Feat: Duel Wielder                                                           |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
 |                                                                              |
