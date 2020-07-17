@@ -3,21 +3,21 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Fighter (Champion)________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__6_________________________________          \/        \/        \/ 
+Level & XP:__7_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
 | Inspiration                    [  ] |  | 20    | |     +4      | |    30     |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:    62                      |
++-------------------------------------+  | Maximum:    68                      |
 | STRENGTH                  [14] [+2] |  | Modifier:   +3                      |
-| Saving Throws              [X] [+5] |  | Current:    62                      |
-| Athlethic                  [X] [+5] |  | Hit Dice:   1D10 [ ][ ][ ][ ][ ][ ] |
+| Saving Throws              [X] [+5] |  | Current:    68                      |
+| Athlethics                 [X] [+5] |  | Hit Dice:   1D10 [ ][ ][ ][ ][ ][ ] |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [20] [+5] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [ ] [+5] |  | Failures                [ ] [ ] [ ] |
+| Saving Throws              [ ] [+7] |  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+8] |  +-------------------------------------+
-| Sleight of Hand            [ ] [  ] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [ ] [  ] |  |                                     |
+| Sleight of Hand            [ ] [+7] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [ ] [+7] |  |                                     |
 +-------------------------------------+  |                                     |
 | CONSTITUTION              [16] [+3] |  |                                     |
 | Saving Throws              [X] [+6] |  | Medium Armor Master                 |
@@ -62,6 +62,10 @@ Level & XP:__6_________________________________          \/        \/        \/
 |                                                                              |
 | Action Surge [ ] (short rest):                                               |
 |  - One additional action                                                     |
+|                                                                              |
+| Remarkable Athlete:                                                          |
+|  - Add half prof to all CON, DEX and STR skills you don't have prof in       |
+|  - Running long jump: distance + [STR] Feet                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 | Half Plate    | 15     | Dex max 2 / stealth: disadv                |        |
@@ -116,7 +120,8 @@ Level & XP:__6_________________________________          \/        \/        \/
 | DEX: +2                                                                      |
 |                                                                              |
 +-Level 7----------------------------------------------------------------------+
-|                                                                              |
+| HP: + 6                                                                     |
+| Remarkable athlete                                                           |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
 |                                                                              |
