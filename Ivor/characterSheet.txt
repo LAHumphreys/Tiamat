@@ -3,21 +3,21 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__8_________________________________          \/        \/        \/ 
+Level & XP:__9_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [ X] |  |    14 | |    +7       | |    55     |
-| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
+| Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
+| Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:  45                        |
 | STRENGTH                  [10] [ 0] |  | Modifier: n/a                       |
-| Saving Throws              [X] [+3] |  | Current:  45                        |
-| Athlethic                  [X] [+3] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Saving Throws              [X] [+4] |  | Current:  45                        |
+| Athlethic                  [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+5] |  +-------------------------------------+
-| Sleight of Hand            [X] [+5] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+5] |  |                                     |
+| Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+6] |  +-------------------------------------+
+| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+6] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
 | Saving Throws              [ ] [ 0] |  |   o Elvish                          |
@@ -29,14 +29,14 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Investigation              [ ] [-1] |  |  Observant:                         |
 | Investigation [passive]        (14) |  |   o Lip Reading                     |
 | Nature                     [ ] [-1] |  |   o +1 WIS                          |
-| Religion                   [X] [+2] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+3] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |  Alert:                             |
 | Animal Handling            [ ] [+2] |  |   o +5 to Initiative                |
-| Insight                    [X] [+5] |  |   o Can't be surprised (concious)   |
-| Medicine                   [X] [+5] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+5] |  |     due to being unseen             |
+| Insight                    [X] [+6] |  |   o Can't be surprised (concious)   |
+| Medicine                   [X] [+6] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+6] |  |     due to being unseen             |
 | Perception [passive]           (20) |  |                                     |
 | Survival                   [ ] [+2] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -48,19 +48,19 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Short Sword   |   +5   |   1D6+2 P  |                               |        |
-| Darts  (19)   |   +5   |   1D4+2 P  | Range: 20 / 60                |        |
-| Hand Axe (3)  |   +5   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Unarmed       |   +5   |   1D6+2 BM |                               |        |
-| Javelin       |   +7   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
-| Dagger        |   +5   |   1D6+2 P  |                               |        |
-| Nunchak (acid)|   +5   |   1D6+2 AM |                               |        |
+| Short Sword   |   +6   |   1D6+2 P  |                               |        |
+| Darts  (19)   |   +6   |   1D4+2 P  | Range: 20 / 60                |        |
+| Hand Axe (3)  |   +6   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
+| Unarmed       |   +6   |   1D6+2 BM |                               |        |
+| Javelin       |   +8   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
+| Dagger        |   +6   |   1D6+2 P  |                               |        |
+| Nunchak (acid)|   +6   |   1D6+2 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                    |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 13                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -76,6 +76,10 @@ Level & XP:__8_________________________________          \/        \/        \/
 |     o Shortswords, Simple melee weapons                                      |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
 |                                                                              |
+| Unarmored movement:                                                          |
+|     o Can move along vertical surfaces and across liquids on your turn       |
+|       without falling during the move                                        |
+|                                                                              |
 | Ki empowered Strikes:                                                        |
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
@@ -89,7 +93,7 @@ Level & XP:__8_________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 10                                        |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                        |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -100,7 +104,7 @@ Level & XP:__8_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 40                                  |
+|     o Reduce fall damange by 5 x [LVL] = 45                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -139,7 +143,7 @@ Level & XP:__8_________________________________          \/        \/        \/
 || - If the dragon is affected by the slow spell, it has disadvantage on all  ||
 ||   attack rolls until the effect ends                                       ||
 |+-Innate Casting-------------------------------------------------------------+|
-|| - Haste (1x day) [X]                                                       ||
+|| - Haste (1x day) [ ]                                                       ||
 |+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
 || Bite       |   +4      |  1D10 +2 P | reach (5ft)                          ||
 || Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
@@ -282,6 +286,12 @@ Level & XP:__8_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o HP +4                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: vertical surfaces                                     |
 |                                                                              |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
