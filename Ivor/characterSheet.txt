@@ -177,6 +177,11 @@ Level & XP:__8_________________________________          \/        \/        \/
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
 |               - 1 of 3: (1: Keilith, 1: Assasin)                             |
 |                                                                              |
+| Book on teleportation magic                                                  |
+| Book on Forumlas for magical potions based on monstrous parts                |
+| Book on Locations of Legendary Artifacts                                     |
+| Journal of the Heroes who defated Tiamat the first time round                |
+|                                                                              |
 | Misc                                                                         |
 |   o Wizard's pipe:                                                           |
 |                                                                              |
@@ -383,6 +388,14 @@ Level & XP:__8_________________________________          \/        \/        \/
 | Azbara jos       | (human) Showed up with the red mask at the haunted castle |
 | Ahan Strongmaster| (Emerald enclave)                                         |
 | Laryn Keenblade  | Defected - Member of cult of the dragon                   |
+| Ella de Balbeck  | (Shop assistant) - Very old, involed in the last attempt  |
+|                  | to bring back Tiamat, where she tricked the heroes into   |
+|                  | trusting here. She betrayed them, but was still eventually|
+|                  | foiled.                                                   |
+| Ivy Darkdraft    | (human) Magician in Lord Froome's company                 |
++-Places    -------+-----------------------------------------------------------+
+|Myr of Dead Men   | - Protected by ancient green dragon                       |
+|                  | -                                                         |
 +------------------+------------------------+---------------+------------------+
 
 
