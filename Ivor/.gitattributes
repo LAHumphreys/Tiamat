@@ -1,0 +1,6 @@
+temples/The[[:space:]]Acid[[:space:]]Temple_Caer[[:space:]]Calidyrr[[:space:]]West.pdf filter=lfs diff=lfs merge=lfs -text
+temples/The[[:space:]]Flame[[:space:]]Temple_The_Sea_Moving_Ice.pdf filter=lfs diff=lfs merge=lfs -text
+temples/The[[:space:]]Poison[[:space:]]Temple_Deep_In_The_High_Forest.pdf filter=lfs diff=lfs merge=lfs -text
+temples/The[[:space:]]Thunder[[:space:]]Temple_The[[:space:]]Plain[[:space:]]of[[:space:]]Standing[[:space:]]Stone.pdf filter=lfs diff=lfs merge=lfs -text
+maps/faerun_fun_Tiamat_temples.jpg filter=lfs diff=lfs merge=lfs -text
+maps/faerun_portal_network.jpg filter=lfs diff=lfs merge=lfs -text
