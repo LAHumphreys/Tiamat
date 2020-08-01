@@ -1,5 +1,5 @@
 BEGIN {
-    FS="D|d|\+|-"
+    FS="D|d|\\+|-"
     RS=" "
     srand()
 }
