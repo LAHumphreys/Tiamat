@@ -59,7 +59,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
+| Ki Points [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -393,6 +393,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 | Camilla          | Brigid                 | Human         | Fighter          |
 | Rachel           | Modar                  | Valdkin       | Rogue            |
 | Rachel           | Kyleth                 |               |                  |
+| Rachel           | Galadan Goldpetal      | Half Elf      |                  |
 |                  |                        |               |                  |
 +-Known NPCs-------+-----------------------------------------------------------+
 | Azbara jos       | (human) Showed up with the red mask at the haunted castle |
@@ -403,9 +404,47 @@ Level & XP:__9_________________________________          \/        \/        \/
 |                  | trusting here. She betrayed them, but was still eventually|
 |                  | foiled.                                                   |
 | Ivy Darkdraft    | (human) Magician in Lord Froome's company                 |
+| Tortrid Knifebellow| (Possed book)                                           |
+| Taryn            | Held in the castle in the Myr of Dead men                 |
+| Talis ????       | Seargent? Cultists report to her at lodge with rezamir    |
+| Tresbin          | Cousin of Blago. Air ship pilot                           |
+| Blagothkus       | Owns Sky reach castle - wife's spirit trapped in the      |
+|                  | castle by cult, used by cult to blackmail him 
++------------------------------------------------------------------------------+
+| Guild of the grey| Golden statues, "men of iron",                            |
+| Mountains        |                                                           |
+| Sandesyl         | Children of <> guide the white dragon                     |
+| Glazhael the Cloudchaser - the ancient white dragon
++-Hunting Lodge----------------------------------------------------------------+
+| Talis ????       | Seargent? Cultists report to her at lodge with rezamir    |
++-Wyrm Speakers of Tiamat------------------------------------------------------+
+|- Rezmir (Black Wyrm Speaker) - currently staying at a hunting lodge a few days travel from here. Carnast - they've charmed a cloud giant called Blagothkus into using the cloud skyreach castle
+|- Galvin (Blue Wyrm Speaker) - Serving under Sevrin Shilzan 
+|- Sevrin (Red Wyrm Speaker) - mask destoryed by his former asistant. High Wizard of the red wizards of the Fae.
+|- Barram (White Wyrm Speaker) - 
+|- [Elf] Neronvain (Yellow Wyrm Speaker) - 
 +-Places    -------+-----------------------------------------------------------+
-|Myr of Dead Men   | - Protected by ancient green dragon                       |
-|                  | -                                                         |
+|Myr of Dead Men   | - Protected by ancient green dragon + Castle Nadir        |
+|Castle Skyreach   | Near the spine of the world. Being used by Rezmir and the |
+|                  | cult to transport gold & human sacrifices for use in the  |
+|                  | ritual to bring back Tiamat.                              |
+|                  | According to blago, lightly defended - but several wizards|
+|                  | of the fae including Azbara & his boss Rath Modar         |
+|Well of Dragons   | Where Tiamate will arise  kkkkkgg                         |
 +------------------+------------------------+---------------+------------------+
 
+All 5 wyrm speakers & her physical body is destroyed before the planary alighment, she'll be trapped forever.
 
+ - Rezmir (Black Wyrm Speaker) - currently staying at a hunting lodge a few days travel from here. Carnast - they've charmed a cloud giant called Blagothkus into using the cloud skyreach castle
+ - Galvin (Blue Wyrm Speaker) - Serving under Sevrin Shilzan 
+ - Sevrin (Red Wyrm Speaker) - mask destoryed by his former asistant. High Wizard of the red wizards of the Fae.
+ - Barram (White Wyrm Speaker) - 
+ - [Elf] Neronvain (Yellow Wyrm Speaker) - 
+
+
+Sevrin: Wizard, holds
+
+
+Boon:
+  - Can no longer be fightened by dragon type creatures
+  - Advantage to intimiadate draconic creatures
