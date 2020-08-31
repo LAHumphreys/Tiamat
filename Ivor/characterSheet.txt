@@ -59,7 +59,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -93,7 +93,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                        |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
 |     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -186,6 +186,8 @@ Level & XP:__9_________________________________          \/        \/        \/
 | Book on Locations of Legendary Artifacts                                     |
 | Journal of the Heroes who defated Tiamat the first time round                |
 |                                                                              |
+| Book: Beyond on the iron gates (book of knoweledge the red wizards were using|
+|       to figure out how to capture Tiamat                                    |
 | Misc                                                                         |
 |   o Wizard's pipe:                                                           |
 |                                                                              |
@@ -417,10 +419,12 @@ Level & XP:__9_________________________________          \/        \/        \/
 | Glazhael the Cloudchaser - the ancient white dragon
 +-Hunting Lodge----------------------------------------------------------------+
 | Talis ????       | Seargent? Cultists report to her at lodge with rezamir    |
++-Dragons ---------+--------+--------------------------------------------------+
+| Glazhael         | White  | (The Cloudchaser)                                |
 +-Wyrm Speakers of Tiamat------------------------------------------------------+
 |- Rezmir (Black Wyrm Speaker) - currently staying at a hunting lodge a few days travel from here. Carnast - they've charmed a cloud giant called Blagothkus into using the cloud skyreach castle
 |- Galvin (Blue Wyrm Speaker) - Serving under Sevrin Shilzan 
-|- Sevrin (Red Wyrm Speaker) - mask destoryed by his former asistant. High Wizard of the red wizards of the Fae.
+|- Sevrin (Red Wyrm Speaker) - mask destoryed by his former asistant. High Wizard of the red wizards of the Fae. Objective is to enslave Tiamat!
 |- Barram (White Wyrm Speaker) - 
 |- [Elf] Neronvain (Yellow Wyrm Speaker) - 
 +-Places    -------+-----------------------------------------------------------+
