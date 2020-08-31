@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__9_________________________________          \/        \/        \/ 
+Level & XP:__10________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    55     |
+| Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:  45                        |
-| STRENGTH                  [10] [ 0] |  | Modifier: n/a                       |
-| Saving Throws              [X] [+4] |  | Current:  45                        |
-| Athlethic                  [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
++-------------------------------------+  | Maximum:  48                        |
+| STRENGTH                  [10] [ 0] |  | Current:  48                        |
+| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [X] [+4] |  |             [ ]                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
@@ -49,10 +49,10 @@ Level & XP:__9_________________________________          \/        \/        \/
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Knuckle duster|   +7   |   1D6+3 BM | Jeweled, purply light         |        |
+| Unarmed       |   +6   |   1D6+2 BM |                               |        |
 | Short Sword   |   +6   |   1D6+2 P  |                               |        |
 | Darts  (19)   |   +6   |   1D4+2 P  | Range: 20 / 60                |        |
 | Hand Axe (3)  |   +6   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Unarmed       |   +6   |   1D6+2 BM |                               |        |
 | Javelin       |   +8   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
 | Dagger        |   +6   |   1D6+2 P  |                               |        |
 | Nunchak (acid)|   +6   |   1D6+2 AM |                               |        |
@@ -60,8 +60,8 @@ Level & XP:__9_________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 2 = 14                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                            |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -94,7 +94,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 12                                       |
 |     o 0 DMG >= Catch the missile: +6 / 1D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -105,7 +105,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 45                                  |
+|     o Reduce fall damange by 5 x [LVL] = 50                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -115,6 +115,10 @@ Level & XP:__9_________________________________          \/        \/        \/
 | Stillness of Mind:                                                           |
 |     o [action] End one effect on yourself that is causing you to be CHARMED  |
 |                or FRIGHTENED                                                 |
+|                                                                              |
+| Purity of Body:                                                              |
+|     o Immunity to disease                                                    |
+|     o Immunity to poison                                                     |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
@@ -298,7 +302,12 @@ Level & XP:__9_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
-|                                                                              |
+|  o HP +3                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Purity of Body                                                            |
+|  o Unarmored Movement: +5ft                                                  |
 |                                                                              |
 +-Level 11---------------------------------------------------------------------+
 |                                                                              |
