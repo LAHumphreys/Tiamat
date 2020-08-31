@@ -95,7 +95,7 @@ Level & XP:__9_________________________________          \/        \/        \/
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
 |     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
-|     o 0 DMG >= Catch the missile: +5 / 2D6 + 2, Range: 20ft / 60ft           |
+|     o 0 DMG >= Catch the missile: +6 / 1D6 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
