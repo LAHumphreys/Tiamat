@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
-Level & XP:__10________________________________          \/        \/        \/ 
+Level & XP:__11________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:  48                        |
-| STRENGTH                  [10] [ 0] |  | Current:  48                        |
++-------------------------------------+  | Maximum:  54                        |
+| STRENGTH                  [10] [ 0] |  | Current:  54                        |
 | Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+4] |  |             [ ]                     |
+| Athlethic                  [X] [+4] |  |             [ ][ ]                  |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
@@ -48,19 +48,19 @@ Level & XP:__10________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Knuckle duster|   +7   |   1D6+3 BM | Jeweled, purply light         |        |
-| Unarmed       |   +6   |   1D6+2 BM |                               |        |
-| Short Sword   |   +6   |   1D6+2 P  |                               |        |
+| Knuckle duster|   +7   |   1D8+3 BM | Jeweled, purply light         |        |
+| Unarmed       |   +6   |   1D8+2 BM |                               |        |
+| Short Sword   |   +6   |   1D8+2 P  |                               |        |
 | Darts  (19)   |   +6   |   1D4+2 P  | Range: 20 / 60                |        |
 | Hand Axe (3)  |   +6   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
 | Javelin       |   +8   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
-| Dagger        |   +6   |   1D6+2 P  |                               |        |
-| Nunchak (acid)|   +6   |   1D6+2 AM |                               |        |
+| Dagger        |   +6   |   1D8+2 P  |                               |        |
+| Nunchak (acid)|   +6   |   1D8+2 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                            |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -72,6 +72,11 @@ Level & XP:__10________________________________          \/        \/        \/
 |     o Prerequisite: In dim light or darkness, can see target                 |
 |     o Target: 60ft, in dim light or darkness                                 |
 |     o Advantage on first melee attack made this turn                         |
+|                                                                              |
+| Cloak of Shadows (action)                                                    |
+|     o Prerequisite: In dim light or darkness                                 |
+|     o You become invisible                                                   |
+|     o Ends: Make an attack, cast a spell or in an area of Bright Light       |
 |                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple melee weapons                                      |
@@ -94,8 +99,8 @@ Level & XP:__10________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 12                                       |
-|     o 0 DMG >= Catch the missile: +6 / 1D6 + 2, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 13                                       |
+|     o 0 DMG >= Catch the missile: +6 / 1D8 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
@@ -105,7 +110,7 @@ Level & XP:__10________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 50                                  |
+|     o Reduce fall damange by 5 x [LVL] = 55                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -257,7 +262,7 @@ Level & XP:__10________________________________          \/        \/        \/
 |  o HP +5                                                                     |
 |  o <prof> +1: skills,WIS sav, STR sav                                        |
 |  o Deflect Missile +1                                                        |
-|  o Martial Arts: 1d6                                                         |
+|  o Martial Arts: 1D6                                                         |
 |  o Extra Attack                                                              |
 |  o Ki Points: +1                                                             |
 |  o Stunning Strike                                                           |
@@ -310,6 +315,12 @@ Level & XP:__10________________________________          \/        \/        \/
 |  o Unarmored Movement: +5ft                                                  |
 |                                                                              |
 +-Level 11---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Deflect Missile +1, 1D6 -> 1D8                                            |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Martial Arts: 1D8                                                         |
+|  o Cloak of Shadows
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
