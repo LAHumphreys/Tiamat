@@ -16,40 +16,40 @@ Level & XP:__4_________________________________          \/        \/        \/
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+6] |  +-------------------------------------+
-| Sleight of Hand            [ ] [  ] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [ ] [  ] |  |                                     |
+| Sleight of Hand            [ ] [+4] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [ ] [+4] |  |                                     |
 +-------------------------------------+  |                                     |
 | CONSTITUTION              [16] [+3] |  |                                     |
 | Saving Throws              [X] [+5] |  | Medium Armor Master                 |
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
-| Arcana                     [ ] [  ] |  | Playing Cards (+2)                  |
+| Arcana                     [ ] [+1] |  | Playing Cards (+2)                  |
 | History                    [X] [+3] |  |                                     |
-| Investigation              [ ] [  ] |  |                                     |
-| Investigation [passive]        (  ) |  |                                     |
-| Nature                     [ ] [  ] |  |                                     |
-| Religion                   [ ] [  ] |  |                                     |
+| Investigation              [ ] [+1] |  |                                     |
+| Investigation [passive]        (11) |  |                                     |
+| Nature                     [ ] [+1] |  |                                     |
+| Religion                   [ ] [+1] |  |                                     |
 +-------------------------------------+  |  Languages:                         |
 | WISDOM                    [ 9] [-1] |  |    - Common                         |
 | Saving Throws              [ ] [-1] |  |    - Elven                          |
-| Animal Handling            [ ] [  ] |  |    - Dwarfish                       |
-| Insight                    [ ] [  ] |  |                                     |
-| Medicine                   [ ] [  ] |  |                                     |
-| Perception                 [ ] [  ] |  |                                     |
-| Perception [passive]           (  ) |  |                                     |
+| Animal Handling            [ ] [-1] |  |    - Dwarfish                       |
+| Insight                    [ ] [-1] |  |                                     |
+| Medicine                   [ ] [-1] |  |                                     |
+| Perception                 [ ] [-1] |  |                                     |
+| Perception [passive]           (14) |  |                                     |
 | Survival                   [ ] [  ] |  |                                     |
 +-------------------------------------+  |                                     |
 | CHARISMA                  [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |                                     |
-| Deception                  [ ] [  ] |  |                                     |
-| Intimidation               [ ] [  ] |  |                                     |
-| Performance                [ ] [  ] |  |                                     |
+| Deception                  [ ] [+2] |  |                                     |
+| Intimidation               [ ] [+2] |  |                                     |
+| Performance                [ ] [+2] |  |                                     |
 | Persuation                 [X] [+4] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
-| Light Crossbow|   +6   |   1D8 +4 P |  crit: 19-20 (20 bolts)       |        |
+| Rapier        |   +6   |   1D8+4 P  |  crit: 19-20                  |        |
+| Light Crossbow|   +6   |   1D8+4 P  |  crit: 19-20 (20 bolts)       |        |
 |               |        |            |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
