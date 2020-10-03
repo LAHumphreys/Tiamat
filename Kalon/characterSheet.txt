@@ -5,7 +5,7 @@ Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Noble ____________________________  /_______  /\_____\ \/_______  /
 Level & XP:__4_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed-----+
-| Inspiration                    [  ] |  | 20    | |     +4      | |    30     |
+| Inspiration                    [  ] |  | 19    | |     +4      | |    30     |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:       39                   |
@@ -24,11 +24,11 @@ Level & XP:__4_________________________________          \/        \/        \/
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
-| Arcana                     [ ] [  ] |  | Duel Wielder:                       |
-| History                    [X] [+3] |  |  - +1 to AC when duel wielding      |
-| Investigation              [ ] [  ] |  |  - doesn't need to be light         |
-| Investigation [passive]        (  ) |  |  - can draw or stow two one handed  |
-| Nature                     [ ] [  ] |  |    weapons.                         |
+| Arcana                     [ ] [  ] |  |                                     |
+| History                    [X] [+3] |  |                                     |
+| Investigation              [ ] [  ] |  |                                     |
+| Investigation [passive]        (  ) |  |                                     |
+| Nature                     [ ] [  ] |  |                                     |
 | Religion                   [ ] [  ] |  |                                     |
 +-------------------------------------+  |  Languages:                         |
 | WISDOM                    [ 9] [-1] |  |    - Common                         |
@@ -49,7 +49,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
-| Rapier (off)  |   +6   |   1D8    P |  crit: 19-20                  |        |
+|               |        |            |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
@@ -88,7 +88,6 @@ Level & XP:__4_________________________________          \/        \/        \/
 | Skills: Acrobatics, Athletics                                                |
 |                                                                              |
 +-Level 1----------------------------------------------------------------------+
-| Feat: Medium Armor Master                                                    |
 | Second Wind                                                                  |
 | Fighting Style: Defense                                                      |
 |                                                                              |
@@ -103,7 +102,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
 | HP: + 8                                                                      |
-| Feat: Duel Wielder                                                           |
+| Feat: Medium Armor Master                                                    |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
 |                                                                              |
