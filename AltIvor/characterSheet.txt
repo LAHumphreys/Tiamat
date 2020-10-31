@@ -3,14 +3,14 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___6________________________________          \/        \/        \/ 
+Level & XP:___8________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  55       |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 38                         |
-| STRENGTH                  [12] [+1] |  | Current: 38                         |
-| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ]   |
++-------------------------------------+  | Maximum: 45                         |
+| STRENGTH                  [12] [+1] |  | Current: 45                         |
+| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athlethic                  [X] [+4] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
@@ -32,11 +32,11 @@ Level & XP:___6________________________________          \/        \/        \/
 | Religion                   [X] [+5] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
-| Saving Throws              [ ] [+3] |  |                                     |
-| Animal Handling            [ ] [+3] |  |                                     |
-| Insight                    [ ] [+3] |  |                                     |
-| Medicine                   [ ] [+3] |  |                                     |
-| Perception                 [X] [+6] |  |                                     |
+| Saving Throws              [ ] [+3] |  |  Alert:                             |
+| Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
+| Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
+| Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+6] |  |     due to being unseen             |
 | Perception [passive]           (21) |  |                                     |
 | Survival                   [X] [+6] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -53,7 +53,7 @@ Level & XP:___6________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 3 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -74,11 +74,11 @@ Level & XP:___6________________________________          \/        \/        \/
 |     o Advantage on first melee attack made this turn                         |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 7 = 20                               |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
 |     o 0 DMG >= Catch the missile: +5 / 1D6 + 3, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 35                                  |
+|     o Reduce fall damange by 5 x [LVL] = 40                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -182,6 +182,11 @@ Level & XP:___6________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 8----------------------------------------------------------------------+
+|  o HP +7                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Feat: Alert                                                               |
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
