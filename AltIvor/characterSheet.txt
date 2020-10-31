@@ -3,14 +3,14 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___2________________________________          \/        \/        \/ 
+Level & XP:___3________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  40       |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 13                         |
-| STRENGTH                  [12] [ 0] |  | Current: 13                         |
-| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ]                  |
++-------------------------------------+  | Maximum: 18                         |
+| STRENGTH                  [12] [ 0] |  | Current: 18                         |
+| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ][ ]               |
 | Athlethic                  [X] [+3] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
@@ -52,13 +52,24 @@ Level & XP:___2________________________________          \/        \/        \/
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 |                                                                              |
-| Ki Points [ ] [ ]                                                            |
+| Ki Points [ ] [ ] [ ]                                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 3 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
 |     o Stunning Strike - after successful mele attack,                        |
 |          - target has CON save --FAIL-> Stunned until end of my next turn    |
+|                                                                              |
+| Shadows Arts                                                                 |
+|     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
+|     o [2 ki Points]: Darkvision (60ft / 8 hours)                             |
+|     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
+|     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
+|     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
+|                                                                              |
+| Deflect Missiles [reaction]                                                  |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 2 = 15                               |
+|     o 0 DMG >= Catch the missile: +6 / 1D8 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -111,6 +122,10 @@ Level & XP:___2________________________________          \/        \/        \/
 |  o Kit Points: 2                                                             |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Ki Points: +1                                                             |
+|  o Deflect Missiles                                                          |
+|  o Way of Shadows: Shadow Arts                                               |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
 |                                                                              |
