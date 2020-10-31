@@ -3,15 +3,15 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___10________________________________          \/        \/        \/ 
+Level & XP:___11________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  60       |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 52                         |
-| STRENGTH                  [12] [+1] |  | Current: 52                         |
++-------------------------------------+  | Maximum: 58                         |
+| STRENGTH                  [12] [+1] |  | Current: 58                         |
 | Saving Throws              [X] [+5] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+5] |  |             [ ][ ]                  |
+| Athlethic                  [X] [+5] |  |             [ ][ ][ ]               |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
@@ -48,12 +48,12 @@ Level & XP:___10________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Unarmed       |   +7   |   1D6+3 BM |                               |        |
+| Unarmed       |   +7   |   1D8+3 BM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                            |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 3 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -72,6 +72,11 @@ Level & XP:___10________________________________          \/        \/        \/
 |     o Prerequisite: In dim light or darkness, can see target                 |
 |     o Target: 60ft, in dim light or darkness                                 |
 |     o Advantage on first melee attack made this turn                         |
+|                                                                              |
+| Cloak of Shadows (action)                                                    |
+|     o Prerequisite: In dim light or darkness                                 |
+|     o You become invisible                                                   |
+|     o Ends: Make an attack, cast a spell or in an area of Bright Light       |
 |                                                                              |
 | Monk Weapons:                                                                |
 |     o Shortswords, Simple melee weapons                                      |
@@ -94,10 +99,10 @@ Level & XP:___10________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 | Deflect Missiles [reaction]                                                  |
 |     o 1D10 + [DEX] + [LVL] = 1D10 + 13                                       |
-|     o 0 DMG >= Catch the missile: +7 / 1D6 + 3, Range: 20ft / 60ft           |
+|     o 0 DMG >= Catch the missile: +7 / 1D8 + 3, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 50                                  |
+|     o Reduce fall damange by 5 x [LVL] = 55                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -241,6 +246,12 @@ Level & XP:___10________________________________          \/        \/        \/
 |  o Unarmored Movement: +5ft                                                  |
 |                                                                              |
 +-Level 11---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Deflect Missile +1, 1D6 -> 1D8                                            |
+|  o Martial Arts: 1D8                                                         |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Cloak of Shadows                                                          |
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
