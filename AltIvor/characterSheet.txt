@@ -3,14 +3,14 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___5________________________________          \/        \/        \/ 
+Level & XP:___6________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 16    | |  +3         | |  50       |
+| Inspiration                    [  ] |  | 16    | |  +3         | |  55       |
 | Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 28                         |
-| STRENGTH                  [12] [+1] |  | Current: 28                         |
-| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ]         |
++-------------------------------------+  | Maximum: 33                         |
+| STRENGTH                  [12] [+1] |  | Current: 33                         |
+| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ]      |
 | Athlethic                  [X] [+4] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
@@ -53,7 +53,7 @@ Level & XP:___5________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ]                                                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ]                                            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 3 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -68,12 +68,17 @@ Level & XP:___5________________________________          \/        \/        \/
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
+| Shadow Step (bonus action):                                                  |
+|     o Prerequisite: In dim light or darkness, can see target                 |
+|     o Target: 60ft, in dim light or darkness                                 |
+|     o Advantage on first melee attack made this turn                         |
+|                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 5 = 18                               |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 6 = 19                               |
 |     o 0 DMG >= Catch the missile: +5 / 1D6 + 3, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 25                                  |
+|     o Reduce fall damange by 5 x [LVL] = 30                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -149,6 +154,13 @@ Level & XP:___5________________________________          \/        \/        \/
 |  o Slow Fall +5                                                              |
 |                                                                              |
 +-Level 6----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Ki Empowered Strikes                                                      |
+|  o Shadow Step                                                               |
 |                                                                              |
 |                                                                              |
 +-Level 7----------------------------------------------------------------------+
