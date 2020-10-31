@@ -3,14 +3,14 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___3________________________________          \/        \/        \/ 
+Level & XP:___4________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 16    | |  +3         | |  40       |
+| Inspiration                    [  ] |  | 16    | |  +3         | |  50       |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 18                         |
-| STRENGTH                  [12] [ 0] |  | Current: 18                         |
-| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ][ ]               |
++-------------------------------------+  | Maximum: 23                         |
+| STRENGTH                  [12] [ 1] |  | Current: 23                         |
+| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ][ ][ ]            |
 | Athlethic                  [X] [+3] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
@@ -39,12 +39,12 @@ Level & XP:___3________________________________          \/        \/        \/
 | Perception                 [X] [+5] |  |                                     |
 | Perception [passive]           (20) |  |                                     |
 | Survival                   [X] [+5] |  |                                     |
-+-------------------------------------+  |                                     |
-| CHARISMA                  [ 6] [-2] |  |                                     |
-| Saving Throws              [ ] [-2] |  |                                     |
-| Deception                  [ ] [-2] |  |                                     |
-| Intimidation               [ ] [-2] |  |                                     |
-| Performance                [ ] [-2] |  |                                     |
++-------------------------------------+  |  Mobile:                            |
+| CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
+| Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
+| Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
+| Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
+| Performance                [ ] [-2] |  |     against this turn.              |
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
@@ -52,7 +52,7 @@ Level & XP:___3________________________________          \/        \/        \/
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 |                                                                              |
-| Ki Points [ ] [ ] [ ]                                                        |
+| Ki Points [ ] [ ] [ ] [ ]                                                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 3 = 13                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -68,8 +68,11 @@ Level & XP:___3________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 2 = 15                               |
-|     o 0 DMG >= Catch the missile: +6 / 1D8 + 2, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 4 = 17                               |
+|     o 0 DMG >= Catch the missile: +5 / 1D4 + 3, Range: 20ft / 60ft           |
+|                                                                              |
+| Slow Fall (reaction):                                                        |
+|     o Reduce fall damange by 5 x [LVL] = 20                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -128,6 +131,11 @@ Level & XP:___3________________________________          \/        \/        \/
 |  o Way of Shadows: Shadow Arts                                               |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall                                                                 |
+|  o Deflect Missile +1                                                        |
+|  o Mobile: mov+10, no opp from attacked opp, dash over diff. terrain         |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
 |                                                                              |
