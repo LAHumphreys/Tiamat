@@ -1,0 +1,194 @@
+Xame:________Ivor______________________________  ________     ____   ________   
+Race:________Urchin____________________________  \______ \   /  _ \  \______ \  
+Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
+Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
+Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
+Level & XP:___1________________________________          \/        \/        \/ 
++-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
+| Inspiration                    [  ] |  | 16    | |  +3         | |  30       |
+| Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 8                          |
+| STRENGTH                  [12] [ 0] |  | Current: 8                          |
+| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ]                     |
+| Athlethic                  [X] [+3] |  |                                     |
++-------------------------------------+  +-Death Saves-------------------------+
+| DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
+| Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+5] |  +-------------------------------------+
+| Sleight of Hand            [X] [+5] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+5] |  |                                     |
++-------------------------------------+  | Languages:                          |
+| CONSTITUTION              [11] [ 0] |  |   o Common                          |
+| Saving Throws              [ ] [ 0] |  |   o Draconic                        |
++-------------------------------------+  |                                     |
+| INTELLIGENCE              [14] [+2] |  | Tools:                              |
+| Saving Throws              [ ] [+2] |  |   o Thieves tools                   |
+| Arcana                     [ ] [+2] |  |   o Disguise Kit                    |
+| History                    [ ] [+2] |  |                                     |
+| Investigation              [X] [+4] |  |  Observant:                         |
+| Investigation [passive]        (19) |  |   o Lip Reading                     |
+| Nature                     [ ] [+2] |  |   o +1 WIS                          |
+| Religion                   [X] [+4] |  |   o +5 passive perception (WIS)     |
++-------------------------------------+  |   o +5 passive Investigation (INT)  |
+| WISDOM                    [16] [+3] |  |                                     |
+| Saving Throws              [ ] [+3] |  |                                     |
+| Animal Handling            [ ] [+3] |  |                                     |
+| Insight                    [ ] [+3] |  |                                     |
+| Medicine                   [ ] [+3] |  |                                     |
+| Perception                 [X] [+5] |  |                                     |
+| Perception [passive]           (20) |  |                                     |
+| Survival                   [X] [+5] |  |                                     |
++-------------------------------------+  |                                     |
+| CHARISMA                  [ 6] [-2] |  |                                     |
+| Saving Throws              [ ] [-2] |  |                                     |
+| Deception                  [ ] [-2] |  |                                     |
+| Intimidation               [ ] [-2] |  |                                     |
+| Performance                [ ] [-2] |  |                                     |
+| Persuasion                 [ ] [-2] |  |                                     |
++-------------------------------------+  +-------------------------------------+
++-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
+| Unarmed       |   +5   |   1D4+3 BM |                               |        |
+|               |        |            |                               |        |
++-Combat Features--------------------------------------------------------------+
+|                                                                              |
++-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
+|               |        |                                            |        |
+----------------+--------+--------------------------------------------+--------+
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
+| PP [      ] | | GP [   10 ] | | EP [       ] | | SP [      ] | | CP [      ] |
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
++-Equipment-----------------------------------------------------------+-Weight-+
+| Urchin:                                                                      |
+|   o A small knife                                                            |
+|   o A map of the city                                                        |
+|   o A pet mouse                                                              |
+|   o TODO: A token to remember his parents                                    |
+|   o A set of common clothes                                                  |
+|                                                                              |
+| Max. Bearing Capacity:                                      Weight:          |
++------------------------------------------------------------------------------+
++-Raw Stats--------------------------------------------------------------------+
+| STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
++-Racial Features--------------------------------------------------------------+
+|  +1 Dex                                                                      |
+|  +1 Wis                                                                      |
+|  +1 Skill (Perception)                                                       |
+|  +1 Language (draconic - monastary)                                          |
+|  +1 Feat (Alert)                                                             |
+|                                                                              |
++-Background Feature-----------------------------------------------------------+
+|  Urchin:                                                                     |
+|   o Sleight of Hande Proficiency                                             |
+|   o Stealth Proficiency                                                      |
+|   o Thieves tools proficiency                                                |
+|   o Disguise kit proficiency                                                 |
++-Class Features---------------------------------------------------------------+
+|  o Simple Weapon Proficiency                                                 |
+|  o Shortsword Proficiency                                                    |
+|  o STR Saving Throws                                                         |
+|  o DEX Saving Throws                                                         |
+|  o Athletics Proficiency                                                     |
+|  o Acrobatics Proficiency                                                    |
+|  o Artisan's Tools - Chronicaler's scribe set                                |
+|                                                                              |
++-Level 1----------------------------------------------------------------------+
+|  o Feat:Skilled:                                                             |
+|     - Religion [monastary]                                                   |
+|     - Investigation [monastary]                                              |
+|     - Survival [monastary / life on the road]                                |
++-Level 2----------------------------------------------------------------------+
+|                                                                              |
++-Level 3----------------------------------------------------------------------+
+|                                                                              |
++-Level 4----------------------------------------------------------------------+
+|                                                                              |
++-Level 5----------------------------------------------------------------------+
+|                                                                              |
++-Level 6----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 7----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 8----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 9----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 10---------------------------------------------------------------------+
+|                                                                              |
++-Level 11---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 12---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 13---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 14---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 15---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 16---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++------------------------------------------------------------------------------+
++-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
+|     35     |   5'8''  |135lbs (61kg) |  brown     |Sun Darkened|  Black      |
++-Appearance-+----------+--------------+------------+------------+-------------+
+|                                                                              |
+|                                                                              |
++-Personality Traits-----------------------------------------------------------+
+| Shy and closed to all but a select few, he will not the less unleash his     |
+| political views if pushed. Ivor has never been close enough to anyone to have|
+| a chance of a romantic relationship                                          |
++-Ideals-----------------------------------------------------------------------+
+| Ivor is basically a leveler. He passionately believes the world order is     |
+| unjust and should be re-made to give all an equal share                      |
++-Bonds------------------------------------------------------------------------+
+| Intensely loyal to his sister, who kept him alive through their years on the |
+| streets.                                                                     |
++-Flaws------------------------------------------------------------------------+
+| A hard life makes Ivor deeply distrustful of new friends. He has no trust of |
+| those with authority / power                                                 |
++-Notes------------------------------------------------------------------------+
+|                                                                              |
+| Standard Actions:                                                            |
+|    o Dash: Movement - 100ft                                                  |
+|    o Disengage: Movement doesn't provoke opp atacks for rest of turn         |
+|    o Dodge: Until start of next turn [Only applies if can see attacker]      |
+|        --> Dex saving throws taken at advantage                              |
+|        --> Attacks made against me are at disadvantage                       |
+|                                                                              |
+|  Stunned:                                                                    |
+|    o Incapacitated (see below)                                               |
+|    o Can't move                                                              |
+|    o Can only speak falteringly                                              |
+|    o Auto fails strength and dex saves                                       |
+|    o Attacks against the creature have advantage                             |
+|                                                                              |
+|  Incapacitated:                                                              |
+|    o Create can't take actions or reactions                                  |
+|                                                                              |
+|  Cover:                                                                      |
+|    o Half cover: +2 AC, +2 DEX saves,                                        |
+|    o 3/4 cover: +5 AC, +5 DEX saves                                          |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++-Known Players----+-Character--------------+-Race----------+-Class------------+
++-Organisations----+-----------------------------------------------------------+
++-Other NPCs-------+-----------------------------------------------------------+
++------------------------------------------------------------------------------+
++-Tiamat Lore  ----------------------------------------------------------------+
++-Artifacts--------+-----------------------------------------------------------+
++-Dragons ---------+--------+--------------------------------------------------+
++-Places-----------+-----------------------------------------------------------+
++------------------+------------------------+---------------+------------------+
