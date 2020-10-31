@@ -5,19 +5,19 @@ Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
 Level & XP:__11________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    14 | |    +7       | |    60     |
+| Inspiration                    [  ] |  |    15 | |    +7       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:  54                        |
-| STRENGTH                  [10] [ 0] |  | Current:  54                        |
++-------------------------------------+  | Maximum:  54+7=61                   |
+| STRENGTH                  [10] [ 0] |  | Current:  54+7=61                   |
 | Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+4] |  |             [ ][ ]                  |
+| Athlethic                  [X] [+4] |  |             [ ][ ][ ]               |
 +-------------------------------------+  +-Death Saves-------------------------+
-| DEXTERITY                 [14] [+2] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+6] |  +-------------------------------------+
-| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+6] |  |                                     |
+| DEXTERITY                 [16] [+3] |  | Successes               [ ] [ ] [ ] |
+| Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+7] |  +-------------------------------------+
+| Sleight of Hand            [X] [+7] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+7] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
 | Saving Throws              [ ] [ 0] |  |   o Elvish                          |
@@ -48,15 +48,15 @@ Level & XP:__11________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Knuckle duster|   +7   |   1D8+3 BM | Jeweled, purply light         |        |
-| Unarmed       |   +6   |   1D8+2 BM |                               |        |
-| Nunchak (acid)|   +6   |   1D8+2 AM |                               |        |
+| Knuckle duster|   +8   |   1D8+4 BM | Jeweled, purply light         |        |
+| Unarmed       |   +7   |   1D8+3 BM |                               |        |
+| Nunchak (acid)|   +7   |   1D8+3 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -102,7 +102,7 @@ Level & XP:__11________________________________          \/        \/        \/
 |     o Can't be surpised whilst cnocious                                      |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 13                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 14                                       |
 |     o 0 DMG >= Catch the missile: +6 / 1D8 + 2, Range: 20ft / 60ft           |
 |                                                                              |
 | Shadows Arts                                                                 |
@@ -113,7 +113,7 @@ Level & XP:__11________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 55                                  |
+|     o Reduce fall damange by 5 x [LVL] = 60                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -329,6 +329,11 @@ Level & XP:__11________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Dexterity +2                                                              |
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
