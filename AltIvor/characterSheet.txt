@@ -160,6 +160,8 @@ Level & XP:___12________________________________          \/        \/        \/
 | PP [      ] | | GP [8000 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
+|   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
+|                                                                              |
 | Urchin:                                                                      |
 |   o A small knife                                                            |
 |   o A map of the city                                                        |
@@ -170,6 +172,14 @@ Level & XP:___12________________________________          \/        \/        \/
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
 |               - 1 of 3: (1: Keilith, 1: Assasin)                             |
+|                                                                              |
+| Book on teleportation magic                                                  |
+| Book on Forumlas for magical potions based on monstrous parts                |
+| Book on Locations of Legendary Artifacts                                     |
+| Journal of the Heroes who defated Tiamat the first time round                |
+|                                                                              |
+| Book: Beyond on the iron gates (book of knoweledge the red wizards were using|
+|       to figure out how to capture Tiamat                                    |
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +------------------------------------------------------------------------------+
