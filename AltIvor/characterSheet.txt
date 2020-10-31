@@ -3,24 +3,24 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___11________________________________          \/        \/        \/ 
+Level & XP:___12________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  60       |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 58                         |
-| STRENGTH                  [12] [+1] |  | Current: 58                         |
++-------------------------------------+  | Maximum: 76                         |
+| STRENGTH                  [12] [+1] |  | Current: 76                         |
 | Saving Throws              [X] [+5] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+5] |  |             [ ][ ][ ]               |
+| Athlethic                  [X] [+5] |  |             [ ][ ][ ][ ]            |
 +-------------------------------------+  +-Death Saves-------------------------+
-| DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+7] |  +-------------------------------------+
-| Sleight of Hand            [X] [+7] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+7] |  |                                     |
+| DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
+| Saving Throws              [X] [+8] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+8] |  +-------------------------------------+
+| Sleight of Hand            [X] [+8] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+8] |  |                                     |
 +-------------------------------------+  | Languages:                          |
-| CONSTITUTION              [11] [ 0] |  |   o Common                          |
-| Saving Throws              [ ] [ 0] |  |   o Draconic                        |
+| CONSTITUTION              [12] [+1] |  |   o Common                          |
+| Saving Throws              [ ] [+1] |  |   o Draconic                        |
 +-------------------------------------+  |                                     |
 | INTELLIGENCE              [14] [+2] |  | Tools:                              |
 | Saving Throws              [ ] [+2] |  |   o Thieves tools                   |
@@ -48,12 +48,12 @@ Level & XP:___11________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Unarmed       |   +7   |   1D8+3 BM |                               |        |
+| Unarmed       |   +8   |   1D8+4 BM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 3 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -96,13 +96,14 @@ Level & XP:___11________________________________          \/        \/        \/
 |                                                                              |
 | Ambush / sneak attacks:                                                      |
 |     o Opponents cannot gain advantage from being unseen                      |
-|     o Can't be surpised whilst cnocious                                      |
+|     o Can't be surprised whilst concious                                     |
+|                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 13                                       |
-|     o 0 DMG >= Catch the missile: +7 / 1D8 + 3, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 16                                       |
+|     o 0 DMG >= Catch the missile: +8 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 55                                  |
+|     o Reduce fall damange by 5 x [LVL] = 60                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -255,6 +256,12 @@ Level & XP:___11________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 12---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Dexterity +1                                                              |
+|  o Constitution +1 -> HP+12                                                  |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
