@@ -3,14 +3,14 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___1________________________________          \/        \/        \/ 
+Level & XP:___2________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 16    | |  +3         | |  30       |
+| Inspiration                    [  ] |  | 16    | |  +3         | |  40       |
 | Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 8                          |
-| STRENGTH                  [12] [ 0] |  | Current: 8                          |
-| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ]                     |
++-------------------------------------+  | Maximum: 13                         |
+| STRENGTH                  [12] [ 0] |  | Current: 13                         |
+| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ]                  |
 | Athlethic                  [X] [+3] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
@@ -51,6 +51,14 @@ Level & XP:___1________________________________          \/        \/        \/
 | Unarmed       |   +5   |   1D4+3 BM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
+|                                                                              |
+| Ki Points [ ] [ ]                                                            |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 3 = 13                           |
+|     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
+|     o Patient Defence - take Dodge has a bonus action                        |
+|     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
+|     o Stunning Strike - after successful mele attack,                        |
+|          - target has CON save --FAIL-> Stunned until end of my next turn    |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -98,6 +106,9 @@ Level & XP:___1________________________________          \/        \/        \/
 |     - Investigation [monastary]                                              |
 |     - Survival [monastary / life on the road]                                |
 +-Level 2----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Unarmored Movement + 10ft                                                 |
+|  o Kit Points: 2                                                             |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
 |                                                                              |
