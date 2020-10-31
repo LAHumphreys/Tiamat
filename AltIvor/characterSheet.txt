@@ -3,21 +3,21 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___4________________________________          \/        \/        \/ 
+Level & XP:___5________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  50       |
-| Proficiency Bonus              [+2] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [20] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 23                         |
-| STRENGTH                  [12] [ 1] |  | Current: 23                         |
-| Saving Throws              [X] [+3] |  | Hit Dice: D8[ ][ ][ ][ ]            |
-| Athlethic                  [X] [+3] |  |                                     |
+| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 28                         |
+| STRENGTH                  [12] [+1] |  | Current: 28                         |
+| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ]         |
+| Athlethic                  [X] [+4] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+5] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+5] |  +-------------------------------------+
-| Sleight of Hand            [X] [+5] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+5] |  |                                     |
+| Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+6] |  +-------------------------------------+
+| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+6] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
 | Saving Throws              [ ] [ 0] |  |   o Draconic                        |
@@ -26,19 +26,19 @@ Level & XP:___4________________________________          \/        \/        \/
 | Saving Throws              [ ] [+2] |  |   o Thieves tools                   |
 | Arcana                     [ ] [+2] |  |   o Disguise Kit                    |
 | History                    [ ] [+2] |  |                                     |
-| Investigation              [X] [+4] |  |  Observant:                         |
-| Investigation [passive]        (19) |  |   o Lip Reading                     |
+| Investigation              [X] [+5] |  |  Observant:                         |
+| Investigation [passive]        (20) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
-| Religion                   [X] [+4] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+5] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
 | Saving Throws              [ ] [+3] |  |                                     |
 | Animal Handling            [ ] [+3] |  |                                     |
 | Insight                    [ ] [+3] |  |                                     |
 | Medicine                   [ ] [+3] |  |                                     |
-| Perception                 [X] [+5] |  |                                     |
-| Perception [passive]           (20) |  |                                     |
-| Survival                   [X] [+5] |  |                                     |
+| Perception                 [X] [+6] |  |                                     |
+| Perception [passive]           (21) |  |                                     |
+| Survival                   [X] [+6] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
 | Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
@@ -48,12 +48,13 @@ Level & XP:___4________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Unarmed       |   +5   |   1D4+3 BM |                               |        |
+| Unarmed       |   +6   |   1D6+3 BM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
+| Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ]                                                    |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 2 + 3 = 13                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ]                                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 3 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -68,11 +69,11 @@ Level & XP:___4________________________________          \/        \/        \/
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 4 = 17                               |
-|     o 0 DMG >= Catch the missile: +5 / 1D4 + 3, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 3 + 5 = 18                               |
+|     o 0 DMG >= Catch the missile: +5 / 1D6 + 3, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 20                                  |
+|     o Reduce fall damange by 5 x [LVL] = 25                                  |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -138,6 +139,14 @@ Level & XP:___4________________________________          \/        \/        \/
 |  o Mobile: mov+10, no opp from attacked opp, dash over diff. terrain         |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o <prof> +1: skills,WIS sav, STR sav                                        |
+|  o Extra Attack                                                              |
+|  o Martial Arts: 1D6                                                         |
+|  o Stunning Strike                                                           |
+|  o Slow Fall +5                                                              |
 |                                                                              |
 +-Level 6----------------------------------------------------------------------+
 |                                                                              |
