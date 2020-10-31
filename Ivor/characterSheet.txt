@@ -5,7 +5,7 @@ Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Hermit____________________________  /_______  /\_____\ \/_______  /
 Level & XP:__11________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |    15 | |    +7       | |    60     |
+| Inspiration                    [  ] |  |    15 | |    +8       | |    60     |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum:  54+7=61                   |
@@ -56,7 +56,7 @@ Level & XP:__11________________________________          \/        \/        \/
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
+| Ki Points [X] [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 2 = 14                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -67,9 +67,24 @@ Level & XP:__11________________________________          \/        \/        \/
 | Rod of Mind Control [DC15 per day]                                           |
 |     o Stolen for from a mind flayer in Lich's castle                         |
 |     o Charm person [ ] [ ] [ ] [ ] [ ]                                       |
+|       - 1 creature, Range 30ft, 1 hour (or you or your companions harm it)   |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - The creature regards you as a friendly aquaintance                   |
 |     o Calm Emotions [ ] [ ] [ ]                                              |
+|       - Range 60ft , 1 hour (or until you or your companions harm it)        |
+|       - All humanoids, 20ft radius sphere                                    |
+|       - CHA saving throw DC15 (creature may elect to fail it)                |
+|       - Choose one:                                                          |
+|       ---> Supress any affect causing the target to be charmed or frightened |
+|       ---> Target is indifferent about creatures of your choice              |
 |     o Charm Monster [ ]                                                      |
-|     o Dominate Person [ ]                                                    |
+|       - Range 30ft , 1 hour (or until you or your companions harm it)        |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - The charmed creature is friendly towards you                         |
+|     o Dominate Person [X]                                                    |
+|       - Range 60ft , 1 min (conc.)                                           |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - While the target is charmed, you have a telepathic link 	       |
 |                                                                              |
 | Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
@@ -177,7 +192,7 @@ Level & XP:__11________________________________          \/        \/        \/
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [      ] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [ 8000 ] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 |   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
