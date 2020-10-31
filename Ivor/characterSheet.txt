@@ -24,7 +24,7 @@ Level & XP:__11________________________________          \/        \/        \/
 +-------------------------------------+  |   o Draconic (Read & Write only)    |
 | INTELLIGENCE              [ 9] [-1] |  |                                     |
 | Saving Throws              [ ] [-1] |  | Tools:                              |
-| Arcana                     [ ] [-1] |  |   o Herbalism Kit                   |
+| Arcana  +1                 [ ] [ 0] |  |   o Herbalism Kit                   |
 | History                    [ ] [-1] |  |                                     |
 | Investigation              [ ] [-1] |  |  Observant:                         |
 | Investigation [passive]        (14) |  |   o Lip Reading                     |
@@ -50,15 +50,11 @@ Level & XP:__11________________________________          \/        \/        \/
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Knuckle duster|   +7   |   1D8+3 BM | Jeweled, purply light         |        |
 | Unarmed       |   +6   |   1D8+2 BM |                               |        |
-| Short Sword   |   +6   |   1D8+2 P  |                               |        |
-| Darts  (19)   |   +6   |   1D4+2 P  | Range: 20 / 60                |        |
-| Hand Axe (3)  |   +6   |   1D6+2 S  | Range: 20 / 60 [ ] [ ] [ ]    |        |
-| Javelin       |   +8   |   1D6+4 P  | Range: 30 / 120 [ ]           |        |
-| Dagger        |   +6   |   1D8+2 P  |                               |        |
 | Nunchak (acid)|   +6   |   1D8+2 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
+|                                                                              |
 |                                                                              |
 | Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 2 = 14                           |
@@ -67,6 +63,13 @@ Level & XP:__11________________________________          \/        \/        \/
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
 |     o Stunning Strike - after successful mele attack,                        |
 |          - target has CON save --FAIL-> Stunned until end of my next turn    |
+|                                                                              |
+| Rod of Mind Control [DC15 per day]                                           |
+|     o Stolen for from a mind flayer in Lich's castle                         |
+|     o Charm person [ ] [ ] [ ] [ ] [ ]                                       |
+|     o Calm Emotions [ ] [ ] [ ]                                              |
+|     o Charm Monster [ ]                                                      |
+|     o Dominate Person [ ]                                                    |
 |                                                                              |
 | Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
@@ -174,26 +177,15 @@ Level & XP:__11________________________________          \/        \/        \/
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [   345] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [      ] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
-| Explorer's Pack:                                                             |
-|   o Backpack                                                                 |
-|   o Bedroll                                                                  |
-|   o Mess kit                                                                 |
-|   o Tinderbox                                                                |
-|   o Torches [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
-|   o Rations [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                          |
-|   o Water Skin                                                               |
-|   o 50ft Hemp Rope                                                           |
-|   o Healing potion [ ] [ ] (2d4 +2)                                          |
 |   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
+|   o Portion of possibility (8 hours) [ ] [ ]                                 |
 |                                                                              |
 | Hermit:                                                                      |
 |   o Research notes on the cult                                               |
 |   o Letter instructing assistance from the head of the Order                 |
-|   o Winter Blanket                                                           |
-|   o Herbalism Kit                                                            |
 |                                                                              |
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
@@ -219,6 +211,11 @@ Level & XP:__11________________________________          \/        \/        \/
 |  +1 Feat (Alert)                                                             |
 |                                                                              |
 +-Background Feature-----------------------------------------------------------+
+|  o The Arcane arts for Dummys                                                |
+|     - Found in the library of the Litch we banished to another plane         |
+|     - +1 to Arcane                                                           |
+|     - One cantrip: Prestigitation                                            |
+|                                                                              |
 |  o Hermit Background:                                                        |
 |     - Medicine Proficiency                                                   |
 |     - Religion Proficiency                                                   |
@@ -424,7 +421,7 @@ Level & XP:__11________________________________          \/        \/        \/
 | Rachel           | Modar                  | Valdkin       | Rogue            |
 | Rachel           | Kyleth                 |               | Druid(ish?)      |
 | Rachel           | Galadan Goldpetal      | Half Elf      | Sorcerer         |
-| Rachel           | ???????????????????    | ?????????     | Artificer        |
+| Rachel           | Beth                   | ?????????     | Artificer        |
 |                  |                        |               |                  |
 +-Organisations----+-----------------------------------------------------------+
 | Order of Gauntlet- Led by Lord Frume. The order of Paladins is working to    |
@@ -455,7 +452,7 @@ Level & XP:__11________________________________          \/        \/        \/
 | Galvin     | Blue   - Serving under Sevrin Shilzan                           |
 | Varram     | White  - Replaced Talis, after she was thrown out for leaking   |
 | [Dwarf]    |        | info to Ella.                                          |
-| Neronvain  | Yellow -                                                        |
+| Neronvain  | Yellow - Broke the dragon bane sword over knee!                 |
 | [Elf]      |        |                                                        |
 +-Other Members of the cult ---------------------------------------------------+
 | Talis [Dead?]    - Former white Wyrm Speaker, but remained loyal to Ella     |
