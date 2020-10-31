@@ -3,21 +3,21 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
-Level & XP:___8________________________________          \/        \/        \/ 
+Level & XP:___9________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 16    | |  +3         | |  55       |
-| Proficiency Bonus              [+3] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [21] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 45                         |
-| STRENGTH                  [12] [+1] |  | Current: 45                         |
-| Saving Throws              [X] [+4] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+4] |  |                                     |
+| Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 49                         |
+| STRENGTH                  [12] [+1] |  | Current: 49                         |
+| Saving Throws              [X] [+5] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athlethic                  [X] [+5] |  |             [ ]                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [17] [+3] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+6] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+6] |  +-------------------------------------+
-| Sleight of Hand            [X] [+6] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+6] |  |                                     |
+| Saving Throws              [X] [+7] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+7] |  +-------------------------------------+
+| Sleight of Hand            [X] [+7] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+7] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [11] [ 0] |  |   o Common                          |
 | Saving Throws              [ ] [ 0] |  |   o Draconic                        |
@@ -26,18 +26,18 @@ Level & XP:___8________________________________          \/        \/        \/
 | Saving Throws              [ ] [+2] |  |   o Thieves tools                   |
 | Arcana                     [ ] [+2] |  |   o Disguise Kit                    |
 | History                    [ ] [+2] |  |                                     |
-| Investigation              [X] [+5] |  |  Observant:                         |
-| Investigation [passive]        (20) |  |   o Lip Reading                     |
+| Investigation              [X] [+6] |  |  Observant:                         |
+| Investigation [passive]        (21) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
-| Religion                   [X] [+5] |  |   o +5 passive perception (WIS)     |
+| Religion                   [X] [+6] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
 | Saving Throws              [ ] [+3] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+6] |  |     due to being unseen             |
-| Perception [passive]           (21) |  |                                     |
+| Perception                 [X] [+7] |  |     due to being unseen             |
+| Perception [passive]           (22) |  |                                     |
 | Survival                   [X] [+6] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
@@ -48,13 +48,13 @@ Level & XP:___8________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Unarmed       |   +6   |   1D6+3 BM |                               |        |
+| Unarmed       |   +7   |   1D6+3 BM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                    |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 3 + 3 = 14                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 3 = 15                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -73,12 +73,31 @@ Level & XP:___8________________________________          \/        \/        \/
 |     o Target: 60ft, in dim light or darkness                                 |
 |     o Advantage on first melee attack made this turn                         |
 |                                                                              |
+| Monk Weapons:                                                                |
+|     o Shortswords, Simple melee weapons                                      |
+|     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
+|                                                                              |
+| Unarmored movement:                                                          |
+|     o Can move along vertical surfaces and across liquids on your turn       |
+|       without falling during the move                                        |
+|                                                                              |
+| Ki empowered Strikes:                                                        |
+|     o Fists count as magical for the purpose of overcoming resistance /      |
+|       immunity to nonmagical attacks / damage                                |
+|                                                                              |
+| Death Ward (long rest): [ ]                                                  |
+|     o If would reduce to 0, reduce to 1 instead                              |
+|     o If an effect would kill instantaneously, it is negated                 |
+|                                                                              |
+| Ambush / sneak attacks:                                                      |
+|     o Opponents cannot gain advantage from being unseen                      |
+|     o Can't be surpised whilst cnocious                                      |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 11                                       |
-|     o 0 DMG >= Catch the missile: +5 / 1D6 + 3, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 12                                       |
+|     o 0 DMG >= Catch the missile: +7 / 1D6 + 3, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 40                                  |
+|     o Reduce fall damange by 5 x [LVL] = 45                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -102,6 +121,10 @@ Level & XP:___8________________________________          \/        \/        \/
 |   o A pet mouse                                                              |
 |   o TODO: A token to remember his parents                                    |
 |   o A set of common clothes                                                  |
+|                                                                              |
+| Combat:                                                                      |
+|   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
+|               - 1 of 3: (1: Keilith, 1: Assasin)                             |
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +------------------------------------------------------------------------------+
@@ -190,6 +213,12 @@ Level & XP:___8________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 9----------------------------------------------------------------------+
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o HP +4                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: vertical surfaces                                     |
 |                                                                              |
 |                                                                              |
 +-Level 10---------------------------------------------------------------------+
