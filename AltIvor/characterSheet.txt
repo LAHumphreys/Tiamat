@@ -48,7 +48,9 @@ Level & XP:___12________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
+| Knuckle duster|   +9   |   1D8+5 BM | Jeweled, purply light         |        |
 | Unarmed       |   +8   |   1D8+4 BM |                               |        |
+| Nunchak (acid)|   +8   |   1D8+4 AM |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
@@ -125,11 +127,37 @@ Level & XP:___12________________________________          \/        \/        \/
 |     they were annointed successors to the previous heroes after escaping     |
 |     dragonspear castle                                                       |
 |                                                                              |
+| Rod of Mind Control [DC15 per day]                                           |
+|     o Stolen for from a mind flayer in Lich's castle                         |
+|     o Charm person [ ] [ ] [ ] [ ] [ ]                                       |
+|       - 1 creature, Range 30ft, 1 hour (or you or your companions harm it)   |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - The creature regards you as a friendly aquaintance                   |
+|     o Calm Emotions [ ] [ ] [ ]                                              |
+|       - Range 60ft , 1 hour (or until you or your companions harm it)        |
+|       - All humanoids, 20ft radius sphere                                    |
+|       - CHA saving throw DC15 (creature may elect to fail it)                |
+|       - Choose one:                                                          |
+|       ---> Supress any affect causing the target to be charmed or frightened |
+|       ---> Target is indifferent about creatures of your choice              |
+|     o Charm Monster [ ]                                                      |
+|       - Range 30ft , 1 hour (or until you or your companions harm it)        |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - The charmed creature is friendly towards you                         |
+|     o Dominate Person [ ]                                                    |
+|       - Range 60ft , 1 min (conc.)                                           |
+|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
+|       - Each time the target takes damage -> new saving throw                |
+|       - Target is charmed, you have a telepathic link whilst on same plane   |
+|       - With link can specify a specifc / general course of action           |
+|       - [action] Take total and precise control of target: you control its   |
+|                  action, movement etc. Reaction uses up your reaction.       |
+|                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [   10 ] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [8000 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 | Urchin:                                                                      |
@@ -323,11 +351,138 @@ Level & XP:___12________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Known Players----+-Character--------------+-Race----------+-Class------------+
+| Zoe              | Selina                 | Cedar         | Druid            |
+| Zoe              | Notan                  | ??????        | Wizard           |
+| Michael          | Seul (War forge)       | War Forged    | Artificer        |
+| Michael          | Basil                  | Tiefling      | Artificer        |
+| Michael          | Snow Puff              | Tabaxi        | Arcane Archer    |
+| James            | John Oak Leaf          | Half Elf      | Arcane Archer    |
+| Camilla          | Brigid                 | Human         | Fighter          |
+| Rachel           | Modar                  | Valdkin       | Rogue            |
+| Rachel           | Kyleth                 |               | Druid(ish?)      |
+| Rachel           | Galadan Goldpetal      | Half Elf      | Sorcerer         |
+| Rachel           | Beth                   | ?????????     | Artificer        |
+|                  |                        |               |                  |
 +-Organisations----+-----------------------------------------------------------+
+| Order of Gauntlet- Led by Lord Frume. The order of Paladins is working to    |
+|                  | defeat the cult.                                          |
+|                  - See old alliance                                          |
+| Hapers           | A political organisation (disidents?) with agents also    |
+|                  | working to defat the cult. Allied with the Gauntlet.      |
+|                  - See old alliance                                          |
+| Cult             - Led by Severin, who's allied it with the Fay wizards      |
+|                  - Severin plans to assemble all 5 masks, and bring Tiamat,  |
+|                  | into this world to rule it                                |
+|                  - See old alliance                                          |
+| Emerald Enclave  - ??? Working with Harpers & Gauntlet to defeat the cult    |
+| Old Alliance     - Once there was a balance between the 3 orgs, between them |
+|                  | they protected the world from super-natural threats.      |
+| Red Wizards      | Led by Rath Modar, have a secret plan to enslave Tiamat by|
+|                  | destroying all of the masks and performing a complex      |
+|                  | ritual                                                    |
++-Wyrm Speakers of Tiamat------------------------------------------------------+
+| Rezmir     | Black  - Basil burned black mask onto her face (Bolders Gate)   |
+| [Human]    |        - Retreated to the hunting lodge (Carnast) to recover    |
+|            |        - Slain at skyreach castle lodge by the party, at the    |
+|            |        | of Seline's life                                       |
+| Sevrin     | Red    - Mask destroyed by his former assistant (Azbara jos)    |
+
+| [Human]    |        - Has formed alliance with Rath Modar's Wizards          |
+|            |        - Objective now to enslave Tiamat!                       |
+| Galvin     | Blue   - Serving under Sevrin Shilzan                           |
+| Varram     | White  - Replaced Talis, after she was thrown out for leaking   |
+| [Dwarf]    |        | info to Ella.                                          |
+| Neronvain  | Yellow - Broke the dragon bane sword over knee!                 |
+| [Elf]      |        |                                                        |
++-Other Members of the cult ---------------------------------------------------+
+| Talis [Dead?]    - Former white Wyrm Speaker, but remained loyal to Ella     |
+|                  | after she was deposed. Replaced as White Wyrmspeaker by   |
+|                  | Verram after she was caught leaking information.          |
+|                  - Helped the rest of the party break back into skyreach     |
+|                  | castle, in exchange for being given the white mask        |
+|                  - Lost a fight with Rezamir, being thrown unconcious out of |
+|                  - Rezamair's window before the final fight.                 |
+|                  - After taking the castle those members who made the        |
+|                  | agreement did hand over the mask, but not before Dan      |
+|                  | polymorphed her into a hamster. 
+|                  - She was dropped off of the side of Skyreach castle in     |
+|                  | hamster form                                              |
++-Members of Red Wizards of the Fay--------------------------------------------+
+| Rath Modar       - Leader of the wizards trying to enslave Tiamat            | 
+| Azbara Jos       - Destroyed the red mask at dragonspear castle              | 
++-Members of Order of the Gauntlet---------------------------------------------+
+| Lord Frume       - Leader of the wizards trying to enslave Tiamat            | 
+| Ivy Darkdraft    - (human) Magician in Lord Froome's company                 |
+| --> Elissa       - Revealed to be Ivor's elder sister                        |
+|                  - After fighting with the party to take skyreach, currently |
+|                  | looking after the castle                                  |
++-Members of the Harpers-------------------------------------------------------+
+| Leosin           - Monk, friend and rival of Ivor. Notorious phillanderer.   | 
+|                  | Summoned the party to <> for the council                  | 
+| Neosin           - Monk, wife of Leosin. Faught with the party at dragonspear|
+|                  | castle                                                    | 
+| Ella de Balbeck  - Very old, involed in the last attempt                     |
+|                  | to bring back Tiamat, where she tricked the heroes into   |
+|                  | trusting here. She betrayed them, but was still eventually|
+|                  | foiled.                                                   |
+|                  - Former leader of the cult before being deposed by Rath &  |
+|                  | Severin)                                                  |
+|                  - Gave the party 2 death ward coins, which were secretly    |
+|                  | cursed, allowing her to track the party (and potentially  |
+|                  | worse when the coin triggered). The curse was removed by  |
+|                  | Elissa after skyreach was taken.
++-Members of Order of the Emerald Enclave--------------------------------------+
+| Ahan Strongmaster| (Emerald enclave)                                         |
 +-Other NPCs-------+-----------------------------------------------------------+
+| Laryn Keenblade  | Defected - Member of cult of the dragon who party help    |
+|                  | escape from the caravan before Dragonspere                |
+| Tortrid Knifebellow| (Possed book)                                           |
+| Taryn            | Held in the castle in the Myr of Dead men                 |
+| Tresbin          | Cousin of Blago. Air ship pilot                           |
+| Blagothkus       | Owns Sky reach castle - wife's spirit trapped in the      |
+|                  | castle by cult, used by cult to blackmail him 
+| Esclarotta       | Balgothkus' wife - trapped in a gem by Rath Modar         |
 +------------------------------------------------------------------------------+
+| Guild of the grey| Golden statues, "men of iron",                            |
+| Mountains        |                                                           |
+| Sandesyl         | Children of <> guide the white dragon                     |
 +-Tiamat Lore  ----------------------------------------------------------------+
+| - Planar alighment every 555 years, with her chance to break into our plane  |
+| - Trap forever: Kill all 5 Wyrm Speakers & destroy her physical body         |
+| - Enslave     : Red Wizards ritual achieved after destroying all 5 masks     |
+| - 5 Faces: Fire (R), Ice (W), Acid (Bk), Lightning (Y), Poision (G)          |
+| - 5 cataclysms:                                                              |
+|        Acid: The boiling Tradeways of Men (Bolder's get harbour was boiling  |
+|              acid until the party slew Rezamir)                              |
+|        ???:  The Night the Sun Arises (The sun rises at night in Bolder's    |
+|              gate after we rescue the dragon in Tiamat's temple)             |
+|        Ice:  The Ocean's Edge of Winter                                      |
+|        ???:  The Crystal of the God's Wrath                                  |
+|        Pois: The Blight of flesh, bone and harvest                           |
 +-Artifacts--------+-----------------------------------------------------------+
+| - Drakkenhorn    - Summons all dragons in the faerun to render aid           |
+|                  - In possession of the red wizards                          |
+|                  - Severin used a wish spell to remove all knoweldge of it   |
+|                  | from the world.                                           |
+| - Red Mask       - Destroyed, party holds two halfs                          |
+| - Blank Mask     - Party defeated Rezamir, currently holds the mask          |
+| - White Mask     - Party Captured the mask from under the clutches of the    |
+|                  | dragon                                                    |
 +-Dragons ---------+--------+--------------------------------------------------+
+| Glazhael         | White  | (The Cloudchaser) - Guards Parnast & the lodge   |
+| Alysynca (slain) | White  | (The devourer) - Ancient, > 5,000 years old      |
+|                  |        | Former consort of Tiarmat                        |
+|                  |        | Fought in the Giant / Dragon war                 |
+|                  |        | "Final duty" was to guard the hoard in skyreach  |
+|                  |        | Slain by the party (fireball 'up the arse')      |
 +-Places-----------+-----------------------------------------------------------+
+|Myr of Dead Men   | - Protected by ancient green dragon + Castle Nadir        |
+|Castle Skyreach   | Near the spine of the world. Being used by Rezmir and the |
+|                  | cult to transport gold & human sacrifices for use in the  |
+|                  | ritual to bring back Tiamat.                              |
+|                  | According to blago, lightly defended - but several wizards|
+|                  | of the fae including Azbara & his boss Rath Modar         |
+|                  | The party now control it, after their second attempt at   |
+|                  | storming it                                               |
+|Well of Dragons   | Where Tiamate will arise                                  |
 +------------------+------------------------+---------------+------------------+
