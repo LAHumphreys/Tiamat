@@ -5,7 +5,7 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
 Level & XP:___12________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 16    | |  +3         | |  60       |
+| Inspiration                    [  ] |  | 17    | |  +9         | |  60       |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 76                         |
@@ -38,7 +38,7 @@ Level & XP:___12________________________________          \/        \/        \/
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+7] |  |     due to being unseen             |
 | Perception [passive]           (22) |  |                                     |
-| Survival                   [X] [+6] |  |                                     |
+| Survival                   [X] [+7] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
 | Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
@@ -51,6 +51,7 @@ Level & XP:___12________________________________          \/        \/        \/
 | Knuckle duster|   +9   |   1D8+5 BM | Jeweled, purply light         |        |
 | Unarmed       |   +8   |   1D8+4 BM |                               |        |
 | Nunchak (acid)|   +8   |   1D8+4 AM |                               |        |
+| Small Knife   |   +8   |   1D8+4 S  |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
@@ -166,6 +167,12 @@ Level & XP:___12________________________________          \/        \/        \/
 |       - [action] Take total and precise control of target: you control its   |
 |                  action, movement etc. Reaction uses up your reaction.       |
 |                                                                              |
++-Non-Combat Features----------------------------------------------------------+
+| City Secrets [Not in combat]                                                 |
+|     o You know the secret pattersn and flow to cities and can find passages  |
+|       through the urban sprawl that others would miss.                       |
+|     o You (and companions you lead) can travel between any two locations in  |
+|       the city twice as fast as your speed would normally allow              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
@@ -178,7 +185,6 @@ Level & XP:___12________________________________          \/        \/        \/
 | Urchin:                                                                      |
 |   o A small knife                                                            |
 |   o A map of the city                                                        |
-|   o A pet mouse                                                              |
 |   o TODO: A token to remember his parents                                    |
 |   o A set of common clothes                                                  |
 |                                                                              |
