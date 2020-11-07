@@ -2,7 +2,7 @@ Xame:________Ivor______________________________  ________     ____   ________
 Race:________Urchin____________________________  \______ \   /  _ \  \______ \  
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
-Background:__Urchin____________________________  /_______  /\_____\ \/_______  /
+Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___12________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 17    | |  +9         | |  60       |
@@ -11,7 +11,7 @@ Level & XP:___12________________________________          \/        \/        \/
 +-------------------------------------+  | Maximum: 76                         |
 | STRENGTH                  [12] [+1] |  | Current: 76                         |
 | Saving Throws              [X] [+5] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athlethic                  [X] [+5] |  |             [ ][ ][ ][ ]            |
+| Athletics                  [X] [+5] |  |             [ ][ ][ ][ ]            |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+8] |  | Failures                [ ] [ ] [ ] |
@@ -21,15 +21,15 @@ Level & XP:___12________________________________          \/        \/        \/
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
 | Saving Throws              [ ] [+1] |  |   o Draconic                        |
-+-------------------------------------+  |                                     |
-| INTELLIGENCE              [14] [+2] |  | Tools:                              |
-| Saving Throws              [ ] [+2] |  |   o Thieves tools                   |
-| Arcana (+1)                [/] [+3] |  |   o Disguise Kit                    |
-| History                    [ ] [+2] |  |                                     |
++-------------------------------------+  |   o Dwarven
+| INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
+| Saving Throws              [ ] [+2] |  |                                     |
+| Arcana (+1)                [/] [+3] |  |                                     |
+| History                    [X] [+6] |  |                                     |
 | Investigation              [X] [+6] |  |  Observant:                         |
 | Investigation [passive]        (21) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
-| Religion                   [X] [+6] |  |   o +5 passive perception (WIS)     |
+| Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
 | Saving Throws              [ ] [+3] |  |  Alert:                             |
@@ -168,11 +168,9 @@ Level & XP:___12________________________________          \/        \/        \/
 |                  action, movement etc. Reaction uses up your reaction.       |
 |                                                                              |
 +-Non-Combat Features----------------------------------------------------------+
-| City Secrets [Not in combat]                                                 |
-|     o You know the secret pattersn and flow to cities and can find passages  |
-|       through the urban sprawl that others would miss.                       |
-|     o You (and companions you lead) can travel between any two locations in  |
-|       the city twice as fast as your speed would normally allow              |
+| Researcher                                                                   |
+|     o When you attempt to learn or recall a piece of lore, if you don't know |
+|       you often know where / whom to go to get the information
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
@@ -208,7 +206,7 @@ Level & XP:___12________________________________          \/        \/        \/
 |  +1 Dex                                                                      |
 |  +1 Wis                                                                      |
 |  +1 Skill (Perception)                                                       |
-|  +1 Language (draconic - monastary)                                          |
+|  +1 Language (dwarven - monastary)                                           |
 |  +1 Feat (Alert)                                                             |
 |                                                                              |
 +-Background Feature-----------------------------------------------------------+
@@ -217,11 +215,11 @@ Level & XP:___12________________________________          \/        \/        \/
 |     - +1 to Arcane                                                           |
 |     - One cantrip: Prestigitation                                            |
 |                                                                              |
-|  Urchin:                                                                     |
-|   o Sleight of Hande Proficiency                                             |
-|   o Stealth Proficiency                                                      |
-|   o Thieves tools proficiency                                                |
-|   o Disguise kit proficiency                                                 |
+|  Sage - Discredited Academic:                                                |
+|   o Investigation Porficiency                                                |
+|   o History Proficiency                                                      |
+|   o Draconic                                                                 |
+|   o Elven                                                                    |
 +-Class Features---------------------------------------------------------------+
 |  o Simple Weapon Proficiency                                                 |
 |  o Shortsword Proficiency                                                    |
@@ -233,8 +231,8 @@ Level & XP:___12________________________________          \/        \/        \/
 |                                                                              |
 +-Level 1----------------------------------------------------------------------+
 |  o Feat:Skilled:                                                             |
-|     - Religion [monastary]                                                   |
-|     - Investigation [monastary]                                              |
+|     - Stealth [the Streets]                                                   |
+|     - Sleight of Hand [the Streets]                                              |
 |     - Survival [monastary / life on the road]                                |
 +-Level 2----------------------------------------------------------------------+
 |  o HP +5                                                                     |
@@ -352,13 +350,17 @@ Level & XP:___12________________________________          \/        \/        \/
 | a chance of a romantic relationship                                          |
 +-Ideals-----------------------------------------------------------------------+
 | Ivor is basically a leveler. He passionately believes the world order is     |
-| unjust and should be re-made to give all an equal share                      |
+| unjust and must be torn down and re-made.                                    |
+| He fights to stop Tiamat, for the same reason a democratic socialist         |
+| campaigns for Biden - first exercise the existing evil, then move onto       |
+| reshaping the world.                                                         |
 +-Bonds------------------------------------------------------------------------+
 | Intensely loyal to his sister, who kept him alive through their years on the |
 | streets.                                                                     |
 +-Flaws------------------------------------------------------------------------+
 | A hard life makes Ivor deeply distrustful of new friends. He has no trust of |
-| those with authority / power                                                 |
+| those with authority / power, and his passionionate believes can sometimes   |
+| blind him to nuance and compromise                                         |
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
 | Standard Actions:                                                            |
