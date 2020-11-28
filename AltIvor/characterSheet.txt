@@ -5,16 +5,16 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___12________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 17    | |  +9         | |  60       |
+| Inspiration                    [  ] |  | 18    | |  +9         | |  60       |
 | Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 76                         |
 | STRENGTH                  [12] [+1] |  | Current: 76                         |
-| Saving Throws              [X] [+5] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Saving Throws              [X] [+6] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+5] |  |             [ ][ ][ ][ ]            |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+8] |  | Failures                [ ] [ ] [ ] |
+| Saving Throws              [X] [+9] |  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+8] |  +-------------------------------------+
 | Sleight of Hand            [X] [+8] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [X] [+8] |  |                                     |
@@ -23,7 +23,7 @@ Level & XP:___12________________________________          \/        \/        \/
 | Saving Throws              [ ] [+1] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws              [ ] [+2] |  |                                     |
+| Saving Throws              [ ] [+3] |  |                                     |
 | Arcana (+1)                [/] [+3] |  |                                     |
 | History                    [X] [+6] |  |                                     |
 | Investigation              [X] [+6] |  |  Observant:                         |
@@ -32,7 +32,7 @@ Level & XP:___12________________________________          \/        \/        \/
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
-| Saving Throws              [ ] [+3] |  |  Alert:                             |
+| Saving Throws              [ ] [+4] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
@@ -41,7 +41,7 @@ Level & XP:___12________________________________          \/        \/        \/
 | Survival                   [X] [+7] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws              [ ] [-2] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws              [ ] [-1] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
@@ -175,10 +175,12 @@ Level & XP:___12________________________________          \/        \/        \/
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [8000 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
+| PP [      ] | | GP [8006 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
-|   o Gloves of Thieviery (+2 dex sleight of hand, +2 dex pick locks)          |
+|   o Gloves of Thieviery (+5 dex sleight of hand, +5 dex pick locks)          |
+|                                                                              |
+|   o Ring of protection (+AC, +1 saving throws)                               |
 |                                                                              |
 | Urchin:                                                                      |
 |   o A small knife                                                            |
