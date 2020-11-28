@@ -3,61 +3,61 @@ Race:________Urchin____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___12________________________________          \/        \/        \/ 
+Level & XP:___13________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 18    | |  +9         | |  60       |
-| Proficiency Bonus              [+4] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 76                         |
-| STRENGTH                  [12] [+1] |  | Current: 76                         |
-| Saving Throws              [X] [+6] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+5] |  |             [ ][ ][ ][ ]            |
+| Inspiration                    [  ] |  | 18 (R)| |  +9         | |  60       |
+| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 82                         |
+| STRENGTH                  [12] [+1] |  | Current: 82                         |
+| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ]         |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+9] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+8] |  +-------------------------------------+
-| Sleight of Hand            [X] [+8] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+8] |  |                                     |
+| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+9] |  +-------------------------------------+
+| Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [X] [+9] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws              [ ] [+1] |  |   o Draconic                        |
+| Saving Throws          (R) [ ] [+2] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws              [ ] [+3] |  |                                     |
+| Saving Throws          (R) [ ] [+3] |  |   o Toungue of the Sun & Moon       |
 | Arcana (+1)                [/] [+3] |  |                                     |
-| History                    [X] [+6] |  |                                     |
-| Investigation              [X] [+6] |  |  Observant:                         |
+| History                    [X] [+7] |  |                                     |
+| Investigation              [X] [+7] |  |  Observant:                         |
 | Investigation [passive]        (21) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
-| Saving Throws              [ ] [+4] |  |  Alert:                             |
+| Saving Throws          (R) [ ] [+4] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+7] |  |     due to being unseen             |
-| Perception [passive]           (22) |  |                                     |
-| Survival                   [X] [+7] |  |                                     |
+| Perception                 [X] [+8] |  |     due to being unseen             |
+| Perception [passive]           (23) |  |                                     |
+| Survival                   [X] [+8] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws              [ ] [-1] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws          (R) [ ] [-1] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Knuckle duster|   +9   |   1D8+5 BM | Jeweled, purply light         |        |
-| Unarmed       |   +8   |   1D8+4 BM |                               |        |
-| Nunchak (acid)|   +8   |   1D8+4 AM |                               |        |
-| Small Knife   |   +8   |   1D8+4 S  |                               |        |
+| Knuckle duster|   +10  |   1D8+5 BM | Jeweled, purply light         |        |
+| Unarmed       |   +9   |   1D8+4 BM |                               |        |
+| Nunchak (acid)|   +9   |   1D8+4 AM |                               |        |
+| Small Knife   |   +9   |   1D8+4 S  |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                    |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 4 + 3 = 15                           |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -102,11 +102,11 @@ Level & XP:___12________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 16                                       |
-|     o 0 DMG >= Catch the missile: +8 / 1D8 + 4, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 17                                       |
+|     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 60                                  |
+|     o Reduce fall damange by 5 x [LVL] = 65                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -170,7 +170,12 @@ Level & XP:___12________________________________          \/        \/        \/
 +-Non-Combat Features----------------------------------------------------------+
 | Researcher                                                                   |
 |     o When you attempt to learn or recall a piece of lore, if you don't know |
-|       you often know where / whom to go to get the information
+|       you often know where / whom to go to get the information               |
+|                                                                              |
+| Toungue of the Sun & Moon:                                                   |
+|     o "Touch the ki of other people's minds - understand all spoken languages|
+|     o Any creature that can understand a language, can understand what you   |
+|       say.                                                                   |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
@@ -233,8 +238,8 @@ Level & XP:___12________________________________          \/        \/        \/
 |                                                                              |
 +-Level 1----------------------------------------------------------------------+
 |  o Feat:Skilled:                                                             |
-|     - Stealth [the Streets]                                                   |
-|     - Sleight of Hand [the Streets]                                              |
+|     - Stealth [the Streets]                                                  |
+|     - Sleight of Hand [the Streets]                                          |
 |     - Survival [monastary / life on the road]                                |
 +-Level 2----------------------------------------------------------------------+
 |  o HP +5                                                                     |
@@ -327,6 +332,12 @@ Level & XP:___12________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 13---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o Toungue of the Sun & Moon                                                 |
 |                                                                              |
 |                                                                              |
 +-Level 14---------------------------------------------------------------------+
