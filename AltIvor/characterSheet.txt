@@ -49,6 +49,10 @@ Level & XP:___13________________________________          \/        \/        \/
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Knuckle duster|   +10  |   1D8+5 BM | Jeweled, purply light         |        |
+| Fire Dragon   |   +9   |   1D8+4 SM | Made from a dragon claw from  |        |
+|   shortsword  |        |   + 3D6 FM | a felled red dragon fused into|        |
+|               |        |            | a branch from the elven grand |        |
+|               |        |            | father tree.                  |        |
 | Unarmed       |   +9   |   1D8+4 BM |                               |        |
 | Nunchak (acid)|   +9   |   1D8+4 AM |                               |        |
 | Small Knife   |   +9   |   1D8+4 S  |                               |        |
@@ -96,6 +100,19 @@ Level & XP:___13________________________________          \/        \/        \/
 | Death Ward (long rest): [ ]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
+|                                                                              |
+| Bless (1/day): [ ]                                                           |
+|     o As an action, cast the Bless spell from the fire dragon short sword    |
+|     o Cast at 1st level                                                      |
+|     o conc. 1 min, 30ft                                                      |
+|     o Up to 3 creatures within range may add 1D4 to a saving throw or attach |
+|       roll                                                                   |
+|                                                                              |
+| Burning Hands (1/day): [ ]                                                   |
+|     o action, 1st level                                                      |
+|     o self, 15ft cone                                               
+|     o Dex saving throw: 3D6 Fire dmg on fail, 1/2 on success                 |
+|     o Flamable objects are ignited...                                        |
 |                                                                              |
 | Ambush / sneak attacks:                                                      |
 |     o Opponents cannot gain advantage from being unseen                      |
