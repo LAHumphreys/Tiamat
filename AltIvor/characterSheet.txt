@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___13________________________________          \/        \/        \/ 
+Level & XP:___14________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 18 (R)| |  +9         | |  60       |
+| Inspiration                    [  ] |  | 18 (R)| |  +9         | |  65       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 82                         |
-| STRENGTH                  [12] [+1] |  | Current: 82                         |
++-------------------------------------+  | Maximum: 85                         |
+| STRENGTH                  [12] [+1] |  | Current: 85                         |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ]         |
+| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
@@ -20,10 +20,10 @@ Level & XP:___13________________________________          \/        \/        \/
 | Stealth                    [X] [+9] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws          (R) [ ] [+2] |  |   o Draconic                        |
+| Saving Throws          (R) [X] [+7] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws          (R) [ ] [+3] |  |   o Toungue of the Sun & Moon       |
+| Saving Throws          (R) [X] [+8] |  |   o Toungue of the Sun & Moon       |
 | Arcana (+1)                [/] [+3] |  |                                     |
 | History                    [X] [+7] |  |                                     |
 | Investigation              [X] [+7] |  |  Observant:                         |
@@ -32,7 +32,7 @@ Level & XP:___13________________________________          \/        \/        \/
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
-| Saving Throws          (R) [ ] [+4] |  |  Alert:                             |
+| Saving Throws          (R) [X] [+9] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
@@ -41,7 +41,7 @@ Level & XP:___13________________________________          \/        \/        \/
 | Survival                   [X] [+8] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws          (R) [ ] [-1] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws          (R) [X] [+4] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
@@ -60,13 +60,15 @@ Level & XP:___13________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
 |     o Stunning Strike - after successful mele attack,                        |
 |          - target has CON save --FAIL-> Stunned until end of my next turn    |
+|     o Diamond Soul - re-roll a failed saving throw. Must take the second     |
+|                      result.                                                 |
 |                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
@@ -119,11 +121,11 @@ Level & XP:___13________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 17                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 18                                       |
 |     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 65                                  |
+|     o Reduce fall damange by 5 x [LVL] = 70                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -372,6 +374,12 @@ Level & XP:___13________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 14---------------------------------------------------------------------+
+|  o HP +3                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Diamond Soul                                                              |
 |                                                                              |
 |                                                                              |
 +-Level 15---------------------------------------------------------------------+
