@@ -8,8 +8,8 @@ Level & XP:___13________________________________          \/        \/        \/
 | Inspiration                    [  ] |  | 18 (R)| |  +9         | |  60       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 82                         |
-| STRENGTH                  [12] [+1] |  | Current: 82-18+8+9=81               |
++-------------------------------------+  | Maximum: 82+5                       |
+| STRENGTH                  [12] [+1] |  | Current: 82+5=87                    |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[X][X][X][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ]         |
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -49,7 +49,7 @@ Level & XP:___13________________________________          \/        \/        \/
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 | Knuckle duster|   +10  |   1D8+5 BM | Jeweled, purply light         |        |
-| Fire Dragon   |   +9   |   1D8+4 SM | Made from a dragon claw from  |        |
+| Fire Dragon   |   +9   |   1D8+4 PM | Made from a dragon claw from  |        |
 |   shortsword  |        |   + 3D6 FM | a felled red dragon fused into|        |
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
@@ -60,7 +60,7 @@ Level & XP:___13________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+| Ki Points [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -110,7 +110,7 @@ Level & XP:___13________________________________          \/        \/        \/
 |                                                                              |
 | Burning Hands (1/day): [ ]                                                   |
 |     o action, 1st level                                                      |
-|     o self, 15ft cone                                               
+|     o self, 15ft cone                                                        |
 |     o Dex saving throw: 3D6 Fire dmg on fail, 1/2 on success                 |
 |     o Flamable objects are ignited...                                        |
 |                                                                              |
@@ -171,7 +171,7 @@ Level & XP:___13________________________________          \/        \/        \/
 |       - Choose one:                                                          |
 |       ---> Supress any affect causing the target to be charmed or frightened |
 |       ---> Target is indifferent about creatures of your choice              |
-|     o Charm Monster [ ]                                                      |
+|     o Charm Monster [X]                                                      |
 |       - Range 30ft , 1 hour (or until you or your companions harm it)        |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - The charmed creature is friendly towards you                         |
@@ -476,19 +476,19 @@ Level & XP:___13________________________________          \/        \/        \/
 |                  - She was dropped off of the side of Skyreach castle in     |
 |                  | hamster form                                              |
 +-Members of Red Wizards of the Fay--------------------------------------------+
-| Rath Modar       - Leader of the wizards trying to enslave Tiamat            | 
-| Azbara Jos       - Destroyed the red mask at dragonspear castle              | 
+| Rath Modar       - Leader of the wizards trying to enslave Tiamat            |
+| Azbara Jos       - Destroyed the red mask at dragonspear castle              |
 +-Members of Order of the Gauntlet---------------------------------------------+
-| Lord Frume       - Leader of the wizards trying to enslave Tiamat            | 
+| Lord Frume       - Leader of the wizards trying to enslave Tiamat            |
 | Ivy Darkdraft    - (human) Magician in Lord Froome's company                 |
 | --> Elissa       - Revealed to be Ivor's elder sister                        |
 |                  - After fighting with the party to take skyreach, currently |
 |                  | looking after the castle                                  |
 +-Members of the Harpers-------------------------------------------------------+
-| Leosin           - Monk, friend and rival of Ivor. Notorious phillanderer.   | 
-|                  | Summoned the party to <> for the council                  | 
+| Leosin           - Monk, friend and rival of Ivor. Notorious phillanderer.   |
+|                  | Summoned the party to <> for the council                  |
 | Neosin           - Monk, wife of Leosin. Faught with the party at dragonspear|
-|                  | castle                                                    | 
+|                  | castle                                                    |
 | Ella de Balbeck  - Very old, involed in the last attempt                     |
 |                  | to bring back Tiamat, where she tricked the heroes into   |
 |                  | trusting here. She betrayed them, but was still eventually|
