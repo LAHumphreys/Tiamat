@@ -8,9 +8,9 @@ Level & XP:___13________________________________          \/        \/        \/
 | Inspiration                    [  ] |  | 18 (R)| |  +9         | |  60       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 82+5                       |
-| STRENGTH                  [12] [+1] |  | Current: 82+5=87 /= 1               |
-| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[X][X][X][ ][ ][ ][ ][ ]|
++-------------------------------------+  | Maximum: 82                         |
+| STRENGTH                  [12] [+1] |  | Current: 82                         |
+| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ]         |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
@@ -60,7 +60,7 @@ Level & XP:___13________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -97,11 +97,11 @@ Level & XP:___13________________________________          \/        \/        \/
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
 |                                                                              |
-| Death Ward (long rest): [X]                                                  |
+| Death Ward (long rest): [ ]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
-| Bless (1/day): [X]                                                           |
+| Bless (1/day): [ ]                                                           |
 |     o As an action, cast the Bless spell from the fire dragon short sword    |
 |     o Cast at 1st level                                                      |
 |     o conc. 1 min, 30ft                                                      |
@@ -171,11 +171,11 @@ Level & XP:___13________________________________          \/        \/        \/
 |       - Choose one:                                                          |
 |       ---> Supress any affect causing the target to be charmed or frightened |
 |       ---> Target is indifferent about creatures of your choice              |
-|     o Charm Monster [X]                                                      |
+|     o Charm Monster [ ]                                                      |
 |       - Range 30ft , 1 hour (or until you or your companions harm it)        |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - The charmed creature is friendly towards you                         |
-|     o Dominate Person [X]                                                    |
+|     o Dominate Person [ ]                                                    |
 |       - Range 60ft , 1 min (conc.)                                           |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - Each time the target takes damage -> new saving throw                |
@@ -188,7 +188,7 @@ Level & XP:___13________________________________          \/        \/        \/
 |       dungeon under the Elven grand-father tree                              |
 |     o Fear of entering deep spaces (underground, or multi-story buildings he |
 |       couldn't easily monk-bullshit out of if it collapsed.                  |
-|     o DC 15 saving throw                                                     |
+|     o DC 15 WIS saving throw                                                 |
 |         - PASS: Ivor does not feel Claustrophobic from this location for the |
 |                 rest of the day (until the next long rest)                   |
 |         - FAIL: Ivor is Frightened of the space. Can re-roll at the start of |
