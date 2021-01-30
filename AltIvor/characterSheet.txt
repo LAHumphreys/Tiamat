@@ -1,4 +1,4 @@
-Xame:________Ivor______________________________  ________     ____   ________   
+Name:________Ivor______________________________  ________     ____   ________   
 Race:________Human_____________________________  \______ \   /  _ \  \______ \  
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
@@ -9,7 +9,7 @@ Level & XP:___13________________________________          \/        \/        \/
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 82+5                       |
-| STRENGTH                  [12] [+1] |  | Current: 82+5=87                    |
+| STRENGTH                  [12] [+1] |  | Current: 82+5=87 /= 1               |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[X][X][X][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ]         |
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -60,7 +60,7 @@ Level & XP:___13________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
+| Ki Points [X] [X] [X] [X] [X] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ]                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -97,7 +97,7 @@ Level & XP:___13________________________________          \/        \/        \/
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
 |                                                                              |
-| Death Ward (long rest): [ ]                                                  |
+| Death Ward (long rest): [X]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
@@ -183,13 +183,25 @@ Level & XP:___13________________________________          \/        \/        \/
 |       - With link can specify a specifc / general course of action           |
 |       - [action] Take total and precise control of target: you control its   |
 |                  action, movement etc. Reaction uses up your reaction.       |
+| Claustrophobic                                                               |
+|     o Resulted from being buried alive after the fight with Nerovane in the  |
+|       dungeon under the Elven grand-father tree                              |
+|     o Fear of entering deep spaces (underground, or multi-story buildings he |
+|       couldn't easily monk-bullshit out of if it collapsed.                  |
+|     o DC 15 saving throw                                                     |
+|         - PASS: Ivor does not feel Claustrophobic from this location for the |
+|                 rest of the day (until the next long rest)                   |
+|         - FAIL: Ivor is Frightened of the space. Can re-roll at the start of |
+|                 his next turn to attempt to overcome the fear affect. Once   |
+|                 ended, Ivor is not afraid of this space for the rest of the  |
+|                 day (until next long rest).                                  |
 |                                                                              |
 +-Non-Combat Features----------------------------------------------------------+
 | Researcher                                                                   |
 |     o When you attempt to learn or recall a piece of lore, if you don't know |
 |       you often know where / whom to go to get the information               |
 |                                                                              |
-| Toungue of the Sun & Moon:                                                   |
+| Tongue of the Sun & Moon:                                                   |
 |     o "Touch the ki of other people's minds - understand all spoken languages|
 |     o Any creature that can understand a language, can understand what you   |
 |       say.                                                                   |
