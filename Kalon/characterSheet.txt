@@ -16,40 +16,41 @@ Level & XP:__4_________________________________          \/        \/        \/
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [ ] [+4] |  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+6] |  +-------------------------------------+
-| Sleight of Hand            [ ] [  ] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [ ] [  ] |  |                                     |
+| Sleight of Hand            [ ] [+4] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [ ] [+4] |  |                                     |
 +-------------------------------------+  |                                     |
 | CONSTITUTION              [16] [+3] |  |                                     |
 | Saving Throws              [X] [+5] |  | Medium Armor Master                 |
 +-------------------------------------+  |  - dex max +3 in med armor          |
 | INTELLIGENCE              [13] [+1] |  |  - no disadv on stealth from armor  |
 | Saving Throws              [ ] [+1] |  |                                     |
-| Arcana                     [ ] [  ] |  | Duel Wielder:                       |
-| History                    [X] [+3] |  |  - +1 to AC when duel wielding      |
-| Investigation              [ ] [  ] |  |  - doesn't need to be light         |
-| Investigation [passive]        (  ) |  |  - can draw or stow two one handed  |
-| Nature                     [ ] [  ] |  |    weapons.                         |
-| Religion                   [ ] [  ] |  |                                     |
+| Arcana                     [ ] [+1] |  | Playing Cards (+2)                  |
+| History                    [X] [+3] |  |                                     |
+| Investigation              [ ] [+1] |  |                                     |
+| Investigation [passive]        (11) |  |                                     |
+| Nature                     [ ] [+1] |  |                                     |
+| Religion                   [ ] [+1] |  |                                     |
 +-------------------------------------+  |  Languages:                         |
 | WISDOM                    [ 9] [-1] |  |    - Common                         |
 | Saving Throws              [ ] [-1] |  |    - Elven                          |
-| Animal Handling            [ ] [  ] |  |    - Dwarfish                       |
-| Insight                    [ ] [  ] |  |                                     |
-| Medicine                   [ ] [  ] |  |                                     |
-| Perception                 [ ] [  ] |  |                                     |
-| Perception [passive]           (  ) |  |                                     |
+| Animal Handling            [ ] [-1] |  |    - Dwarfish                       |
+| Insight                    [ ] [-1] |  |                                     |
+| Medicine                   [ ] [-1] |  |                                     |
+| Perception                 [ ] [-1] |  |                                     |
+| Perception [passive]           (14) |  |                                     |
 | Survival                   [ ] [  ] |  |                                     |
 +-------------------------------------+  |                                     |
 | CHARISMA                  [14] [+2] |  |                                     |
 | Saving Throws              [ ] [+2] |  |                                     |
-| Deception                  [ ] [  ] |  |                                     |
-| Intimidation               [ ] [  ] |  |                                     |
-| Performance                [ ] [  ] |  |                                     |
+| Deception                  [ ] [+2] |  |                                     |
+| Intimidation               [ ] [+2] |  |                                     |
+| Performance                [ ] [+2] |  |                                     |
 | Persuation                 [X] [+4] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Rapier        |   +6   |   1D8 +4 P |  crit: 19-20                  |        |
-| Rapier (off)  |   +6   |   1D8    P |  crit: 19-20                  |        |
+| Rapier        |   +6   |   1D8+4 P  |  crit: 19-20                  |        |
+| Light Crossbow|   +6   |   1D8+4 P  |  crit: 19-20 (20 bolts)       |        |
+|               |        |            |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Second Wind [ ] (short rest):                                                |
@@ -64,15 +65,30 @@ Level & XP:__4_________________________________          \/        \/        \/
 |  - One additional action                                                     |
 |                                                                              |
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
-| Half Plate    | 15     | Dex max 2 / stealth: disadv                |        |
-|               |        |                                            |        |
+| Scale Mail    | 14     | Dex max 3 / no diadv                       |        |
+|               |        |   Note: due to feat                        |        |
+| Shield        | +2     |                                            |        |
 |               |        |                                            |        |
 |               |        |                                            |        |
 +---------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [     5] | | EP [       ] | | SP [      ] | | CP [      ] |
+| PP [      ] | | GP [    25] | | EP [       ] | | SP [      ] | | CP [      ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
+| Explorers Pack:                                                              |
+|   - Backpack                                                                 |
+|   - Bedroll                                                                  |
+|   - Mess Kit                                                                 |
+|   - Tinder box                                                               |
+|   - Torches     [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]                               |
+|   - Day Rations [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]                               |
+|   - Waterskin                                                                |
+|   - 50ft Hempen Rope                                                         |
+|                                                                              |
+|  Nobel Gear:                                                                 |
+|   - Set of fine clothes                                                      |
+|   - Signet Ring                                                              |
+|   - Scroll of Pedigree                                                       |
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +------------------------------------------------------------------------------+
@@ -82,13 +98,15 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 +-Background Feature-----------------------------------------------------------+
 | Skills: Persuation, History                                                  |
+| Tools: Playing card set                                                      |
 | Language: Dwarfish                                                           |
+| Equipment: fine clothes, signet ring, scroll of pedigree, 25gp               |
 |                                                                              |
 +-Class Features---------------------------------------------------------------+
 | Skills: Acrobatics, Athletics                                                |
+| Equipment: Rapier, Scale Mail, shield                                        |
 |                                                                              |
 +-Level 1----------------------------------------------------------------------+
-| Feat: Medium Armor Master                                                    |
 | Second Wind                                                                  |
 | Fighting Style: Defense                                                      |
 |                                                                              |
@@ -103,7 +121,7 @@ Level & XP:__4_________________________________          \/        \/        \/
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
 | HP: + 8                                                                      |
-| Feat: Duel Wielder                                                           |
+| Feat: Medium Armor Master                                                    |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
 |                                                                              |
