@@ -3,14 +3,14 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___14________________________________          \/        \/        \/
+Level & XP:___15________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 18 (R)| |  +9         | |  65       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 85                         |
-| STRENGTH                  [12] [+1] |  | Current: 85-11=74-66+22+26-41+44+8=67|
-| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[X][X][X][X][X][X][X][X]|
++-------------------------------------+  | Maximum: 90                         |
+| STRENGTH                  [12] [+1] |  | Current: 90                         |
+| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
@@ -62,7 +62,7 @@ Level & XP:___14________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [x] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]            |
+| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -101,7 +101,7 @@ Level & XP:___14________________________________          \/        \/        \/
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
 |                                                                              |
-| Death Ward (long rest): [ ]                                                  |
+| Death Ward (long rest): [X]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
@@ -123,16 +123,20 @@ Level & XP:___14________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 18                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 19                                       |
 |     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 70                                  |
+|     o Reduce fall damange by 5 x [LVL] = 75                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
 |        - Success: No damage instead of half                                  |
 |        - Failure: 1/2 damage instead of full                                 |
+|                                                                              |
+| Timeless body:                                                               |
+|     o No longer suffer any of the fraility of old age                        |
+|     o No longer need any food or water                                       |
 |                                                                              |
 | Stillness of Mind:                                                           |
 |     o [action] End one effect on yourself that is causing you to be CHARMED  |
@@ -179,7 +183,7 @@ Level & XP:___14________________________________          \/        \/        \/
 |       - Range 30ft , 1 hour (or until you or your companions harm it)        |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - The charmed creature is friendly towards you                         |
-|     o Dominate Person [ ]                                                    |
+|     o Dominate Person [X]                                                    |
 |       - Range 60ft , 1 min (conc.)                                           |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - Each time the target takes damage -> new saving throw                |
@@ -219,8 +223,6 @@ Level & XP:___14________________________________          \/        \/        \/
 |   o Gloves of Thieviery (+5 dex sleight of hand, +5 dex pick locks)          |
 |                                                                              |
 |   o Ring of protection (+AC, +1 saving throws)                               |
-|                                                                              |
-|   o Potion of superior healing: 8d4 + 8                                      |
 |                                                                              |
 | Urchin:                                                                      |
 |   o A small knife                                                            |
@@ -385,6 +387,11 @@ Level & XP:___14________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 15---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o Timeless body                                                             |
 |                                                                              |
 |                                                                              |
 +-Level 16---------------------------------------------------------------------+
