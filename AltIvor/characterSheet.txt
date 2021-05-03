@@ -9,7 +9,7 @@ Level & XP:___15________________________________          \/        \/        \/
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 90                         |
-| STRENGTH                  [12] [+1] |  | Current: 90                         |
+| STRENGTH                  [12] [+1] |  | Current: 90-23=67                   |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -53,7 +53,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |   shortsword  |        |   + 3D6 FM | a felled red dragon fused into|        |
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
-| Mithral       |   +10  |   1D8+5 BM | Light - counts as simple      |        |
+| Mithral       |   +10  |   1D8+5 SM | Light - counts as simple      |        |
 |  longsword +1 |        |            |   (Drawen mines)              |        |
 | Unarmed       |   +9   |   1D8+4 BM |                               |        |
 | Nunchak (acid)|   +9   |   1D8+4 AM |                               |        |
@@ -62,7 +62,7 @@ Level & XP:___15________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]        |
+| Ki Points [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -135,6 +135,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |        - Failure: 1/2 damage instead of full                                 |
 |                                                                              |
 | Timeless body:                                                               |
+|     o Cannot be magically aged.                                              |
 |     o No longer suffer any of the fraility of old age                        |
 |     o No longer need any food or water                                       |
 |                                                                              |
@@ -179,7 +180,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |       - Choose one:                                                          |
 |       ---> Supress any affect causing the target to be charmed or frightened |
 |       ---> Target is indifferent about creatures of your choice              |
-|     o Charm Monster [X]                                                      |
+|     o Charm Monster [ ]                                                      |
 |       - Range 30ft , 1 hour (or until you or your companions harm it)        |
 |       - WIS saving throw DC15 (adv if tream is fighting it)                  |
 |       - The charmed creature is friendly towards you                         |
@@ -221,8 +222,12 @@ Level & XP:___15________________________________          \/        \/        \/
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 |   o Gloves of Thieviery (+5 dex sleight of hand, +5 dex pick locks)          |
-|                                                                              |
 |   o Ring of protection (+AC, +1 saving throws)                               |
+|   o Helm of Underwater Action (attunement)
+|       - Brass Helmet                                                         |
+|       - Breathe Underwater                                                   |
+|       - Dark vision - range 60ft                                             |
+|       - Swimming speed of 30ft                                               |
 |                                                                              |
 | Urchin:                                                                      |
 |   o A small knife                                                            |
