@@ -9,9 +9,9 @@ Level & XP:___15________________________________          \/        \/        \/
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 90                         |
-| STRENGTH                  [12] [+1] |  | Current: 90-11-20-19+18=58          |
-| Saving Throws              [X] [+7] |  | Hit Dice: D8[X][X][X][X][X][ ][ ][ ]|
-| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
+| STRENGTH                  [12] [+1] |  | Current: 90-11-20-19+18-29+24+22=75 |
+| Saving Throws              [X] [+7] |  | Hit Dice: D8[X][X][X][X][X][X][X][X]|
+| Athletics                  [X] [+6] |  |             [X][X][X][X][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws              [X] [+10]|  | Failures                [ ] [ ] [ ] |
@@ -62,7 +62,7 @@ Level & XP:___15________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [X] [X]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -210,26 +210,28 @@ Level & XP:___15________________________________          \/        \/        \/
 |     o When you attempt to learn or recall a piece of lore, if you don't know |
 |       you often know where / whom to go to get the information               |
 |                                                                              |
-| Tongue of the Sun & Moon:                                                   |
+| Tongue of the Sun & Moon:                                                    |
 |     o "Touch the ki of other people's minds - understand all spoken languages|
 |     o Any creature that can understand a language, can understand what you   |
 |       say.                                                                   |
 +-Familiar---------------------------------------------------------------------+
 |+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
-|| Tia Maria | Coffee Dragon | Chaotic Good | Large cat | Chocolate coloured  ||
-|+-AC-----+--Speed--+---Fly---+--Climb-----+-Hit Points-----------------------+|
-||   15   |  60ft   |   60ft  |    60ft    | Max:         36                  ||
-|+--------+---------+---------+------------+ Resistances: Fire                ||
-|+-Attr+-STR-+-DEX-+-CON-+-INT-+-WIS-+CHAR-| Current:     36                  ||
-||     |  8  | 14  | 13  | 6   | 11  | 13  | Hit Dice:[ ][ ][ ][ ][ ][ ][ ][ ]||
-|+-----|-----|-----|-----|-----|-----|---- +- Death Saves --------------------+|
-|| Mod | -1  | +2  | +1  | -2  | 0   | +1  | Successes: [ ] [ ] [ ]           ||
-|| Sav | -1  | +4  | +3  | -2  | +2  | +3  | Failures:  [ ] [ ] [ ]           ||
-|+-Skills------------+-Passive Skills------+-Languages------------------------+|
-|| Perception: [+2]  | Perception [14]     | - Draconic                       ||
-|| Stealth:    [+4]  | Investigation [8]   |                                  ||
+|| Tia Maria | Coffee Dragon | Chaotic Good | Lrge Drag.| Chocolate coloured  ||
+|+-AC-----+--Speed--+---Fly---+--Swim------+-Hit Points-----------------------+|
+||   18   |  40ft   |   80ft  |    40ft    | Max:        142                  ||
+|+--------+---------+---------+------------+ Immunities: Lightning            ||
+|+-Attr+-STR-+-DEX-+-CON-+-INT-+-WIS-+CHAR-| Current:    142-29+26=139        ||
+||     |  21 | 10  | 19  | 14  | 13  | 17  | Hit Dice: D10 + 4                ||
+|+-----|-----|-----|-----|-----|-----|---- +  [X] [X] [X] [ ] [ ]             ||
+|| Mod |  +5 | +2  | +4  | +2  | +1  | +3  |  [ ] [ ] [ ] [ ] [ ]             ||
+|| Sav |  +5 | +2  | +7  | +2  | +4  | +6  |  [ ] [ ] [ ] [ ] [ ]             ||
+|+-Skills------------+-Passive Skills------+-Death Saves----------------------+|
+|| Perception: [+7]  | Perception [17]     | Successes: [ ] [ ] [ ]           ||
+|| Stealth:    [+3]  | Investigation [8]   | Failures:  [ ] [ ] [ ]           ||
 |+-Other Features-------------------------------------------------------------+|
-|| - Dark Vision (60ft)                                                       ||
+|| - Amphibious - can breath air and water                                    ||
+|| - Blindsight (30ft)                                                        ||
+|| - Dark Vision (120ft)                                                      ||
 |+-Aura of Alertness----------------------------------------------------------+|
 || - Creatures within 60ft of the coffee dragon have advantage on perception  ||
 ||   (WIS) checks                                                             ||
@@ -243,11 +245,18 @@ Level & XP:___15________________________________          \/        \/        \/
 ||   attack rolls until the effect ends                                       ||
 |+-Innate Casting-------------------------------------------------------------+|
 || - Haste (1x day) [ ]                                                       ||
-|+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
-|| Bite       |   +4      |  1D10 +2 P | reach (5ft)                          ||
+|+-Multi-attack (1x Bite, 2x Claws)-------------------------------------------+|
+|| Bite       |   +8      |  2D10 +5 P | reach (10ft)                         ||
+|| Claw       |   +8      |  2D6 +5 S  | reach (5ft)                          ||
+|+-Breathe Weapon (re-charge on 5-6)--[ ]-------------------------------------+|
 || Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
-||   - Failed save: Create has "Haste", End of turn roll 1D6, ends on 5 or 6  ||
-||   - Successful save: Half damage                                           ||
+||   - Failed save: Creature has "Haste", End of turn roll 1D6, ends on 5 or 6||
+|| Lightning  | 60ft line |  10D10     | Dex save, DC: 15 (half dmg)          ||
+|+-Innate Spellcasting--------------------------------------------------------+|
+|| - Save DC: 14, +6 to spell attack                                          ||
+|| - Shield [ ] : [reaction] 1 round, +5 AC                                   ||
+|| - Misty Step [ ]                                                           ||
+|| - Locate Object [ ]                                                        ||
 |+----------------------------------------------------------------------------+|
 |                                                                              |
 +------------------------------------------------------------------------------+
