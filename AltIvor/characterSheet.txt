@@ -7,24 +7,24 @@ Level & XP:___15________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  | 18 (R)| |  +9         | |  65       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 90                         |
-| STRENGTH                  [12] [+1] |  | Current: 90-23=67                   |
-| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| STRENGTH                  [12] [+1] |  | Current: 90-11-20-19+18=58          |
+| Saving Throws              [X] [+7] |  | Hit Dice: D8[X][X][X][X][X][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
+| Saving Throws              [X] [+10]|  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+9] |  +-------------------------------------+
 | Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
 | Stealth                    [X] [+9] |  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws          (R) [X] [+7] |  |   o Draconic                        |
+| Saving Throws              [X] [+7] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven                         |
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws          (R) [X] [+8] |  |   o Toungue of the Sun & Moon       |
-| Arcana (+1)                [/] [+3] |  |                                     |
+| Saving Throws              [X] [+8] |  |   o Toungue of the Sun & Moon       |
+| Arcana                     [/] [+3] |  |                                     |
 | History                    [X] [+7] |  |                                     |
 | Investigation              [X] [+7] |  |  Observant:                         |
 | Investigation [passive]        (21) |  |   o Lip Reading                     |
@@ -32,16 +32,16 @@ Level & XP:___15________________________________          \/        \/        \/
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                    [16] [+3] |  |                                     |
-| Saving Throws          (R) [X] [+9] |  |  Alert:                             |
+| Saving Throws              [X] [+9] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+8] |  |     due to being unseen             |
-| Perception [passive]           (23) |  |                                     |
+| Perception [passive]           (28) |  |                                     |
 | Survival                   [X] [+8] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws          (R) [X] [+4] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws              [X] [+4] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
@@ -62,7 +62,7 @@ Level & XP:___15________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -214,6 +214,43 @@ Level & XP:___15________________________________          \/        \/        \/
 |     o "Touch the ki of other people's minds - understand all spoken languages|
 |     o Any creature that can understand a language, can understand what you   |
 |       say.                                                                   |
++-Familiar---------------------------------------------------------------------+
+|+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
+|| Tia Maria | Coffee Dragon | Chaotic Good | Large cat | Chocolate coloured  ||
+|+-AC-----+--Speed--+---Fly---+--Climb-----+-Hit Points-----------------------+|
+||   15   |  60ft   |   60ft  |    60ft    | Max:         36                  ||
+|+--------+---------+---------+------------+ Resistances: Fire                ||
+|+-Attr+-STR-+-DEX-+-CON-+-INT-+-WIS-+CHAR-| Current:     36                  ||
+||     |  8  | 14  | 13  | 6   | 11  | 13  | Hit Dice:[ ][ ][ ][ ][ ][ ][ ][ ]||
+|+-----|-----|-----|-----|-----|-----|---- +- Death Saves --------------------+|
+|| Mod | -1  | +2  | +1  | -2  | 0   | +1  | Successes: [ ] [ ] [ ]           ||
+|| Sav | -1  | +4  | +3  | -2  | +2  | +3  | Failures:  [ ] [ ] [ ]           ||
+|+-Skills------------+-Passive Skills------+-Languages------------------------+|
+|| Perception: [+2]  | Perception [14]     | - Draconic                       ||
+|| Stealth:    [+4]  | Investigation [8]   |                                  ||
+|+-Other Features-------------------------------------------------------------+|
+|| - Dark Vision (60ft)                                                       ||
+|+-Aura of Alertness----------------------------------------------------------+|
+|| - Creatures within 60ft of the coffee dragon have advantage on perception  ||
+||   (WIS) checks                                                             ||
+|| - Creatures within 60ft of the coffee dragon (as well as the dragon) cannot||
+||   be magically put to sleep                                                ||
+|| - If the dragon is under the effects of a slow spell, the aura is          ||
+||   suppressed                                                               ||
+||                                                                            ||
+|+-Caffeine Crash-------------------------------------------------------------+|
+|| - If the dragon is affected by the slow spell, it has disadvantage on all  ||
+||   attack rolls until the effect ends                                       ||
+|+-Innate Casting-------------------------------------------------------------+|
+|| - Haste (1x day) [ ]                                                       ||
+|+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
+|| Bite       |   +4      |  1D10 +2 P | reach (5ft)                          ||
+|| Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
+||   - Failed save: Create has "Haste", End of turn roll 1D6, ends on 5 or 6  ||
+||   - Successful save: Half damage                                           ||
+|+----------------------------------------------------------------------------+|
+|                                                                              |
++------------------------------------------------------------------------------+
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
 ----------------+--------+--------------------------------------------+--------+
