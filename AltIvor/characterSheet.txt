@@ -9,7 +9,7 @@ Level & XP:___15________________________________          \/        \/        \/
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 90                         |
-| STRENGTH                  [12] [+1] |  | Current: 90-11-20-19+18-29+24+22=75 |
+| STRENGTH                  [12] [+1] |  | Current: 90-8-8-15=67               |
 | Saving Throws              [X] [+7] |  | Hit Dice: D8[X][X][X][X][X][X][X][X]|
 | Athletics                  [X] [+6] |  |             [X][X][X][X][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -54,7 +54,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
 | Mithral       |   +10  |   1D8+5 SM | Light - counts as simple      |        |
-|  longsword +1 |        |            |   (Drawen mines)              |        |
+|  longsword +1 |        |            |   (Drarven mines)             |        |
 | Unarmed       |   +9   |   1D8+4 BM |                               |        |
 | Nunchak (acid)|   +9   |   1D8+4 AM |                               |        |
 | Small Knife   |   +9   |   1D8+4 S  |                               |        |
@@ -62,7 +62,7 @@ Level & XP:___15________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -244,14 +244,15 @@ Level & XP:___15________________________________          \/        \/        \/
 || - If the dragon is affected by the slow spell, it has disadvantage on all  ||
 ||   attack rolls until the effect ends                                       ||
 |+-Innate Casting-------------------------------------------------------------+|
-|| - Haste (1x day) [ ]                                                       ||
+|| - Haste (1x day) [X]                                                       ||
+||    [ ] [ ] [ ] [ ] [ ]   [ ] [ ] [ ] [ ] [ ] ([ ] Lethagy)                 ||
 |+-Multi-attack (1x Bite, 2x Claws)-------------------------------------------+|
 || Bite       |   +8      |  2D10 +5 P | reach (10ft)                         ||
 || Claw       |   +8      |  2D6 +5 S  | reach (5ft)                          ||
-|+-Breathe Weapon (re-charge on 5-6)--[ ]-------------------------------------+|
-|| Hot Coffee | 60ft cone |  4D8 +2 F  | Dex save, DC: 11 (half dmg)          ||
+|+-Breathe Weapon (re-charge on 5-6)------------------------------------------+|
+|| Hot Coffee | 60ft cone |  4D8+2 F [ ] Dex save, DC: 15 (half dmg)          ||
 ||   - Failed save: Creature has "Haste", End of turn roll 1D6, ends on 5 or 6||
-|| Lightning  | 60ft line |  10D10     | Dex save, DC: 15 (half dmg)          ||
+|| Lightning  | 60ft line |  10D10 L [X] Dex save, DC: 15 (half dmg)          ||
 |+-Innate Spellcasting--------------------------------------------------------+|
 || - Save DC: 14, +6 to spell attack                                          ||
 || - Shield [ ] : [reaction] 1 round, +5 AC                                   ||
@@ -274,12 +275,8 @@ Level & XP:___15________________________________          \/        \/        \/
 |       - Breathe Underwater                                                   |
 |       - Dark vision - range 60ft                                             |
 |       - Swimming speed of 30ft                                               |
-|                                                                              |
-| Urchin:                                                                      |
-|   o A small knife                                                            |
-|   o A map of the city                                                        |
-|   o TODO: A token to remember his parents                                    |
-|   o A set of common clothes                                                  |
+|   o Cloak of Elven kind (attunement)
+|       - Perception 
 |                                                                              |
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
@@ -505,11 +502,15 @@ Level & XP:___15________________________________          \/        \/        \/
 | Michael          | Basil                  | Tiefling      | Artificer        |
 | Michael          | Snow Puff              | Tabaxi        | Arcane Archer    |
 | James            | John Oak Leaf          | Half Elf      | Arcane Archer    |
+| James            | ????????????????       | gnome         | Arcane Trickster |
 | Camilla          | Brigid                 | Human         | Fighter          |
 | Rachel           | Modar                  | Valdkin       | Rogue            |
 | Rachel           | Kyleth                 |               | Druid(ish?)      |
 | Rachel           | Galadan Goldpetal      | Half Elf      | Sorcerer         |
 | Rachel           | Beth                   | ?????????     | Artificer        |
+| Rachel           | Purified Bear          | ?????????     | Paladin          |
+| Heyden           | Emerald Crow           | Human         | Rogue            |
+| Heyden           | Hendry (+maximus)      | Dwarf         | Arch Druid       |
 |                  |                        |               |                  |
 +-Organisations----+-----------------------------------------------------------+
 | Order of Gauntlet- Led by Lord Frume. The order of Paladins is working to    |
@@ -634,3 +635,9 @@ Level & XP:___15________________________________          \/        \/        \/
 |                  | storming it                                               |
 |Well of Dragons   | Where Tiamate will arise                                  |
 +------------------+------------------------+---------------+------------------+
+
+Cultists:
+ Brian
+ Pom?
+ Fossi?
+ Cotten
