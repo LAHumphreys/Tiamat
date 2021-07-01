@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___15________________________________          \/        \/        \/
+Level & XP:___16________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 18 (R)| |  +9         | |  65       |
+| Inspiration                    [  ] |  | 19 (R)| |  +9         | |  65       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 90                         |
-| STRENGTH                  [12] [+1] |  | Current: 90                         |
++-------------------------------------+  | Maximum: 97                         |
+| STRENGTH                  [12] [+1] |  | Current: 97                         |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
+| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
@@ -31,14 +31,14 @@ Level & XP:___15________________________________          \/        \/        \/
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
-| WISDOM                 (R)[16] [+3] |  |                                     |
-| Saving Throws              [X] [+9] |  |  Alert:                             |
-| Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
-| Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
-| Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+8] |  |     due to being unseen             |
-| Perception [passive]   (O)     (28) |  |                                     |
-| Survival                   [X] [+8] |  |                                     |
+| WISDOM                 (R)[18] [+4] |  |                                     |
+| Saving Throws              [X] [+10]|  |  Alert:                             |
+| Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
+| Insight                    [ ] [+4] |  |   o Can't be surprised (concious)   |
+| Medicine                   [ ] [+4] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+9] |  |     due to being unseen             |
+| Perception [passive]   (O)     (24) |  |                                     |
+| Survival                   [X] [+9] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
 | Saving Throws          (R) [X] [+4] |  |   o dashing: diff. terrain no cost  |
@@ -63,7 +63,8 @@ Level & XP:___15________________________________          \/        \/        \/
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 | Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 3 = 16                           |
+|           [ ]                                                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 4 = 17                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -101,7 +102,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
 |                                                                              |
-| Death Ward (long rest): [X]                                                  |
+| Death Ward (long rest): [ ]                                                  |
 |     o If would reduce to 0, reduce to 1 instead                              |
 |     o If an effect would kill instantaneously, it is negated                 |
 |                                                                              |
@@ -123,7 +124,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 19                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 20                                       |
 |     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
@@ -449,6 +450,11 @@ Level & XP:___15________________________________          \/        \/        \/
 |                                                                              |
 +-Level 16---------------------------------------------------------------------+
 |  o Bahamut's Boon of Undectability                                           |
+|  o HP +7                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o WIS + 2 (AC +1, DC +1, WIS skills +1)
 |                                                                              |
 |                                                                              |
 |                                                                              |
