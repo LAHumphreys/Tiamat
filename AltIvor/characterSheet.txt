@@ -10,38 +10,38 @@ Level & XP:___15________________________________          \/        \/        \/
 | Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 90                         |
 | STRENGTH                  [12] [+1] |  | Current: 90                         |
-| Saving Throws              [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ]      |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [X] [+10]|  | Failures                [ ] [ ] [ ] |
+| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+9] |  +-------------------------------------+
 | Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [X] [+9] |  |                                     |
+| Stealth                (B) [X] [+19]|  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws              [X] [+7] |  |   o Draconic                        |
+| Saving Throws          (R) [X] [+7] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven                         |
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws              [X] [+8] |  |   o Toungue of the Sun & Moon       |
+| Saving Throws          (R) [X] [+8] |  |   o Toungue of the Sun & Moon       |
 | Arcana                     [/] [+3] |  |                                     |
 | History                    [X] [+7] |  |                                     |
 | Investigation              [X] [+7] |  |  Observant:                         |
-| Investigation [passive]        (21) |  |   o Lip Reading                     |
+| Investigation [passive](O)     (22) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
-| WISDOM                    [16] [+3] |  |                                     |
+| WISDOM                 (R)[16] [+3] |  |                                     |
 | Saving Throws              [X] [+9] |  |  Alert:                             |
 | Animal Handling            [ ] [+3] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+3] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+3] |  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+8] |  |     due to being unseen             |
-| Perception [passive]           (28) |  |                                     |
+| Perception [passive]   (O)     (28) |  |                                     |
 | Survival                   [X] [+8] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws              [X] [+4] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws          (R) [X] [+4] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
@@ -159,13 +159,18 @@ Level & XP:___15________________________________          \/        \/        \/
 |        - Create a nonmagical trinket or an illusory image that can fit in    |
 |          your hand and that lasts until end of your next turn                |
 |                                                                              |
-| Boon:                                                                        |
+| Heroes of Bahamut Boon:                                                      |
 |    - Can no longer be fightened by dragon type creatures                     |
 |    - Advantage to intimiadate draconic creatures                             |
 |    [The party all gained the boon when they under went the initation cermony |
 |     to join the order of the Gauntlet. The boon was upgraded when they after |
 |     they were annointed successors to the previous heroes after escaping     |
 |     dragonspear castle                                                       |
+|                                                                              |
+| Bahmut's Boon of Undectability:                                              |
+|    - +10 bonus to DEX Stealth                                                |
+|    - Can't be DETECTED or TARGETED by divination magic                       |
+|    ---> This includes scrying sensors                                        |
 |                                                                              |
 | Rod of Mind Control [DC15 per day]                                           |
 |     o Stolen for from a mind flayer in Lich's castle                         |
@@ -443,7 +448,7 @@ Level & XP:___15________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 16---------------------------------------------------------------------+
-|                                                                              |
+|  o Bahamut's Boon of Undectability                                           |
 |                                                                              |
 |                                                                              |
 |                                                                              |
@@ -635,9 +640,3 @@ Level & XP:___15________________________________          \/        \/        \/
 |                  | storming it                                               |
 |Well of Dragons   | Where Tiamate will arise                                  |
 +------------------+------------------------+---------------+------------------+
-
-Cultists:
- Brian
- Pom?
- Fossi?
- Cotten
