@@ -128,7 +128,7 @@ Level & XP:___16________________________________          \/        \/        \/
 |     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 75                                  |
+|     o Reduce fall damange by 5 x [LVL] = 80                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
