@@ -5,11 +5,11 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___16________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  | 19 (R)| |  +9         | |  65       |
+| Inspiration                    [  ] |  |21 (RB) | |  +9         | |  65       |
 | Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 97                         |
-| STRENGTH                  [12] [+1] |  | Current: 97                         |
+| STRENGTH                  [12] [+1] |  | Current: 97-10=87                   |
 | Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -62,7 +62,7 @@ Level & XP:___16________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |           [ ]                                                                |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 4 = 17                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
@@ -268,7 +268,8 @@ Level & XP:___16________________________________          \/        \/        \/
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Armor/Sheild--+-AC B.--+-Properties-+-------------------------------+-Weight-+
-|               |        |                                            |        |
+ | Bracer +2     |  +2    |  Magic                                    |        |
+ | Ring Protect  |  +1    |  Magic                                    |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 | PP [      ] | | GP [7956 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
@@ -297,6 +298,15 @@ Level & XP:___16________________________________          \/        \/        \/
 |       to figure out how to capture Tiamat                                    |
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
++-Attunement----------------------------------------------------------+------t-+
+|  [X]  Death Ward Coin                                                        |
+|  [X]  Ring of protection                                                     |
+|  [X]  Bracers of defence                                                     |
+|  [ ]  Rod of mind control                                                    |
+|  [ ]  Helm of underwater breathing                                           |
+|  [ ]  Magic knuckle dusters                                                  |
+|  [ ]  Magic short sword                                                      |
+|  [ ]  Cloak of Elven of kind                                                 |
 +------------------------------------------------------------------------------+
 +-Raw Stats--------------------------------------------------------------------+
 | STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
@@ -519,10 +529,11 @@ Level & XP:___16________________________________          \/        \/        \/
 | Rachel           | Kyleth                 |               | Druid(ish?)      |
 | Rachel           | Galadan Goldpetal      | Half Elf      | Sorcerer         |
 | Rachel           | Beth                   | ?????????     | Artificer        |
-| Rachel           | Purified Bear          | ?????????     | Paladin          |
+| Rachel           | Bear the Irrepressible | ?????????     | Paladin          |
 | Heyden           | Emerald Crow           | Human         | Rogue            |
-| Heyden           | Hendry (+maximus)      | Dwarf         | Arch Druid       |
-|                  |                        |               |                  |
+| Heyden           | Hendry the Hardy       | Dwarf         | Arch Druid       |
+|                  |   + Maximum            |               |                  |
+| Rosie            | Layton the Everlasting | Human         | Barbarian        |
 +-Organisations----+-----------------------------------------------------------+
 | Order of Gauntlet- Led by Lord Frume. The order of Paladins is working to    |
 |                  | defeat the cult.                                          |
