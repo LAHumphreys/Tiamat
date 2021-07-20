@@ -3,68 +3,68 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___16________________________________          \/        \/        \/
+Level & XP:___17________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
 | Inspiration                    [  ] |  |21 (RB) | |  +9         | |  65       |
-| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [28] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 97                         |
-| STRENGTH                  [12] [+1] |  | Current: 97                         |
-| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+6] |  |             [ ][ ][ ][ ][ ][ ][ ][ ]|
+| Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [29] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 102                        |
+| STRENGTH                  [12] [+1] |  | Current: 102                        |
+| Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athletics                  [X] [+7] |  |          [ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+9] |  +-------------------------------------+
-| Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
-| Stealth                (B) [X] [+19]|  |                                     |
+| Saving Throws          (R) [X] [+11]|  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+10]|  +-------------------------------------+
+| Sleight of Hand            [X] [+10]|  +-Other Proficiencies & Languages-----+
+| Stealth                (B) [X] [+20]|  |                                     |
 +-------------------------------------+  | Languages:                          |
 | CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws          (R) [X] [+7] |  |   o Draconic                        |
+| Saving Throws          (R) [X] [+8] |  |   o Draconic                        |
 +-------------------------------------+  |   o Dwarven                         |
 | INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws          (R) [X] [+8] |  |   o Toungue of the Sun & Moon       |
+| Saving Throws          (R) [X] [+9] |  |   o Toungue of the Sun & Moon       |
 | Arcana                     [/] [+3] |  |                                     |
-| History                    [X] [+7] |  |                                     |
-| Investigation              [X] [+7] |  |  Observant:                         |
-| Investigation [passive](O)     (22) |  |   o Lip Reading                     |
+| History                    [X] [+8] |  |                                     |
+| Investigation              [X] [+8] |  |  Observant:                         |
+| Investigation [passive](O)     (23) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                 (R)[18] [+4] |  |                                     |
-| Saving Throws              [X] [+10]|  |  Alert:                             |
+| Saving Throws              [X] [+11]|  |  Alert:                             |
 | Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
 | Insight                    [ ] [+4] |  |   o Can't be surprised (concious)   |
 | Medicine                   [ ] [+4] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+9] |  |     due to being unseen             |
+| Perception                 [X] [+10]|  |     due to being unseen             |
 | Perception [passive]   (O)     (24) |  |                                     |
 | Survival                   [X] [+9] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
-| Saving Throws          (R) [X] [+4] |  |   o dashing: diff. terrain no cost  |
+| Saving Throws          (R) [X] [+5] |  |   o dashing: diff. terrain no cost  |
 | Deception                  [ ] [-2] |  |   o Don't provoke opp. attacks from |
 | Intimidation               [ ] [-2] |  |     creatures you made a mele attack|
 | Performance                [ ] [-2] |  |     against this turn.              |
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Knuckle duster|   +10  |   1D8+5 BM | Jeweled, purply light         |        |
-| Fire Dragon   |   +9   |   1D8+4 PM | Made from a dragon claw from  |        |
-|   shortsword  |        |   + 3D6 FM | a felled red dragon fused into|        |
+| Knuckle duster|   +11  |  1D10+5 BM | Jeweled, purply light         |        |
+| Fire Dragon   |   +10  |  1D10+4 PM | Made from a dragon claw from  |        |
+|   shortsword  |        |  + 3D6 FM  | a felled red dragon fused into|        |
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
-| Mithral       |   +10  |   1D8+5 SM | Light - counts as simple      |        |
+| Mithral       |   +11  |  1D10+5 SM | Light - counts as simple      |        |
 |  longsword +1 |        |            |   (Drarven mines)             |        |
-| Unarmed       |   +9   |   1D8+4 BM |                               |        |
-| Nunchak (acid)|   +9   |   1D8+4 AM |                               |        |
-| Small Knife   |   +9   |   1D8+4 S  |                               |        |
+| Unarmed       |   +10  |  1D10+4 BM |                               |        |
+| Nunchak (acid)|   +10  |  1D10+4 AM |                               |        |
+| Small Knife   |   +10  |  1D10+4 S  |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 | Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
-|           [ ]                                                                |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 5 + 4 = 17                           |
+|           [ ] [ ]                                                            |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -124,11 +124,11 @@ Level & XP:___16________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 20                                       |
-|     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft           |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 21                                       |
+|     o 0 DMG >= Catch the missile: +10 / 1D10 + 4, Range: 20ft / 60ft         |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 80                                  |
+|     o Reduce fall damange by 5 x [LVL] = 85                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -146,6 +146,10 @@ Level & XP:___16________________________________          \/        \/        \/
 | Purity of Body:                                                              |
 |     o Immunity to disease                                                    |
 |     o Immunity to poison                                                     |
+|                                                                              |
+| Opportunist:                                                                 |
+|     o Trigger: Creature within 5ft of you is HIT by an attack                |
+|     --> Use reaction to make a mele attack against that creature             |
 |                                                                              |
 | Prestidigitation [action]                                                    |
 |     o Minor magical trick that novice spellcasters use for practice. One of: |
@@ -282,8 +286,9 @@ Level & XP:___16________________________________          \/        \/        \/
 |       - Breathe Underwater                                                   |
 |       - Dark vision - range 60ft                                             |
 |       - Swimming speed of 30ft                                               |
-|   o Cloak of Elven kind (attunement)
-|       - Perception 
+|   o Cloak of Elven kind (attunement)                                         |
+|       - Perception checks made to see you have disadvantage                  |
+|       - Advantage on DEX stealth checks                                      |
 |                                                                              |
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
@@ -467,6 +472,14 @@ Level & XP:___16________________________________          \/        \/        \/
 |  o WIS + 2 (AC +1, DC +1, WIS skills +1)
 |                                                                              |
 |                                                                              |
++-Level 17---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Slow Fall +5                                                              |
+|  o Ki Points: +1                                                             |
+|  o <prof> +1: skills,All savs, sav dc                                        |
+|  o Martial Arts: 1D10                                                         |
+|  o Feature: Opportunist                                                       |
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
