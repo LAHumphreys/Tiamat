@@ -5,9 +5,9 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___17________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |21 (RB) | |  +9         | |  65       |
+| Inspiration                    [  ] |  |21 (RB)| |  +9         | |  65       |
 | Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [29] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 102                        |
 | STRENGTH                  [12] [+1] |  | Current: 102                        |
 | Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
@@ -17,14 +17,14 @@ Level & XP:___17________________________________          \/        \/        \/
 | Saving Throws          (R) [X] [+11]|  | Failures                [ ] [ ] [ ] |
 | Acrobatics                 [X] [+10]|  +-------------------------------------+
 | Sleight of Hand            [X] [+10]|  +-Other Proficiencies & Languages-----+
-| Stealth                (B) [X] [+20]|  |                                     |
-+-------------------------------------+  | Languages:                          |
-| CONSTITUTION              [12] [+1] |  |   o Common                          |
-| Saving Throws          (R) [X] [+8] |  |   o Draconic                        |
-+-------------------------------------+  |   o Dwarven                         |
-| INTELLIGENCE              [14] [+2] |  |   o Elvish                          |
-| Saving Throws          (R) [X] [+9] |  |   o Toungue of the Sun & Moon       |
-| Arcana                     [/] [+3] |  |                                     |
+| Stealth                (B) [X] [+20]|  |  Languages:                         |
++-------------------------------------+  |    o Common                         |
+| CONSTITUTION              [12] [+1] |  |    o Draconic                       |
+| Saving Throws          (R) [X] [+8] |  |    o Dwarven                        |
++-------------------------------------+  |    o Elvish                         |
+| INTELLIGENCE              [14] [+2] |  |    o Toungue of the Sun & Moon      |
+| Saving Throws          (R) [X] [+9] |  |  Tools:                             |
+| Arcana                     [/] [+3] |  |    o Herbalism Kit                  |
 | History                    [X] [+8] |  |                                     |
 | Investigation              [X] [+8] |  |  Observant:                         |
 | Investigation [passive](O)     (23) |  |   o Lip Reading                     |
@@ -34,8 +34,8 @@ Level & XP:___17________________________________          \/        \/        \/
 | WISDOM                 (R)[18] [+4] |  |                                     |
 | Saving Throws              [X] [+11]|  |  Alert:                             |
 | Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
-| Insight                    [ ] [+4] |  |   o Can't be surprised (concious)   |
-| Medicine                   [ ] [+4] |  |   o Other creatures can't gain adv  |
+| Insight                    [X] [+10]|  |  ---Can-t-be-surprised-(concious)-- |
+| Medicine                   [X] [+10]|  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+10]|  |     due to being unseen             |
 | Perception [passive]   (O)     (24) |  |                                     |
 | Survival                   [X] [+9] |  |                                     |
@@ -54,7 +54,7 @@ Level & XP:___17________________________________          \/        \/        \/
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
 | Mithral       |   +11  |  1D10+5 SM | Light - counts as simple      |        |
-|  longsword +1 |        |            |   (Drarven mines)             |        |
+|  longsword +1 |        |            |   (Dwarven mines)             |        |
 | Unarmed       |   +10  |  1D10+4 BM |                               |        |
 | Nunchak (acid)|   +10  |  1D10+4 AM |                               |        |
 | Small Knife   |   +10  |  1D10+4 S  |                               |        |
@@ -289,6 +289,7 @@ Level & XP:___17________________________________          \/        \/        \/
 |   o Cloak of Elven kind (attunement)                                         |
 |       - Perception checks made to see you have disadvantage                  |
 |       - Advantage on DEX stealth checks                                      |
+|   o Scroll of gust.                                                          |
 |                                                                              |
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
@@ -624,7 +625,7 @@ Level & XP:___17________________________________          \/        \/        \/
 | Taryn            | Held in the castle in the Myr of Dead men                 |
 | Tresbin          | Cousin of Blago. Air ship pilot                           |
 | Blagothkus       | Owns Sky reach castle - wife's spirit trapped in the      |
-|                  | castle by cult, used by cult to blackmail him 
+|                  | castle by cult, used by cult to blackmail him             |
 | Esclarotta       | Balgothkus' wife - trapped in a gem by Rath Modar         |
 +------------------------------------------------------------------------------+
 | Guild of the grey| Golden statues, "men of iron",                            |
@@ -669,4 +670,6 @@ Level & XP:___17________________________________          \/        \/        \/
 |                  | The party now control it, after their second attempt at   |
 |                  | storming it                                               |
 |Well of Dragons   | Where Tiamate will arise                                  |
-+------------------+------------------------+---------------+------------------+
++------------------+-----------------------------------------------------------+
+
+Zaghak Lavashield - dwarf - 
