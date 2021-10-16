@@ -62,7 +62,7 @@ Level & XP:___17________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |           [ ] [ ]                                                            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
@@ -276,7 +276,7 @@ Level & XP:___17________________________________          \/        \/        \/
  | Ring Protect  |  +1    |  Magic                                    |        |
 ----------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-| PP [      ] | | GP [7956 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
+| PP [      ] | | GP [ 956 ] | | EP [       ] | | SP [      ] | | CP [      ]  |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
 |   o Gloves of Thieviery (+5 dex sleight of hand, +5 dex pick locks)          |
@@ -294,6 +294,8 @@ Level & XP:___17________________________________          \/        \/        \/
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
 |               - 1 of 3: (1: Keilith, 1: Assasin)                             |
+|                                                                              |
+| - Deeds to a well lit flat in Luskin, with views over the Harbour            |
 |                                                                              |
 | Book on teleportation magic                                                  |
 | Book on Forumlas for magical potions based on monstrous parts                |
@@ -671,5 +673,3 @@ Level & XP:___17________________________________          \/        \/        \/
 |                  | storming it                                               |
 |Well of Dragons   | Where Tiamate will arise                                  |
 +------------------+-----------------------------------------------------------+
-
-Zaghak Lavashield - dwarf - 
