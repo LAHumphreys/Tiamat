@@ -3,15 +3,15 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___17________________________________          \/        \/        \/
+Level & XP:___18________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |19 (RB)| |  +9         | |  65       |
+| Inspiration                    [  ] |  |21 (RB)| |  +9         | |  70       |
 | Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 102                        |
-| STRENGTH                  [12] [+1] |  | Current: 102-17-12-11-13=48            |
++-------------------------------------+  | Maximum: 108                        |
+| STRENGTH                  [12] [+1] |  | Current: 108                        |
 | Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+7] |  |          [ ][ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athletics                  [X] [+7] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
 | Saving Throws          (R) [X] [+11]|  | Failures                [ ] [ ] [ ] |
@@ -34,7 +34,7 @@ Level & XP:___17________________________________          \/        \/        \/
 | WISDOM                 (R)[18] [+4] |  |                                     |
 | Saving Throws              [X] [+11]|  |  Alert:                             |
 | Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
-| Insight                    [X] [+10]|  |  ---Can-t-be-surprised-(concious)-- |
+| Insight                    [X] [+10]|  |     Can-t-be-surprised-(concious)   |
 | Medicine                   [X] [+10]|  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+10]|  |     due to being unseen             |
 | Perception [passive]   (O)     (24) |  |                                     |
@@ -53,7 +53,7 @@ Level & XP:___17________________________________          \/        \/        \/
 |   shortsword  |        |  + 3D6 FM  | a felled red dragon fused into|        |
 |               |        |            | a branch from the elven grand |        |
 |               |        |            | father tree.                  |        |
-| Mithral       |   +11  |  1D10+5 SM | Light - counts as simple      |        |
+| Mithral       |   +11  |  1D10+5 S  | Light - counts as simple      |        |
 |  longsword +1 |        |            |   (Dwarven mines)             |        |
 | Unarmed       |   +10  |  1D10+4 BM |                               |        |
 | Nunchak (acid)|   +10  |  1D10+4 AM |                               |        |
@@ -62,8 +62,8 @@ Level & XP:___17________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [X] [X]    [x] [X] [X] [X] [ ]    [ ] [ ] [ ] [ ] [ ]  |
-|           [ ] [ ]                                                            |
+| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+|           [ ] [ ] [ ]                                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
@@ -79,6 +79,10 @@ Level & XP:___17________________________________          \/        \/        \/
 |     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
+|                                                                              |
+| Empty Body [4 ki Points] (action):                                           |
+|     o Invisible for 1 minute (disregarding light / actions)                  |
+|     o For that 1 minute, resistance to all damage except force damage        |
 |                                                                              |
 | Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
@@ -124,11 +128,11 @@ Level & XP:___17________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 21                                       |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 22                                       |
 |     o 0 DMG >= Catch the missile: +10 / 1D10 + 4, Range: 20ft / 60ft         |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 85                                  |
+|     o Reduce fall damange by 5 x [LVL] = 90                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -309,12 +313,12 @@ Level & XP:___17________________________________          \/        \/        \/
 +-Attunement----------------------------------------------------------+------t-+
 |  [X]  Death Ward Coin                                                        |
 |  [X]  Ring of protection                                                     |
-|  [ ]  Bracers of defence                                                     |
+|  [X]  Bracers of defence                                                     |
 |  [ ]  Rod of mind control                                                    |
 |  [ ]  Helm of underwater breathing                                           |
 |  [ ]  Magic knuckle dusters                                                  |
 |  [ ]  Magic short sword                                                      |
-|  [x]  Cloak of Elven of kind                                                 |
+|  [ ]  Cloak of Elven of kind                                                 |
 +------------------------------------------------------------------------------+
 +-Raw Stats--------------------------------------------------------------------+
 | STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
@@ -483,6 +487,14 @@ Level & XP:___17________________________________          \/        \/        \/
 |  o <prof> +1: skills,All savs, sav dc                                        |
 |  o Martial Arts: 1D10                                                         |
 |  o Feature: Opportunist                                                       |
+|                                                                              |
++-Level 18---------------------------------------------------------------------+
+|  o HP +6                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Slow Fall +5                                                              |
+|  o Ki Points: +1                                                             |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Feature: Empty Body
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
