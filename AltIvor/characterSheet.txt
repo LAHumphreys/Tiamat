@@ -5,11 +5,11 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___17________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |21 (RB)| |  +9         | |  65       |
+| Inspiration                    [  ] |  |19 (RB)| |  +9         | |  65       |
 | Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 102                        |
-| STRENGTH                  [12] [+1] |  | Current: 102                        |
+| STRENGTH                  [12] [+1] |  | Current: 102-17-12-11-13=48            |
 | Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+7] |  |          [ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -62,7 +62,7 @@ Level & XP:___17________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [X] [X] [X]    [X] [X] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [x] [X] [X] [X] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |           [ ] [ ]                                                            |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
@@ -309,12 +309,12 @@ Level & XP:___17________________________________          \/        \/        \/
 +-Attunement----------------------------------------------------------+------t-+
 |  [X]  Death Ward Coin                                                        |
 |  [X]  Ring of protection                                                     |
-|  [X]  Bracers of defence                                                     |
+|  [ ]  Bracers of defence                                                     |
 |  [ ]  Rod of mind control                                                    |
 |  [ ]  Helm of underwater breathing                                           |
 |  [ ]  Magic knuckle dusters                                                  |
 |  [ ]  Magic short sword                                                      |
-|  [ ]  Cloak of Elven of kind                                                 |
+|  [x]  Cloak of Elven of kind                                                 |
 +------------------------------------------------------------------------------+
 +-Raw Stats--------------------------------------------------------------------+
 | STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
