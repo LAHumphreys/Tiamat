@@ -5,7 +5,7 @@ Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
 Level & XP:___18________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [  ] |  |21 (RB)| |  +9         | |  70       |
+| Inspiration                    [ X] |  |19 (R) | |  +9         | |  70       |
 | Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 108                        |
@@ -88,7 +88,7 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o [4 ki Points] (action) Invisible for 1 minute                          |
 |       ---> Disregards light / actions                                        |
 |       ---> Resistance to all damage except force damage                      |
-|            [X] [X] [ ] [ ] [ ]      [ ] [ ] [ ] [  ] [ ]                     |
+|            [ ] [ ] [ ] [ ] [ ]      [ ] [ ] [ ] [  ] [ ]                     |
 |     o [8 ki Points] Cast Astral Projection (without materials)               |
 |       ---> Can't take any creatures with you.                                |
 |                                                                              |
@@ -315,14 +315,14 @@ Level & XP:___18________________________________          \/        \/        \/
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +-Attunement----------------------------------------------------------+------t-+
-|  [X]  Death Ward Coin                                                        |
+|--[-]--Death-Ward-Coin--------------------------------------------------------|
 |  [X]  Ring of protection                                                     |
 |  [X]  Bracers of defence                                                     |
-|  [ ]  Rod of mind control                                                    |
-|  [ ]  Helm of underwater breathing                                           |
-|  [ ]  Magic knuckle dusters                                                  |
-|  [ ]  Magic short sword                                                      |
-|  [ ]  Cloak of Elven of kind                                                 |
+|--[-]--Rod-of-mind-control----------------------------------------------------|
+|--[-]--Helm-of-underwater-breathing-------------------------------------------|
+|--[-]--Magic-knuckle-dusters--------------------------------------------------|
+|--[-]--Magic-short-sword------------------------------------------------------|
+|--[-]--Cloak-of-Elven-of-kind-------------------------------------------------|
 +------------------------------------------------------------------------------+
 +-Raw Stats--------------------------------------------------------------------+
 | STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
