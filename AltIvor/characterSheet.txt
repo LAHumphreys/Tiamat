@@ -73,6 +73,10 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o Diamond Soul - re-roll a failed saving throw. Must take the second     |
 |                      result.                                                 |
 |                                                                              |
+| Monk Weapons:                                                                |
+|     o Shortswords, Simple melee weapons                                      |
+|     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
+|                                                                              |
 | Shadows Arts                                                                 |
 |     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
 |     o [2 ki Points]: Darkvision (60ft / 8 hours)                             |
@@ -80,9 +84,13 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
 |                                                                              |
-| Empty Body [4 ki Points] (action):                                           |
-|     o Invisible for 1 minute (disregarding light / actions)                  |
-|     o For that 1 minute, resistance to all damage except force damage        |
+| Empty Body:                                                                  |
+|     o [4 ki Points] (action) Invisible for 1 minute                          |
+|       ---> Disregards light / actions                                        |
+|       ---> Resistance to all damage except force damage                      |
+|            [X] [X] [ ] [ ] [ ]      [ ] [ ] [ ] [  ] [ ]                     |
+|     o [8 ki Points] Cast Astral Projection (without materials)               |
+|       ---> Can't take any creatures with you.                                |
 |                                                                              |
 | Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
@@ -93,10 +101,6 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o Prerequisite: In dim light or darkness                                 |
 |     o You become invisible                                                   |
 |     o Ends: Make an attack, cast a spell or in an area of Bright Light       |
-|                                                                              |
-| Monk Weapons:                                                                |
-|     o Shortswords, Simple melee weapons                                      |
-|     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
 |                                                                              |
 | Unarmored movement:                                                          |
 |     o Can move along vertical surfaces and across liquids on your turn       |
