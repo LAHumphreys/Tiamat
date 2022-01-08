@@ -3,40 +3,40 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___18________________________________          \/        \/        \/
+Level & XP:___16________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [ X] |  |19 (R) | |  +9         | |  70       |
-| Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [23] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 108                        |
-| STRENGTH                  [12] [+1] |  | Current: 108                        |
-| Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+7] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
+| Inspiration                    [ X] |  |19 (R) | |  +9         | |  65       |
+| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 97                         |
+| STRENGTH                  [12] [+1] |  | Current: 97                         |
+| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athletics                  [X] [+6] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws          (R) [X] [+11]|  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+10]|  +-------------------------------------+
-| Sleight of Hand            [X] [+10]|  +-Other Proficiencies & Languages-----+
-| Stealth                (B) [X] [+20]|  |  Languages:                         |
+| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+9] |  +-------------------------------------+
+| Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
+| Stealth                (B) [X] [+19]|  |  Languages:                         |
 +-------------------------------------+  |    o Common                         |
 | CONSTITUTION              [12] [+1] |  |    o Draconic                       |
-| Saving Throws          (R) [X] [+8] |  |    o Dwarven                        |
+| Saving Throws          (R) [X] [+7] |  |    o Dwarven                        |
 +-------------------------------------+  |    o Elvish                         |
 | INTELLIGENCE              [14] [+2] |  |    o Toungue of the Sun & Moon      |
-| Saving Throws          (R) [X] [+9] |  |  Tools:                             |
+| Saving Throws          (R) [X] [+8] |  |  Tools:                             |
 | Arcana                     [/] [+3] |  |    o Herbalism Kit                  |
-| History                    [X] [+8] |  |                                     |
-| Investigation              [X] [+8] |  |  Observant:                         |
+| History                    [X] [+7] |  |                                     |
+| Investigation              [X] [+7] |  |  Observant:                         |
 | Investigation [passive](O)     (23) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                 (R)[18] [+4] |  |                                     |
-| Saving Throws              [X] [+11]|  |  Alert:                             |
+| Saving Throws              [X] [+10]|  |  Alert:                             |
 | Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
-| Insight                    [X] [+10]|  |     Can-t-be-surprised-(concious)   |
-| Medicine                   [X] [+10]|  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+10]|  |     due to being unseen             |
+| Insight                    [X] [+9] |  |     Can-t-be-surprised-(concious)   |
+| Medicine                   [X] [+9] |  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+9] |  |     due to being unseen             |
 | Perception [passive]   (O)     (24) |  |                                     |
 | Survival                   [X] [+9] |  |                                     |
 +-------------------------------------+  |  Mobile:                            |
@@ -48,23 +48,18 @@ Level & XP:___18________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Knuckle duster|   +11  |  1D10+5 BM | Jeweled, purply light         |        |
-| Fire Dragon   |   +10  |  1D10+4 PM | Made from a dragon claw from  |        |
-|   shortsword  |        |  + 3D6 FM  | a felled red dragon fused into|        |
-|               |        |            | a branch from the elven grand |        |
-|               |        |            | father tree.                  |        |
-| Mithral       |   +11  |  1D10+5 S  | Light - counts as simple      |        |
+| Mithral       |   +10  |  1D8+5 S   | Light - counts as simple      |        |
 |  longsword +1 |        |            |   (Dwarven mines)             |        |
-| Unarmed       |   +10  |  1D10+4 BM |                               |        |
-| Nunchak (acid)|   +10  |  1D10+4 AM |                               |        |
-| Small Knife   |   +10  |  1D10+4 S  |                               |        |
+| Unarmed       |   +9   |  1D8+4 BM  |                               |        |
+| Nunchak (acid)|   +9   |  1D8+4 AM  |                               |        |
+| Small Knife   |   +9   |  1D8+4 S   |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 | Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
-|           [ ] [ ] [ ]                                                        |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
+|           [ ]                                                                |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 17                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -83,14 +78,6 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
 |     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
 |     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
-|                                                                              |
-| Empty Body:                                                                  |
-|     o [4 ki Points] (action) Invisible for 1 minute                          |
-|       ---> Disregards light / actions                                        |
-|       ---> Resistance to all damage except force damage                      |
-|            [ ] [ ] [ ] [ ] [ ]      [ ] [ ] [ ] [  ] [ ]                     |
-|     o [8 ki Points] Cast Astral Projection (without materials)               |
-|       ---> Can't take any creatures with you.                                |
 |                                                                              |
 | Shadow Step (bonus action):                                                  |
 |     o Prerequisite: In dim light or darkness, can see target                 |
@@ -132,11 +119,11 @@ Level & XP:___18________________________________          \/        \/        \/
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 22                                       |
-|     o 0 DMG >= Catch the missile: +10 / 1D10 + 4, Range: 20ft / 60ft         |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 20                                       |
+|     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft         |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 90                                  |
+|     o Reduce fall damange by 5 x [LVL] = 80                                  |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -154,10 +141,6 @@ Level & XP:___18________________________________          \/        \/        \/
 | Purity of Body:                                                              |
 |     o Immunity to disease                                                    |
 |     o Immunity to poison                                                     |
-|                                                                              |
-| Opportunist:                                                                 |
-|     o Trigger: Creature within 5ft of you is HIT by an attack                |
-|     --> Use reaction to make a mele attack against that creature             |
 |                                                                              |
 | Prestidigitation [action]                                                    |
 |     o Minor magical trick that novice spellcasters use for practice. One of: |
@@ -185,31 +168,6 @@ Level & XP:___18________________________________          \/        \/        \/
 |    - Can't be DETECTED or TARGETED by divination magic                       |
 |    ---> This includes scrying sensors                                        |
 |                                                                              |
-| Rod of Mind Control [DC15 per day]                                           |
-|     o Stolen for from a mind flayer in Lich's castle                         |
-|     o Charm person [ ] [ ] [ ] [ ] [ ]                                       |
-|       - 1 creature, Range 30ft, 1 hour (or you or your companions harm it)   |
-|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
-|       - The creature regards you as a friendly aquaintance                   |
-|     o Calm Emotions [ ] [ ] [ ]                                              |
-|       - Range 60ft , 1 hour (or until you or your companions harm it)        |
-|       - All humanoids, 20ft radius sphere                                    |
-|       - CHA saving throw DC15 (creature may elect to fail it)                |
-|       - Choose one:                                                          |
-|       ---> Supress any affect causing the target to be charmed or frightened |
-|       ---> Target is indifferent about creatures of your choice              |
-|     o Charm Monster [ ]                                                      |
-|       - Range 30ft , 1 hour (or until you or your companions harm it)        |
-|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
-|       - The charmed creature is friendly towards you                         |
-|     o Dominate Person [ ]                                                    |
-|       - Range 60ft , 1 min (conc.)                                           |
-|       - WIS saving throw DC15 (adv if tream is fighting it)                  |
-|       - Each time the target takes damage -> new saving throw                |
-|       - Target is charmed, you have a telepathic link whilst on same plane   |
-|       - With link can specify a specifc / general course of action           |
-|       - [action] Take total and precise control of target: you control its   |
-|                  action, movement etc. Reaction uses up your reaction.       |
 | Claustrophobic                                                               |
 |     o Resulted from being buried alive after the fight with Nerovane in the  |
 |       dungeon under the Elven grand-father tree                              |
@@ -483,23 +441,6 @@ Level & XP:___18________________________________          \/        \/        \/
 |  o WIS + 2 (AC +1, DC +1, WIS skills +1)
 |                                                                              |
 |                                                                              |
-+-Level 17---------------------------------------------------------------------+
-|  o HP +5                                                                     |
-|  o Deflect Missile +1                                                        |
-|  o Slow Fall +5                                                              |
-|  o Ki Points: +1                                                             |
-|  o <prof> +1: skills,All savs, sav dc                                        |
-|  o Martial Arts: 1D10                                                         |
-|  o Feature: Opportunist                                                       |
-|                                                                              |
-+-Level 18---------------------------------------------------------------------+
-|  o HP +6                                                                     |
-|  o Deflect Missile +1                                                        |
-|  o Slow Fall +5                                                              |
-|  o Ki Points: +1                                                             |
-|  o Unarmored Movement: +5ft                                                  |
-|  o Feature: Empty Body
-|                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
 |     35     |   5'8''  |135lbs (61kg) |  brown     |Sun Darkened|  Black      |
@@ -687,5 +628,4 @@ Level & XP:___18________________________________          \/        \/        \/
 |                  | of the fae including Azbara & his boss Rath Modar         |
 |                  | The party now control it, after their second attempt at   |
 |                  | storming it                                               |
-|Well of Dragons   | Where Tiamate will arise                                  |
-+------------------+-----------------------------------------------------------+
+------------------+-----------------------------------------------------------+
