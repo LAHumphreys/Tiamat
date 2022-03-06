@@ -3,42 +3,42 @@ Race:________Human_____________________________  \______ \   /  _ \  \______ \
 Class:_______Monk______________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Chaotic Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage_-_Discredited Academic_______  /_______  /\_____\ \/_______  /
-Level & XP:___16________________________________          \/        \/        \/
+Level & XP:___18________________________________          \/        \/        \/
 +-------------------------------------+  +-AC----+ +-Initiative----+ +-Speed---+
-| Inspiration                    [ X] |  |19 (R) | |  +9         | |  65       |
-| Proficiency Bonus              [+5] |  +-------+ +-------------+ +-----------+
-| Passive Wisdom (Perception)    [22] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum: 97                         |
-| STRENGTH                  [12] [+1] |  | Current: 97                         |
-| Saving Throws          (R) [X] [+7] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
-| Athletics                  [X] [+6] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
+| Inspiration                    [  ] |  |19 (R) | |  +9         | |  70       |
+| Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
+| Passive Wisdom (Perception)    [25] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum: 107                        |
+| STRENGTH                  [12] [+1] |  | Current: 107                        |
+| Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
+| Athletics                  [X] [+7] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [18] [+4] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws          (R) [X] [+10]|  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [X] [+9] |  +-------------------------------------+
-| Sleight of Hand            [X] [+9] |  +-Other Proficiencies & Languages-----+
-| Stealth                (B) [X] [+19]|  |  Languages:                         |
+| Saving Throws          (R) [X] [+11]|  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [X] [+10]|  +-------------------------------------+
+| Sleight of Hand            [X] [+10]|  +-Other Proficiencies & Languages-----+
+| Stealth                (B) [X] [+20]|  |  Languages:                         |
 +-------------------------------------+  |    o Common                         |
 | CONSTITUTION              [12] [+1] |  |    o Draconic                       |
-| Saving Throws          (R) [X] [+7] |  |    o Dwarven                        |
+| Saving Throws          (R) [X] [+8] |  |    o Dwarven                        |
 +-------------------------------------+  |    o Elvish                         |
 | INTELLIGENCE              [14] [+2] |  |    o Toungue of the Sun & Moon      |
-| Saving Throws          (R) [X] [+8] |  |  Tools:                             |
+| Saving Throws          (R) [X] [+9] |  |  Tools:                             |
 | Arcana                     [/] [+3] |  |    o Herbalism Kit                  |
-| History                    [X] [+7] |  |                                     |
-| Investigation              [X] [+7] |  |  Observant:                         |
+| History                    [X] [+8] |  |                                     |
+| Investigation              [X] [+8] |  |  Observant:                         |
 | Investigation [passive](O)     (23) |  |   o Lip Reading                     |
 | Nature                     [ ] [+2] |  |   o +1 WIS                          |
 | Religion                   [ ] [+2] |  |   o +5 passive perception (WIS)     |
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                 (R)[18] [+4] |  |                                     |
-| Saving Throws              [X] [+10]|  |  Alert:                             |
-| Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
-| Insight                    [X] [+9] |  |     Can-t-be-surprised-(concious)   |
-| Medicine                   [X] [+9] |  |   o Other creatures can't gain adv  |
-| Perception                 [X] [+9] |  |     due to being unseen             |
-| Perception [passive]   (O)     (24) |  |                                     |
-| Survival                   [X] [+9] |  |                                     |
+| Saving Throws              [X] [+11]|  |  Alert:                             |
+| Animal Handling            [ ] [+5] |  |   o +5 to Initiative                |
+| Insight                    [X] [+10]|  |     Can-t-be-surprised-(concious)   |
+| Medicine                   [X] [+10]|  |   o Other creatures can't gain adv  |
+| Perception                 [X] [+10]|  |     due to being unseen             |
+| Perception [passive]   (O)     (25) |  |                                     |
+| Survival                   [X] [+10]|  |                                     |
 +-------------------------------------+  |  Mobile:                            |
 | CHARISMA                  [ 6] [-2] |  |   o +10ft Movement                  |
 | Saving Throws          (R) [X] [+5] |  |   o dashing: diff. terrain no cost  |
@@ -48,18 +48,18 @@ Level & XP:___16________________________________          \/        \/        \/
 | Persuasion                 [ ] [-2] |  |                                     |
 +-------------------------------------+  +-------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Mithral       |   +10  |  1D8+5 S   | Light - counts as simple      |        |
+| Mithral       |   +11  |  1D10+5 S  | Light - counts as simple      |        |
 |  longsword +1 |        |            |   (Dwarven mines)             |        |
-| Unarmed       |   +9   |  1D8+4 BM  |                               |        |
-| Nunchak (acid)|   +9   |  1D8+4 AM  |                               |        |
-| Small Knife   |   +9   |  1D8+4 S   |                               |        |
+| Unarmed       |   +10  |  1D10+4 BM |                               |        |
+| Nunchak (acid)|   +10  |  1D10+4 AM |                               |        |
+| Small Knife   |   +10  |  1D10+4 S  |                               |        |
 |               |        |            |                               |        |
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
 | Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
-|           [ ]                                                                |
-|     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 17                           |
+|           [ ] [ ] [ ]                                                        |
+|     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
 |     o Patient Defence - take Dodge has a bonus action                        |
 |     o Step of the Wind - take Disengage or Dash as bonus action. Jump x2     |
@@ -72,23 +72,6 @@ Level & XP:___16________________________________          \/        \/        \/
 |     o Shortswords, Simple melee weapons                                      |
 |     o Bonus unarmed strike, when using an attack action with Monk Weapon     |
 |                                                                              |
-| Shadows Arts                                                                 |
-|     o [Cantrip]:     Minor Illusion: 30ft / 1min                             |
-|     o [2 ki Points]: Darkvision (60ft / 8 hours)                             |
-|     o [2 ki Points]: Darkness (60ft / 10min (conc.) /15ft radius sphere)     |
-|     o [2 ki Points]: Pass without trace (+10 stealth, incl companions) / 1hr |
-|     o [2 ki Points]: 120ft / 20ft rad / 10min (conc.) - No V spells, thunder |
-|                                                                              |
-| Shadow Step (bonus action):                                                  |
-|     o Prerequisite: In dim light or darkness, can see target                 |
-|     o Target: 60ft, in dim light or darkness                                 |
-|     o Advantage on first melee attack made this turn                         |
-|                                                                              |
-| Cloak of Shadows (action)                                                    |
-|     o Prerequisite: In dim light or darkness                                 |
-|     o You become invisible                                                   |
-|     o Ends: Make an attack, cast a spell or in an area of Bright Light       |
-|                                                                              |
 | Unarmored movement:                                                          |
 |     o Can move along vertical surfaces and across liquids on your turn       |
 |       without falling during the move                                        |
@@ -97,33 +80,20 @@ Level & XP:___16________________________________          \/        \/        \/
 |     o Fists count as magical for the purpose of overcoming resistance /      |
 |       immunity to nonmagical attacks / damage                                |
 |                                                                              |
-| Death Ward (long rest): [ ]                                                  |
-|     o If would reduce to 0, reduce to 1 instead                              |
-|     o If an effect would kill instantaneously, it is negated                 |
-|                                                                              |
-| Bless (1/day): [ ]                                                           |
-|     o As an action, cast the Bless spell from the fire dragon short sword    |
-|     o Cast at 1st level                                                      |
-|     o conc. 1 min, 30ft                                                      |
-|     o Up to 3 creatures within range may add 1D4 to a saving throw or attach |
-|       roll                                                                   |
-|                                                                              |
-| Burning Hands (1/day): [ ]                                                   |
-|     o action, 1st level                                                      |
-|     o self, 15ft cone                                                        |
-|     o Dex saving throw: 3D6 Fire dmg on fail, 1/2 on success                 |
-|     o Flamable objects are ignited...                                        |
-|                                                                              |
 | Ambush / sneak attacks:                                                      |
 |     o Opponents cannot gain advantage from being unseen                      |
 |     o Can't be surprised whilst concious                                     |
 |                                                                              |
 | Deflect Missiles [reaction]                                                  |
-|     o 1D10 + [DEX] + [LVL] = 1D10 + 20                                       |
-|     o 0 DMG >= Catch the missile: +9 / 1D8 + 4, Range: 20ft / 60ft         |
+|     o 1D10 + [DEX] + [LVL] = 1D10 + 22                                       |
+|     o 0 DMG >= Catch the missile: +10 / 1D10 + 4, Range: 20ft / 60ft         |
 |                                                                              |
 | Slow Fall (reaction):                                                        |
-|     o Reduce fall damange by 5 x [LVL] = 80                                  |
+|     o Reduce fall damange by 5 x [LVL] = 90
+|                                                                              |
+| Empty Body [4 ki Points] (action):                                           |
+|     o Invisible for 1 minute (disregarding light / actions)                  |
+|     o For that 1 minute, resistance to all damage except force damage        |
 |                                                                              |
 | Evasion:                                                                     |
 |     o DEX Save:                                                              |
@@ -255,7 +225,10 @@ Level & XP:___16________________________________          \/        \/        \/
 |   o Cloak of Elven kind (attunement)                                         |
 |       - Perception checks made to see you have disadvantage                  |
 |       - Advantage on DEX stealth checks                                      |
+|   o Spare cloak of Elven kind (attunement) [See above]                       |
 |   o Scroll of gust.                                                          |
+|                                                                              |
+|   o Laser Pointer x12                                                        |
 |                                                                              |
 | Combat:                                                                      |
 |   o Gold Coin - Death Ward (gifted and crafted by Ella De Bolbec)            |
@@ -273,14 +246,14 @@ Level & XP:___16________________________________          \/        \/        \/
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +-Attunement----------------------------------------------------------+------t-+
-|--[-]--Death-Ward-Coin--------------------------------------------------------|
+|  [X]  Cloak of Elven of kind                                                 |
 |  [X]  Ring of protection                                                     |
-|  [X]  Bracers of defence                                                     |
+|--[-]--Death-Ward-Coin--------------------------------------------------------|
+|--[-]--Bracers-of-defence-----------------------------------------------------|
 |--[-]--Rod-of-mind-control----------------------------------------------------|
 |--[-]--Helm-of-underwater-breathing-------------------------------------------|
 |--[-]--Magic-knuckle-dusters--------------------------------------------------|
 |--[-]--Magic-short-sword------------------------------------------------------|
-|--[-]--Cloak-of-Elven-of-kind-------------------------------------------------|
 +------------------------------------------------------------------------------+
 +-Raw Stats--------------------------------------------------------------------+
 | STR: 12, DEX: 16, CON:11, INT: 14, WIS: 14, CHA: 6                           |
@@ -441,6 +414,26 @@ Level & XP:___16________________________________          \/        \/        \/
 |  o WIS + 2 (AC +1, DC +1, WIS skills +1)
 |                                                                              |
 |                                                                              |
+|                                                                              |
++-Level 17---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Deflect Missile +1                                                        |
+|  o Ki Points: +1                                                             |
+|  o Slow Fall +5                                                              |
+|  o <prof> +1: skills,DEX sav, STR sav, sav dc                                |
+|  o Martial Arts: 1D10                                                        |
+|  o Features: Convert to Way of the 4 elements                                |
+|                                                                              |
+|                                                                              |
++-Level 18---------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Ki Points: +1                                                             |
+|  o Deflect Missile +1                                                        |
+|  o Slow Fall +5                                                              |
+|  o Unarmored Movement: +5ft                                                  |
+|  o Empty body                                                                |
+|                                                                              |
++------------------------------------------------------------------------------+
 +------------------------------------------------------------------------------+
 +-Age--------+-Height---+-Weight-------+-Eyes-------+-Skin-------+-Hair--------+
 |     35     |   5'8''  |135lbs (61kg) |  brown     |Sun Darkened|  Black      |
