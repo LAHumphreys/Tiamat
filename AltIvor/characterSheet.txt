@@ -33,8 +33,8 @@ Level & XP:___18________________________________          \/        \/        \/
 +-------------------------------------+  |   o +5 passive Investigation (INT)  |
 | WISDOM                 (R)[18] [+4] |  |                                     |
 | Saving Throws              [X] [+11]|  |  Alert:                             |
-| Animal Handling            [ ] [+5] |  |   o +5 to Initiative                |
-| Insight                    [X] [+10]|  |     Can-t-be-surprised-(concious)   |
+| Animal Handling            [ ] [+4] |  |   o +5 to Initiative                |
+| Insight                    [X] [+10]|  |     Can't be surprised (concious)   |
 | Medicine                   [X] [+10]|  |   o Other creatures can't gain adv  |
 | Perception                 [X] [+10]|  |     due to being unseen             |
 | Perception [passive]   (O)     (25) |  |                                     |
@@ -57,7 +57,7 @@ Level & XP:___18________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [x] [X] [x]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
 |           [ ] [ ] [ ]                                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
