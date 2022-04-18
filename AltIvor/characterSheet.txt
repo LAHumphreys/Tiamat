@@ -9,7 +9,7 @@ Level & XP:___18________________________________          \/        \/        \/
 | Proficiency Bonus              [+6] |  +-------+ +-------------+ +-----------+
 | Passive Wisdom (Perception)    [25] |  +-Hit Points--------------------------+
 +-------------------------------------+  | Maximum: 107                        |
-| STRENGTH                  [12] [+1] |  | Current: 107                        |
+| STRENGTH                  [12] [+1] |  | Current: 90-26=64                   |
 | Saving Throws          (R) [X] [+8] |  | Hit Dice: D8[ ][ ][ ][ ][ ][ ][ ][ ]|
 | Athletics                  [X] [+7] |  |       [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]|
 +-------------------------------------+  +-Death Saves-------------------------+
@@ -57,7 +57,7 @@ Level & XP:___18________________________________          \/        \/        \/
 +-Combat Features--------------------------------------------------------------+
 | Number of Attacks per attack action: 2                                       |
 |                                                                              |
-| Ki Points [X] [X] [x] [X] [x]    [ ] [ ] [ ] [ ] [ ]    [ ] [ ] [ ] [ ] [ ]  |
+| Ki Points [X] [X] [X] [X] [X]    [X] [X] [X] [X] [X]    [X] [X] [X] [X] [X]  |
 |           [ ] [ ] [ ]                                                        |
 |     o Save DC: 8 + <prof> + <WIS> = 8 + 6 + 4 = 18                           |
 |     o Flurry of Blows - 2x unarmed strikes as a bonus action                 |
