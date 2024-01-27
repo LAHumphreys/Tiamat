@@ -3,14 +3,14 @@ Race:________Forest Gnome______________________  \______ \   /  _ \  \______ \
 Class:_______Wizard____________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage______________________________  /_______  /\_____\ \/_______  /
-Level & XP:__2_________________________________          \/        \/        \/ 
+Level & XP:__3_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC-+-Mage AC----+-Ini-+ +-Speed-----+
 | Inspiration                    [  ] |  | 13 | 13+3 = 16  | +3  | |  25ft     |
 | Proficiency Bonus              [+2] |  +----+-----+ +----+-----+ +-----------+
 | Passive Wisdom (Perception)    [12] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:   15                       |
-| STRENGTH                  [+2] [14] |  | Current:   15                       |
-| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ][ ]                  |
++-------------------------------------+  | Maximum:   20                       |
+| STRENGTH                  [+2] [14] |  | Current:   20                       |
+| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ][ ][ ]               |
 | Athlethic                  [ ] [+2] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [+3] [16] |  | Successes               [ ] [ ] [ ] |
@@ -85,10 +85,10 @@ Level & XP:__2_________________________________          \/        \/        \/
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Spells-----------------------------------------------------------------------+
-|  Save DC: 8 + 2 + 4 = 14,   Attack: 2 + 4: +6  Prepared: 4 + 1: 5            |
+|  Save DC: 8 + 2 + 4 = 14,   Attack: 2 + 4: +6  Prepared: 4 + 3: 7            |
 |                                                                              |
 | Arcane Recovery: [ ]                                                         |
-|  o Recovered slots: RoundUp(2/2): 1                                          |
+|  o Recovered slots: RoundUp(3/2): 1                                          |
 |                                                                              |
 | Cantrips:                                                                    |
 |  o Minor Illusion                                                            |
@@ -96,12 +96,16 @@ Level & XP:__2_________________________________          \/        \/        \/
 |  o Prestigitation                                                            |
 |  o Shocking Grasp                                                            |
 |                                                                              |
-| Level 1: [ ] [ ] [ ]                                                         |
+| Level 1: [ ] [ ] [ ] [ ]                                                     |
 |    - Alarm (Ritual)                                                          |
 |    - Magic Missile                                                           |
 |    - Mage Armour                                                             |
 |    - Shield (reaction)                                                       |
 |    - Witch Bolt                                                              |
+|                                                                              |
+| Level 2: [ ] [ ]                                                             |
+|    - Locate Object                                                           |
+|    - Misty Step                                                              |
 |                                                                              |
 |                                                                              |
 +-Spell Book-------------------------------------------------------------------+
@@ -115,6 +119,10 @@ Level & XP:__2_________________________________          \/        \/        \/
 |    - Witch Bolt                                                              |
 |    - Detect Magic (ritual)                                                   |
 |    - Identify (ritual)                                                       |
+|                                                                              |
+|  Level 2:                                                                    |
+|    - Locate Object                                                           |
+|    - Misty Step                                                              |
 |                                                                              |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
@@ -178,9 +186,14 @@ Level & XP:__2_________________________________          \/        \/        \/
 |  o HP +7                                                                     |
 |  o Spells: Detect Magic, Identify                                            |
 |  o School of Divinination: Portent                                           |
+|  o +1 prepared spells                                                        |
 |                                                                              |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
+|  o HP +5                                                                     |
+|  o Spells:  Misty Step, Locate Object                                        |
+|  o +1 prepared spells                                                        |
+|  o +1 Arcane recovery                                                        |
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
