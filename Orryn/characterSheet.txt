@@ -3,14 +3,14 @@ Race:________Forest Gnome______________________  \______ \   /  _ \  \______ \
 Class:_______Wizard____________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage______________________________  /_______  /\_____\ \/_______  /
-Level & XP:__1_________________________________          \/        \/        \/ 
+Level & XP:__2_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC-+-Mage AC----+-Ini-+ +-Speed-----+
 | Inspiration                    [  ] |  | 13 | 13+3 = 16  | +3  | |  25ft     |
 | Proficiency Bonus              [+2] |  +----+-----+ +----+-----+ +-----------+
 | Passive Wisdom (Perception)    [12] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:   8                        |
-| STRENGTH                  [+2] [14] |  | Current:   8                        |
-| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ]                     |
++-------------------------------------+  | Maximum:   15                       |
+| STRENGTH                  [+2] [14] |  | Current:   15                       |
+| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ][ ]                  |
 | Athlethic                  [ ] [+2] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [+3] [16] |  | Successes               [ ] [ ] [ ] |
@@ -72,11 +72,23 @@ Level & XP:__1_________________________________          \/        \/        \/
 |                                                                              |
 | Max. Bearing Capacity:                                      Weight:          |
 +------------------------------------------------------------------------------+
++-Portent----------------------------------------------------------------------+
+|  Dinvined Rolls [  ] [  ]                                                    |
+|  Target: You, or any creature you can see                                    |
+|                                                                              |
+|  When you finish a long rest, roll 2 d20s and record the result above        |
+|                                                                              |
+|  You can Replace attack roll, saving throw, or ability check mabde by the    |
+|  target with one of these foretelling rolls (this uses up the roll           |
+|                                                                              |
+|  You must decide to do this *before* the roll is to be made                  |
+|                                                                              |
++------------------------------------------------------------------------------+
 +-Spells-----------------------------------------------------------------------+
 |  Save DC: 8 + 2 + 4 = 14,   Attack: 2 + 4: +6  Prepared: 4 + 1: 5            |
 |                                                                              |
 | Arcane Recovery: [ ]                                                         |
-|  o Recovered slots: RoundUp(1/2): 1                                          |
+|  o Recovered slots: RoundUp(2/2): 1                                          |
 |                                                                              |
 | Cantrips:                                                                    |
 |  o Minor Illusion                                                            |
@@ -84,7 +96,7 @@ Level & XP:__1_________________________________          \/        \/        \/
 |  o Prestigitation                                                            |
 |  o Shocking Grasp                                                            |
 |                                                                              |
-| Level 1: [ ] [ ]                                                             |
+| Level 1: [ ] [ ] [ ]                                                         |
 |    - Alarm (Ritual)                                                          |
 |    - Magic Missile                                                           |
 |    - Mage Armour                                                             |
@@ -101,6 +113,8 @@ Level & XP:__1_________________________________          \/        \/        \/
 |    - Shield (reaction)                                                       |
 |    - Find Familiar (Owl)                                                     |
 |    - Witch Bolt                                                              |
+|    - Detect Magic (ritual)                                                   |
+|    - Identify (ritual)                                                       |
 |                                                                              |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
@@ -161,6 +175,9 @@ Level & XP:__1_________________________________          \/        \/        \/
 |  o Light Crossbow (25)                                                       |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
+|  o HP +7                                                                     |
+|  o Spells: Detect Magic, Identify                                            |
+|  o School of Divinination: Portent                                           |
 |                                                                              |
 |                                                                              |
 +-Level 3----------------------------------------------------------------------+
