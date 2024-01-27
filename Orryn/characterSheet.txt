@@ -49,9 +49,9 @@ Level & XP:__3_________________________________          \/        \/        \/
 | Q.Staff       |  +4    |  1D6+2 B   | Versatile (1D8)               |        |
 | L.Crossbow    |  +5    |  1D8   P   | Loading (80/320)              |        |
 |               |        |            |                               |        |
-+-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties-----------------------------+
-| Shocking Grasp|   +6   | 1D8 +1 L   | Touch                                  |
-|               |        |            |                                        |
++-Spell---------+-ATK B.-+-Damage/Typ-+-Properties-----------------------------+
+| Shocking Grasp|   +6   | 1D8     L  | Touch                                  |
+| Firebolt      |   +6   | 1D10 +1 F  | Range 120 ft                           |
 |               |        |            |                                        |
 +-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -68,6 +68,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 | - Component Pouch?                                                           |
 | - Spellbook                                                                  |
+| - Fernian Ash Staff                                                          |
 |                                                                              |
 | - Small Stell Mirror                                                         |
 |                                                                              |
@@ -93,7 +94,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 | Cantrips:                                                                    |
 |  o Minor Illusion                                                            |
-|  o Mage Hand                                                                 |
+|  o Fire Bolt                                                                 |
 |  o Prestigitation                                                            |
 |  o Shocking Grasp                                                            |
 |                                                                              |
@@ -147,7 +148,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 || Keen Hearing and Sight.                                                    ||
 ||   - Advantage on WIS (perception) checks that rely on hearing / sight      ||
 |+-Touch Spells---+--Atk Roll-+-Description-----------------------------------+|
-|| Shocking Grasp |   +6      | 1D8 (+1 with focus), it can't take reactions  ||
+|| Shocking Grasp |   +6      | 1D8, it can't take reactions                  ||
 |+----------------+-----------+-----------------------------------------------+|
 |+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
 || Talons     |   +3      |  1 S       | reach (5ft)                          ||
@@ -176,13 +177,13 @@ Level & XP:__3_________________________________          \/        \/        \/
 |  - Skills: Investigation, Insight                                            |
 |  - Weapon Profs: Darts, Daggers, L. Crossbow, Quarterstaff, Slings           |
 |  - Equipment: Quarterstaff, pack, spellbook, components                      |
-|  - Cantrips: Mage Hand, Prestidgitation, Shocking Grasp                      |
+|  - Cantrips: Firebolt, Prestidgitation, Shocking Grasp                       |
 |  - Spell book: Alarm, Magic Missile, Mage Armour, Shield, Witch Bolt         |
 |  - Arcane recovery (0.5 -> 1 slot)                                           |
 |                                                                              |
 +-Purchased Equptment----------------------------------------------------------+
 |  o Light Crossbow (25)                                                       |
-|  o Lamannian Oak Staff (Common magic item)                                   |
+|  o Fernian Ash Staff) (Common magic item)                                   |
 |  o Mirror (5)                                                                |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
