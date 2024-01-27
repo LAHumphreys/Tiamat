@@ -1,0 +1,271 @@
+Name:________Orryn_____________________________  ________     ____   ________   
+Race:________Forest Gnome______________________  \______ \   /  _ \  \______ \  
+Class:_______Wizard____________________________   |    |  \  >  _ </\ |    |  \ 
+Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
+Background:__Sage______________________________  /_______  /\_____\ \/_______  /
+Level & XP:__1_________________________________          \/        \/        \/ 
++-------------------------------------+  +-AC-+-Mage AC----+-Ini-+ +-Speed-----+
+| Inspiration                    [  ] |  | 13 | 13+3 = 16  | +3  | |  25ft     |
+| Proficiency Bonus              [+2] |  +----+-----+ +----+-----+ +-----------+
+| Passive Wisdom (Perception)    [12] |  +-Hit Points--------------------------+
++-------------------------------------+  | Maximum:   8                        |
+| STRENGTH                  [+2] [14] |  | Current:   8                        |
+| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ]                     |
+| Athlethic                  [ ] [+2] |  |                                     |
++-------------------------------------+  +-Death Saves-------------------------+
+| DEXTERITY                 [+3] [16] |  | Successes               [ ] [ ] [ ] |
+| Saving Throws              [ ] [+3] |  | Failures                [ ] [ ] [ ] |
+| Acrobatics                 [ ] [+3] |  +-------------------------------------+
+| Sleight of Hand            [ ] [+3] |  +-Other Proficiencies & Languages-----+
+| Stealth                    [ ] [+3] |  |                                     |
++-------------------------------------+  |  Languages:                         |
+| CONSTITUTION              [+2] [15] |  |    o Common                         |
+| Saving Throws              [ ] [+2] |  |    o Gnomish                        |
++-------------------------------------+  |    o Elvish                         |
+| INTELLIGENCE              [+4] [19] |  |    o Sylvan (Fey)                   |
+| Saving Throws              [X] [+6] |  |  - Speak with Small Beasts
+| Arcana                     [X] [+6] |  |                                     |
+| History                    [X] [+6] |  |  - Darkvision (60ft)                |
+| Investigation              [X] [+6] |  |                                     |
+| Nature                     [ ] [+4] |  |  - Daggers, darts, slings, l. cross |
+| Religion                   [ ] [+4] |  |    quarterstaffs,                   |
++-------------------------------------+  |                                     |
+| WISDOM                    [+2] [15] |  |                                     |
+| Saving Throws              [X] [+4] |  |                                     |
+| Animal Handling            [ ] [+2] |  |                                     |
+| Insight                    [X] [+4] |  |                                     |
+| Medicine                   [ ] [+2] |  |                                     |
+| Perception                 [ ] [+2] |  |                                     |
+| Survival                   [ ] [+2] |  |                                     |
++-------------------------------------+  |                                     |
+| CHARISMA                  [+2] [14] |  |                                     |
+| Saving Throws              [ ] [+2] |  |                                     |
+| Deception                  [ ] [+2] |  |                                     |
+| Intimidation               [ ] [+2] |  |                                     |
+| Performance                [ ] [+2] |  |                                     |
+| Persuation                 [ ] [+2] |  |                                     |
++-------------------------------------+  +-------------------------------------+
++-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
+| Q.Staff       |  +4    |  1D6+2 B   | Versatile (1D8)               |        |
+| L.Crossbow    |  +5    |  1D8   P   | Loading (80/320)              |        |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
++-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
+|               |        |                                            |        |
+|               |        |                                            |        |
+|               |        |                                            |        |
+|               |        |                                            |        |
++---------------+--------+--------------------------------------------+--------+
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
+| PP [      ] | | GP [      ] | | EP [       ] | | SP [      ] | | CP [      ] |
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
++-Equipment-----------------------------------------------------------+-Weight-+
+| Explorer's Pack:                                                             |
+|  o bedroll,mess kit,tinderbox,torch (10),rations (10),waterskin,hempen rope  |
+|                                                                              |
+| Component Pouch?                                                             |
+|                                                                              |
+| Spellbook                                                                    |
+|                                                                              |
+| Max. Bearing Capacity:                                      Weight:          |
++------------------------------------------------------------------------------+
++-Spells-----------------------------------------------------------------------+
+|  Save DC: 8 + 2 + 4 = 14,   Attack: 2 + 4: +6  Prepared: 4 + 1: 5            |
+|                                                                              |
+| Arcane Recovery: [ ]                                                         |
+|  o Recovered slots: RoundUp(1/2): 1                                          |
+|                                                                              |
+| Cantrips:                                                                    |
+|  o Minor Illusion                                                            |
+|  o Mage Hand                                                                 |
+|  o Prestigitation                                                            |
+|  o Shocking Grasp                                                            |
+|                                                                              |
+| Level 1: [ ] [ ]                                                             |
+|    - Alarm (Ritual)                                                          |
+|    - Magic Missile                                                           |
+|    - Mage Armour                                                             |
+|    - Shield (reaction)                                                       |
+|    - Witch Bolt                                                              |
+|                                                                              |
+|                                                                              |
++-Spell Book-------------------------------------------------------------------+
+|                                                                              |
+|  Level 1:                                                                    |
+|    - Alarm (Ritual)                                                          |
+|    - Magic Missile                                                           |
+|    - Mage Armour                                                             |
+|    - Shield (reaction)                                                       |
+|    - Find Familiar (Owl)                                                     |
+|    - Witch Bolt                                                              |
+|                                                                              |
+|                                                                              |
++-Familiar---------------------------------------------------------------------+
+|+-Name------+-Race----------+-Alignment----+-Size------+-Appearance----------+|
+|| Tia Maria | Owl           | Chaotic N    | Tiny      | Snowy, obviously    ||
+|+-AC-----+--Speed--+---Fly---+--Climb-----+-Hit Points-----------------------+|
+||   11   |  5ft    |   60ft  |   ????     | Max:         1                   ||
+|+--------+---------+---------+------------+ Resistances:                     ||
+|+-Attr+-STR-+-DEX-+-CON-+-INT-+-WIS-+CHAR-| Current:     1                   ||
+||     |  3  | 13  |  8  | 2   | 12  |  7  | Hit Dice:                        ||
+|+-----|-----|-----|-----|-----|-----|---- +- Death Saves --------------------+|
+|| Mod | -4  | +1  | -1  | -4  | +1  | -2  | Successes: [ ] [ ] [ ]           ||
+|| Sav | -4  | +1  | -1  | -4  | +1  | -2  | Failures:  [ ] [ ] [ ]           ||
+|+-Skills------------+-Passive Skills------+-Languages------------------------+|
+|| Perception: [+3]  | Perception [13]     |                                  ||
+|| Stealth:    [+3]  | Investigation [6]   |                                  ||
+|+-Other Features-------------------------------------------------------------+|
+|| Flyby:                                                                     ||
+||   - provokes no opp. attacks when it flies out of an enemy's reach         ||
+||                                                                            ||
+|| Keen Hearing and Sight.                                                    ||
+||   - Advantage on WIS (perception) checks that rely on hearing / sight      ||
+|+-Touch Spells---+--Atk Roll-+-Description-----------------------------------+|
+|| Shocking Grasp |   +6      | 1D8, it can't take reactions                  ||
+|+----------------+-----------+-----------------------------------------------+|
+|+-Weapon-----+-ATK B.----+-Damage/Typ-+-Properties---------------------------+|
+|| Talons     |   +3      |  1 S       | reach (5ft)                          ||
+|+----------------------------------------------------------------------------+|
++------------------------------------------------------------------------------+
++-Racial Features--------------------------------------------------------------+
+|  - Size: Small, 3' 6"                                                        |
+|  - Speed: 25ft                                                               |
+|  - Darkvision (60ft)                                                         |
+|  - Gnome Cunning                                                             |
+|  - BASE SCORES: INT: 17, DEX: 15, CON: 15, WIS: 15, STR: 14, CHA: 14
+|  - Racial Attributes: INT+2, DEX+1
+|  - Speak with Small Beasts                                                   |
+|  - Languages: Common, Gnomish
+|  - Cantrips:  Minor Illusion  
+|                                                                              |
++-Background Feature-----------------------------------------------------------+
+|  - Skills: Arcana, History                                                   |
+|  - Languages: Elvish, Sylvan                                                 |
+|  - Speciality: Wizard's apprentice                                           |
+|  - Feature: Researcher                                                       |
+|                                                                              |
++-Class Features---------------------------------------------------------------+
+|  - Hit Points: 6 + 2                                                         |
+|  - Saving Throws: INT + WIS                                                  |
+|  - Skills: Investigation, Insight                                            |
+|  - Weapon Profs: Darts, Daggers, L. Crossbow, Quarterstaff, Slings           |
+|  - Equipment: Quarterstaff, pack, spellbook, components                      |
+|  - Cantrips: Mage Hand, Prestidgitation, Shocking Grasp                      |
+|  - Spell book: Alarm, Magic Missile, Mage Armour, Shield, Witch Bolt         |
+|  - Arcane recovery (0.5 -> 1 slot)                                           |
+|                                                                              |
++-Purchased Equptment----------------------------------------------------------+
+|  o Light Crossbow (25)                                                       |
+|                                                                              |
++-Level 2----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 3----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 4----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 5----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 6----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 7----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 8----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 9----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 10---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 11---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 12---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 13---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 14---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 15---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 16---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++------------------------------------------------------------------------------+
++-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
+|            |            |            |            |            |             |
++-Appearance-+------------+------------+------------+------------+-------------+
+|                                                                              |
+|                                                                              |
++-Backstory--------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Personality Traits-----------------------------------------------------------+
+| - There's nothing I like more than a good Mystery                            |
+|                                                                              |
++-Ideals-----------------------------------------------------------------------+
+| - Knowledge: The path to power and self-improvement is through knowledge     |
+|                                                                              |
++-Bonds------------------------------------------------------------------------+
+| - I work to expand the knoweledge stored in my Master's great library        |
+|                                                                              |
++-Flaws------------------------------------------------------------------------+
+| - I am easily distracted by the promise of information                       |
+|                                                                              |
++-Allies & Organizations-------------------------------------------------------+
+|  - Master:                                                                   |
+|                                                                              |
++-Notes------------------------------------------------------------------------+
+|                                                                              |
+| Gnome Cunning:                                                               |
+|  o You have advantage on all Int, WIS and CHA saving throws against magic    |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++-Known Players----+-Character--------------+-Race----------+-Class------------+
+|                  |                        |               |                  |
+|                  |                        |               |                  |
+|                  |                        |               |                  |
++------------------+------------------------+---------------+------------------+
+
