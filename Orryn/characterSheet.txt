@@ -3,14 +3,14 @@ Race:________Forest Gnome______________________  \______ \   /  _ \  \______ \
 Class:_______Wizard____________________________   |    |  \  >  _ </\ |    |  \ 
 Alignment:___Neutral Good______________________   |    `   \/  <_\ \/ |    `   \
 Background:__Sage______________________________  /_______  /\_____\ \/_______  /
-Level & XP:__3_________________________________          \/        \/        \/ 
+Level & XP:__4_________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC-+-Mage AC----+-Ini-+ +-Speed-----+
 | Inspiration                    [  ] |  | 13 | 13+3 = 16  | +3  | |  25ft     |
 | Proficiency Bonus              [+2] |  +----+-----+ +----+-----+ +-----------+
 | Passive Wisdom (Perception)    [12] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:   20                       |
-| STRENGTH                  [+2] [14] |  | Current:   20                       |
-| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ][ ][ ]               |
++-------------------------------------+  | Maximum:   28                       |
+| STRENGTH                  [+2] [14] |  | Current:   28                       |
+| Saving Throws              [ ] [+2] |  | Hit Dice: D6[ ][ ][ ][ ]            |
 | Athlethic                  [ ] [+2] |  |                                     |
 +-------------------------------------+  +-Death Saves-------------------------+
 | DEXTERITY                 [+3] [16] |  | Successes               [ ] [ ] [ ] |
@@ -22,21 +22,21 @@ Level & XP:__3_________________________________          \/        \/        \/
 | CONSTITUTION              [+2] [15] |  |    o Common                         |
 | Saving Throws              [ ] [+2] |  |    o Gnomish                        |
 +-------------------------------------+  |    o Elvish                         |
-| INTELLIGENCE              [+4] [19] |  |    o Sylvan (Fey)                   |
-| Saving Throws              [X] [+6] |  |  - Speak with Small Beasts
-| Arcana                     [X] [+6] |  |                                     |
-| History                    [X] [+6] |  |  - Darkvision (60ft)                |
-| Investigation              [X] [+6] |  |                                     |
-| Nature                     [ ] [+4] |  |  - Daggers, darts, slings, l. cross |
-| Religion                   [ ] [+4] |  |    quarterstaffs,                   |
+| INTELLIGENCE              [+5] [20] |  |    o Sylvan (Fey)                   |
+| Saving Throws              [X] [+7] |  |  - Speak with Small Beasts
+| Arcana                     [X] [+7] |  |                                     |
+| History                    [X] [+7] |  |  - Darkvision (60ft)                |
+| Investigation              [X] [+7] |  |                                     |
+| Nature                     [ ] [+5] |  |  - Daggers, darts, slings, l. cross |
+| Religion                   [ ] [+5] |  |    quarterstaffs,                   |
 +-------------------------------------+  |                                     |
-| WISDOM                    [+2] [15] |  |                                     |
-| Saving Throws              [X] [+4] |  |                                     |
-| Animal Handling            [ ] [+2] |  |                                     |
-| Insight                    [X] [+4] |  |                                     |
-| Medicine                   [ ] [+2] |  |                                     |
-| Perception                 [ ] [+2] |  |                                     |
-| Survival                   [ ] [+2] |  |                                     |
+| WISDOM                    [+3] [16] |  |                                     |
+| Saving Throws              [X] [+5] |  |                                     |
+| Animal Handling            [ ] [+3] |  |                                     |
+| Insight                    [X] [+5] |  |                                     |
+| Medicine                   [ ] [+3] |  |                                     |
+| Perception                 [ ] [+3] |  |                                     |
+| Survival                   [ ] [+3] |  |                                     |
 +-------------------------------------+  |                                     |
 | CHARISMA                  [+2] [14] |  |                                     |
 | Saving Throws              [ ] [+2] |  |                                     |
@@ -50,8 +50,8 @@ Level & XP:__3_________________________________          \/        \/        \/
 | L.Crossbow    |  +5    |  1D8   P   | Loading (80/320)              |        |
 |               |        |            |                               |        |
 +-Spell---------+-ATK B.-+-Damage/Typ-+-Properties-----------------------------+
-| Shocking Grasp|   +6   | 1D8     L  | Touch                                  |
-| Firebolt      |   +6   | 1D10 +1 F  | Range 120 ft                           |
+| Shocking Grasp|   +7   | 1D8     L  | Touch                                  |
+| Firebolt      |   +7   | 1D10 +1 F  | Range 120 ft                           |
 |               |        |            |                                        |
 +-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
 |               |        |                                            |        |
@@ -87,16 +87,20 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Spells-----------------------------------------------------------------------+
-|  Save DC: 8 + 2 + 4 = 14,   Attack: 2 + 4: +6  Prepared: 4 + 3: 7            |
+|  Save DC: 8 + 2 + 5 = 15,   Attack: 2 + 5: +7  Prepared: 5 + 4: 9            |
 |                                                                              |
 | Arcane Recovery: [ ]                                                         |
-|  o Recovered slots: RoundUp(3/2): 1                                          |
+|  o Recovered slots: RoundUp(4/2): 2                                          |
 |                                                                              |
 | Cantrips:                                                                    |
 |  o Minor Illusion                                                            |
 |  o Fire Bolt                                                                 |
 |  o Prestigitation                                                            |
 |  o Shocking Grasp                                                            |
+|  o Gust (action, rng 30ft):                                                  |
+|     - One Medium or smaller creature that you choose must succeed on a       |
+|       Strength saving throw or be pushed up to 5 feet away from you.         |
+|     - One Medium or smaller creature that you choose must succeed on a       |
 |                                                                              |
 | Level 1: [ ] [ ] [ ] [ ]                                                     |
 |    - Alarm (Ritual)                                                          |
@@ -104,10 +108,17 @@ Level & XP:__3_________________________________          \/        \/        \/
 |    - Mage Armour                                                             |
 |    - Shield (reaction)                                                       |
 |    - Witch Bolt                                                              |
+|    - Thunderwave (15ft cube centered on me):                                 |
+|        o 2D8 (half on con save)                                              |  
+|        o pushed 10ft away from me (unless saved)                             |  
+|        o +1D8 per higher level casted                                        |  
 |                                                                              |
-| Level 2: [ ] [ ]                                                             |
+| Level 2: [ ] [ ] [ ]                                                         |
 |    - Locate Object                                                           |
 |    - Misty Step                                                              |
+|    - Cloud of Daggers (conc 1min):                                           |
+|        o 5ft Cube                                                            |
+|        o 4d4 slasing when it enters or the starts turn in area               |
 |                                                                              |
 |                                                                              |
 +-Spell Book-------------------------------------------------------------------+
@@ -121,10 +132,12 @@ Level & XP:__3_________________________________          \/        \/        \/
 |    - Witch Bolt                                                              |
 |    - Detect Magic (ritual)                                                   |
 |    - Identify (ritual)                                                       |
+|    - Thunderwave                                                             |
 |                                                                              |
 |  Level 2:                                                                    |
 |    - Locate Object                                                           |
 |    - Misty Step                                                              |
+|    - Cloud of Daggers                                                        |
 |                                                                              |
 |                                                                              |
 +-Familiar---------------------------------------------------------------------+
@@ -183,7 +196,7 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 +-Purchased Equptment----------------------------------------------------------+
 |  o Light Crossbow (25)                                                       |
-|  o Fernian Ash Staff) (Common magic item)                                   |
+|  o Fernian Ash Staff) (Common magic item)                                    |
 |  o Mirror (5)                                                                |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
@@ -201,6 +214,11 @@ Level & XP:__3_________________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 +-Level 4----------------------------------------------------------------------+
+|  o HP +8                                                                     |
+|  o +1 WIS, +1 INT                                                            |
+|  o Cantrip: Gust                                                             |
+|  o Spells: Cloud of Daggers, Thunderwave                                     |
+|  o Prepared Spells: +2                                                       |
 |                                                                              |
 |                                                                              |
 +-Level 5----------------------------------------------------------------------+
