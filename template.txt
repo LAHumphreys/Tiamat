@@ -1,5 +1,9 @@
 credit: u/mogoh
 link: https://www.reddit.com/r/DnD/comments/4h4fwt/i_created_a_dd_5e_ascii_character_sheet/
+Modifications:
+  - Slightly moved around components at the top of sheet to reduce merge conflict
+    when re-working a character with different stat roles. (Previously lines that
+    changed rarely (e.g stats) would clash with lines that changed often (e.g HP)
 
 Name:__________________________________________  ________     ____   ________   
 Race:__________________________________________  \______ \   /  _ \  \______ \  
@@ -9,45 +13,50 @@ Background:____________________________________  /_______  /\_____\ \/_______  /
 Level & XP:____________________________________          \/        \/        \/ 
 +-------------------------------------+  +-AC-------+ +-Ini------+ +-Speed-----+
 | Inspiration                    [  ] |  |          | |          | |           |
-| Proficiency Bonus              [  ] |  +----------+ +----------+ +-----------+
-| Passive Wisdom (Perception)    [  ] |  +-Hit Points--------------------------+
-+-------------------------------------+  | Maximum:                            |
-| STRENGTH                  [  ] [  ] |  | Modifier:                           |
-| Saving Throws              [ ] [  ] |  | Current:                            |
-| Athlethic                  [ ] [  ] |  | Hit Dice:                           |
-+-------------------------------------+  +-Death Saves-------------------------+
-| DEXTERITY                 [  ] [  ] |  | Successes               [ ] [ ] [ ] |
-| Saving Throws              [ ] [  ] |  | Failures                [ ] [ ] [ ] |
-| Acrobatics                 [ ] [  ] |  +-------------------------------------+
-| Sleight of Hand            [ ] [  ] |  +-Other Proficiencies & Languages-----+
-| Stealth                    [ ] [  ] |  |                                     |
-+-------------------------------------+  |                                     |
-| CONSTITUTION              [  ] [  ] |  |                                     |
-| Saving Throws              [ ] [  ] |  |                                     |
-+-------------------------------------+  |                                     |
-| INTELLIGENCE              [  ] [  ] |  |                                     |
-| Saving Throws              [ ] [  ] |  |                                     |
-| Arcana                     [ ] [  ] |  |                                     |
-| History                    [ ] [  ] |  |                                     |
-| Investigation              [ ] [  ] |  |                                     |
-| Nature                     [ ] [  ] |  |                                     |
-| Religion                   [ ] [  ] |  |                                     |
-+-------------------------------------+  |                                     |
-| WISDOM                    [  ] [  ] |  |                                     |
-| Saving Throws              [ ] [  ] |  |                                     |
-| Animal Handling            [ ] [  ] |  |                                     |
-| Insight                    [ ] [  ] |  |                                     |
-| Medicine                   [ ] [  ] |  |                                     |
-| Perception                 [ ] [  ] |  |                                     |
-| Survival                   [ ] [  ] |  |                                     |
-+-------------------------------------+  |                                     |
-| CHARISMA                  [  ] [  ] |  |                                     |
-| Saving Throws              [ ] [  ] |  |                                     |
-| Deception                  [ ] [  ] |  |                                     |
-| Intimidation               [ ] [  ] |  |                                     |
-| Performance                [ ] [  ] |  |                                     |
-| Persuation                 [ ] [  ] |  |                                     |
+| Proficiency Bonus              [  ] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [  ] |  | Hit Dice:                           |
++-Death Saves-------------------------+  | Modifier:                           |
+| Successes               [ ] [ ] [ ] |  | Current:                            |
+| Failures                [ ] [ ] [ ] |  | Maximum:                            |
 +-------------------------------------+  +-------------------------------------+
++-------------------------------------+  +-------------------------------------+ 
+| CONSTITUTION              [  ] [  ] |  | STRENGTH                  [  ] [  ] |
+| Saving Throws              [ ] [  ] |  | Saving Throws              [ ] [  ] |
++-------------------------------------+  | Athlethic                  [ ] [  ] |
+| CHARISMA                  [  ] [  ] |  +-------------------------------------+
+| Saving Throws              [ ] [  ] |  | DEXTERITY                 [  ] [  ] |
+| Deception                  [ ] [  ] |  | Saving Throws              [ ] [  ] |
+| Intimidation               [ ] [  ] |  | Acrobatics                 [ ] [  ] |
+| Performance                [ ] [  ] |  | Sleight of Hand            [ ] [  ] |
+| Persuation                 [ ] [  ] |  | Stealth                    [ ] [  ] |
++-------------------------------------+  +-------------------------------------+
+| WISDOM                    [  ] [  ] |  | INTELLIGENCE              [  ] [  ] |
+| Saving Throws              [ ] [  ] |  | Saving Throws              [ ] [  ] |
+| Animal Handling            [ ] [  ] |  | Arcana                     [ ] [  ] |
+| Insight                    [ ] [  ] |  | History                    [ ] [  ] |
+| Medicine                   [ ] [  ] |  | Investigation              [ ] [  ] |
+| Perception                 [ ] [  ] |  | Nature                     [ ] [  ] |
+| Survival                   [ ] [  ] |  | Religion                   [ ] [  ] |
++-------------------------------------+  +-------------------------------------+
++-Armour / Shield Proficiencies------------------------------------------------+
+| Light [ ]           Medium [ ]            Heavy [ ]             Shield [ ]   |
++------------------------------------------------------------------------------+
++-Weapon Proficiencies---------------------------------------------------------+
+| Simple [ ]           Martial [ ]                                             |
++------------------------------------------------------------------------------+
++-Other Proficiencies & Languages------+---Feats-------------------------------+
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
++--------------------------------------+---------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
 |               |        |            |                               |        |
 |               |        |            |                               |        |
