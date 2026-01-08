@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 10 (64000 XP)___________________          \/        \/        \/
+Level & XP: 11 (85000 XP)___________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   15   | | +11(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+4] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [16] |  | Hit Dice: 10d10                     |
+| Passive Wisdom (Perception)    [16] |  | Hit Dice: 11d10                     |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  62                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  62                        |
+| Successes               [ ] [ ] [ ] |  | Current:  64                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  64                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -48,7 +48,7 @@ Level & XP: 10 (64000 XP)___________________          \/        \/        \/
 | 1st Level [ ] [ ] [ ] [ ] : Disguise Self*, Goodberry, Hunter's Mark,        |
 |                             Zephyr Strike                                    |
 | 2nd Level [ ] [ ] [ ]     : Pass Without Trace, Rope Trick*, Silence         |
-| 3rd Level [ ] [ ]         : Fear*, Lightning Arrow                           |
+| 3rd Level [ ] [ ] [ ]     : Fear*, Lightning Arrow, Protection from Energy   |
 | 4th Level                 :                                                  |
 | 5th Level                 :                                                  |
 | * = Gloom Stalker spell, always known (doesn't count vs spells known limit)  |
@@ -69,6 +69,9 @@ Level & XP: 10 (64000 XP)___________________          \/        \/        \/
 |                                                                              |
 | Dread Ambusher: +WIS (2) to initiative, +10ft speed first turn, extra        |
 |                 attack first turn dealing +1d8 damage                        |
+|                                                                              |
+| Stalker's Flurry (Gloom Stalker): Once per turn, if you miss with an attack, |
+|   make another weapon attack as part of same action                          |
 |                                                                              |
 | Umbral Sight: Darkvision 90ft, invisible to darkvision in darkness           |
 |                                                                              |
@@ -224,8 +227,10 @@ Level & XP: 10 (64000 XP)___________________          \/        \/        \/
 | Hide in Plain Sight: 1 min to camouflage, +10 Stealth while motionless      |
 | Natural Explorer: +Forest                                                    |
 +-Level 11---------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Stalker's Flurry (Gloom Stalker): Once per turn, if miss attack, make       |
+|   another weapon attack as part of same action                               |
+| Spell: +Protection from Energy (resistance to one element for 1 hour)       |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd                                         |
 +-Level 12---------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
@@ -295,6 +300,10 @@ Level & XP: 10 (64000 XP)___________________          \/        \/        \/
 | PASS WITHOUT TRACE - 2nd level, 1 Action, V/S/M (ashes & pine sprigs), Conc  |
 |   (1 hour). You + creatures you choose within 30ft gain +10 Stealth and      |
 |   can't be tracked except by magic.                                          |
+|                                                                              |
+| PROTECTION FROM ENERGY - 3rd level, 1 Action, V/S, Concentration (1 hour)    |
+|   Touch. Target gains resistance to acid, cold, fire, lightning, or thunder  |
+|   (choose one). Perfect for volcano fortress!                                |
 |                                                                              |
 | ROPE TRICK - 2nd level, 1 Action, V/S/M (corn extract & twisted loop), 1 hr  |
 |   Create invisible 60ft rope to extradimensional space holding up to 8       |
