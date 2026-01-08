@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 2 (300 XP)______________________          \/        \/        \/
-+-------------------------------------+  +-AC-------+ +-Ini------+ +-Speed-----+
-| Inspiration                    [  ] |  |    15    | |    +4    | |    30 ft  |
+Level & XP: 3 (900 XP)______________________          \/        \/        \/
++-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
+| Inspiration                    [  ] |  |   15   | | +6 (+2) | | 30 ft / 40ft |
 | Proficiency Bonus              [+2] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [14] |  | Hit Dice: 2d10                      |
+| Passive Wisdom (Perception)    [14] |  | Hit Dice: 3d10                      |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  13                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  13                        |
+| Successes               [ ] [ ] [ ] |  | Current:  18                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  18                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -45,11 +45,31 @@ Level & XP: 2 (300 XP)______________________          \/        \/        \/
 | Simple [x]           Martial [x]                                             |
 +------------------------------------------------------------------------------+
 +-Spells & Spell Slots---------------------------------------------------------+
-| 1st Level [ ] [ ] : Goodberry, Hunter's Mark                                 |
-| 2nd Level           :                                                        |
-| 3rd Level           :                                                        |
-| 4th Level           :                                                        |
-| 5th Level           :                                                        |
+| 1st Level [ ] [ ] [ ] : Disguise Self*, Goodberry, Hunter's Mark, Zephyr     |
+|                         Strike                                               |
+| 2nd Level               :                                                    |
+| 3rd Level               :                                                    |
+| 4th Level               :                                                    |
+| 5th Level               :                                                    |
+| * = Gloom Stalker spell, always known (doesn't count vs spells known limit)  |
++------------------------------------------------------------------------------+
++-Class Features & Abilities---------------------------------------------------+
+| Feline Agility [ ]: Double speed until end of turn (recharge: move 0ft)      |
+|                                                                              |
+| Favored Enemy (Undead): Advantage on Survival to track, Intelligence checks  |
+|                         to recall information about them                     |
+|                                                                              |
+| Natural Explorer : Not slowed by difficult terrain, advantage on initiative, |
+|   (Mountain)       first turn advantage vs creatures that haven't acted yet  |
+|                                                                              |
+| Archery Fighting Style: +2 to ranged weapon attack rolls                     |
+|                                                                              |
+| Dread Ambusher: +WIS (2) to initiative, +10ft speed first turn, extra        |
+|                 attack first turn dealing +1d8 damage                        |
+|                                                                              |
+| Umbral Sight: Darkvision 90ft, invisible to darkvision in darkness           |
+|                                                                              |
+| Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
 +-Other Proficiencies & Languages------+---Feats-------------------------------+
 | Tools: None                          |                                       |
@@ -152,15 +172,22 @@ Level & XP: 2 (300 XP)______________________          \/        \/        \/
 | Wanderer: Excellent memory for maps/geography, can find food/water for self  |
 | and up to 5 others each day                                                  |
 +-Class Features---------------------------------------------------------------+
-| Favored Enemy (Undead), Natural Explorer (Mountain)                          |
-|                                                                              |
+| Favored Enemy (Undead), Natural Explorer (Mountain), Primeval Awareness      |
+| Gloom Stalker: Dread Ambusher, Umbral Sight                                  |
 +-Level 2----------------------------------------------------------------------+
 | Fighting Style: Archery (+2 to ranged attack rolls)                          |
 | Spellcasting: Spell Slots: 2x 1st level, Spells Known: 2                     |
 | Spells: Hunter's Mark (bonus action, 1d6 extra damage), Goodberry (10 HP)    |
 +-Level 3----------------------------------------------------------------------+
+| Ranger Archetype: Gloom Stalker                                              |
+| Dread Ambusher: +WIS to initiative, +10ft speed on 1st turn, extra attack    |
+|   on 1st turn (deals +1d8 damage)                                            |
+| Gloom Stalker spell (always prepared): Disguise Self                         |
+| Umbral Sight: Darkvision extends to 90ft. Invisible to darkvision in dark.   |
 |                                                                              |
+| Primeval Awareness: Spend spell slot to detect creature types within 1 mile  |
 |                                                                              |
+| Spells: +1 spell known (Zephyr Strike), +1 spell slot (3 total)              |
 +-Level 4----------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
@@ -230,6 +257,10 @@ Level & XP: 2 (300 XP)______________________          \/        \/        \/
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
 +-Spell Reference--------------------------------------------------------------+
+| DISGUISE SELF - 1st level, 1 Action, V/S, 1 hour                             |
+|   Make yourself look different (height +/- 1ft, body type, features). Does   |
+|   not hold up to physical inspection. (Gloom Stalker bonus spell)            |
+|                                                                              |
 | GOODBERRY - 1st level, 1 Action, V/S/M (sprig of mistletoe)                  |
 |   Create 10 berries for 24 hours. Eating 1 berry (action) restores 1 HP      |
 |   and provides nourishment for one day.                                      |
@@ -238,6 +269,10 @@ Level & XP: 2 (300 XP)______________________          \/        \/        \/
 |   Choose creature you can see within 90ft. Deal extra 1d6 damage to target   |
 |   whenever you hit with weapon attack. Advantage on Perception/Survival to   |
 |   track it. If target drops to 0 HP, use bonus action to mark new target.    |
+|                                                                              |
+| ZEPHYR STRIKE - 1st level, Bonus Action, V, Concentration (1 min)            |
+|   +30ft movement, no opportunity attacks. Once before spell ends, advantage  |
+|   on 1 weapon attack and +1d8 force damage if it hits.                       |
 |                                                                              |
 |                                                                              |
 |                                                                              |
