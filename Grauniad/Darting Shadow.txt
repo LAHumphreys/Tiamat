@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 15 (165000 XP)__________________          \/        \/        \/
+Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   16   | | +12(+7) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   16   | | +13(+8) | | 30 ft / 40ft |
 | Proficiency Bonus              [+5] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [17] |  | Hit Dice: 15d10                     |
+| Passive Wisdom (Perception)    [18] |  | Hit Dice: 16d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current: 109                        |
-| Failures                [ ] [ ] [ ] |  | Maximum: 109                        |
+| Successes               [ ] [ ] [ ] |  | Current: 121                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 121                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -30,13 +30,13 @@ Level & XP: 15 (165000 XP)__________________          \/        \/        \/
 | Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+5] |
 | Persuation                 [ ] [+0] |  | Stealth                    [x] [+10]|
 +-------------------------------------+  +-------------------------------------+
-| WISDOM                    [14] [+2] |  | INTELLIGENCE              [12] [+1] |
-| Saving Throws              [x] [+7] |  | Saving Throws              [ ] [+1] |
-| Animal Handling            [x] [+7] |  | Arcana                     [ ] [+1] |
-| Insight                    [ ] [+2] |  | History                    [ ] [+1] |
-| Medicine                   [ ] [+2] |  | Investigation              [ ] [+1] |
-| Perception                 [x] [+7] |  | Nature                     [ ] [+1] |
-| Survival                   [x] [+7] |  | Religion                   [ ] [+1] |
+| WISDOM                    [16] [+3] |  | INTELLIGENCE              [12] [+1] |
+| Saving Throws              [x] [+8] |  | Saving Throws              [ ] [+1] |
+| Animal Handling            [x] [+8] |  | Arcana                     [ ] [+1] |
+| Insight                    [ ] [+3] |  | History                    [ ] [+1] |
+| Medicine                   [ ] [+3] |  | Investigation              [ ] [+1] |
+| Perception                 [x] [+8] |  | Nature                     [ ] [+1] |
+| Survival                   [x] [+8] |  | Religion                   [ ] [+1] |
 +-------------------------------------+  +-------------------------------------+
 +-Armour / Shield Proficiencies------------------------------------------------+
 | Light [x]           Medium [x]            Heavy [ ]             Shield [x]   |
@@ -68,7 +68,7 @@ Level & XP: 15 (165000 XP)__________________          \/        \/        \/
 |                                                                              |
 | Extra Attack: Attack twice when you take the Attack action                   |
 |                                                                              |
-| Dread Ambusher: +WIS (2) to initiative, +10ft speed first turn, extra        |
+| Dread Ambusher: +WIS (3) to initiative, +10ft speed first turn, extra        |
 |                 attack first turn dealing +1d8 damage                        |
 |                                                                              |
 | Stalker's Flurry (Gloom Stalker): Once per turn, if you miss with an attack, |
@@ -257,9 +257,9 @@ Level & XP: 15 (165000 XP)__________________          \/        \/        \/
 | Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th                                 |
 | HP Rolled: 8 (+2 CON = 10 HP gained, total 109)                             |
 +-Level 16---------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
-|                                                                              |
+| ASI: +2 WIS (14->16)                                                         |
+| WIS 16: Initiative +13, Passive Perception 18, Spell Save DC 16, Attack +8  |
+| HP Rolled: 10 (+2 CON = 12 HP gained, total 121)                            |
 |                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
