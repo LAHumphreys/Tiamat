@@ -10,33 +10,33 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 16 (175000 XP)__________________          \/        \/        \/
+Level & XP: 17 (195000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   16   | | +13(+8) | | 30 ft / 40ft |
-| Proficiency Bonus              [+5] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [18] |  | Hit Dice: 16d10                     |
+| Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [19] |  | Hit Dice: 17d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current: 121                        |
-| Failures                [ ] [ ] [ ] |  | Maximum: 121                        |
+| Successes               [ ] [ ] [ ] |  | Current: 129                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 129                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
-| Saving Throws              [ ] [+2] |  | Saving Throws              [x] [+6] |
+| Saving Throws              [ ] [+2] |  | Saving Throws              [x] [+7] |
 +-------------------------------------+  | Athlethic                  [ ] [+1] |
 | CHARISMA                  [10] [+0] |  +-------------------------------------+
 | Saving Throws              [ ] [+0] |  | DEXTERITY                 [20] [+5] |
-| Deception                  [ ] [+0] |  | Saving Throws              [x] [+10]|
+| Deception                  [ ] [+0] |  | Saving Throws              [x] [+11]|
 | Intimidation               [ ] [+0] |  | Acrobatics                 [ ] [+5] |
 | Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+5] |
-| Persuation                 [ ] [+0] |  | Stealth                    [x] [+10]|
+| Persuation                 [ ] [+0] |  | Stealth                    [x] [+11]|
 +-------------------------------------+  +-------------------------------------+
 | WISDOM                    [16] [+3] |  | INTELLIGENCE              [12] [+1] |
-| Saving Throws              [x] [+8] |  | Saving Throws              [ ] [+1] |
-| Animal Handling            [x] [+8] |  | Arcana                     [ ] [+1] |
+| Saving Throws              [x] [+9] |  | Saving Throws              [ ] [+1] |
+| Animal Handling            [x] [+9] |  | Arcana                     [ ] [+1] |
 | Insight                    [ ] [+3] |  | History                    [ ] [+1] |
 | Medicine                   [ ] [+3] |  | Investigation              [ ] [+1] |
-| Perception                 [x] [+8] |  | Nature                     [ ] [+1] |
-| Survival                   [x] [+8] |  | Religion                   [ ] [+1] |
+| Perception                 [x] [+9] |  | Nature                     [ ] [+1] |
+| Survival                   [x] [+9] |  | Religion                   [ ] [+1] |
 +-------------------------------------+  +-------------------------------------+
 +-Armour / Shield Proficiencies------------------------------------------------+
 | Light [x]           Medium [x]            Heavy [ ]             Shield [x]   |
@@ -51,7 +51,7 @@ Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 | 3rd Level [ ] [ ] [ ]     : Fear*, Lightning Arrow, Protection from Energy   |
 | 4th Level [ ] [ ]         : Freedom of Movement, Greater Invisibility*,      |
 |                             Locate Creature                                  |
-| 5th Level                 :                                                  |
+| 5th Level [ ]             : Greater Restoration, Seeming*                    |
 | * = Gloom Stalker spell, always known (doesn't count vs spells known limit)  |
 +------------------------------------------------------------------------------+
 +-Class Features & Abilities---------------------------------------------------+
@@ -104,11 +104,11 @@ Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 |                                      |                                       |
 +--------------------------------------+---------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Longbow       | +12    | 1d8+5 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
+| Longbow       | +13    | 1d8+5 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
 |               |        |            | Two-Handed, Archery Style     |        |
-| Shortsword    | +10    | 1d6+5 pier.| Finesse, Light                |  2 lb  |
+| Shortsword    | +11    | 1d6+5 pier.| Finesse, Light                |  2 lb  |
 |               |        |            |                               |        |
-| Cat's Claws   | +10    | 1d4+5 slash| Finesse                       |   -    |
+| Cat's Claws   | +11    | 1d4+5 slash| Finesse                       |   -    |
 |               |        |            |                               |        |
 +-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
 | Studded Lthr  |  +5    | Light      |                               | 13 lb  |
@@ -261,6 +261,12 @@ Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 | WIS 16: Initiative +13, Passive Perception 18, Spell Save DC 16, Attack +8  |
 | HP Rolled: 10 (+2 CON = 12 HP gained, total 121)                            |
 |                                                                              |
++-Level 17---------------------------------------------------------------------+
+| Proficiency Bonus: +5 -> +6 (all proficient skills/saves/attacks increase)  |
+| 5th Level Spells unlocked: Greater Restoration, Seeming* (Gloom Stalker)    |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th, 1x 5th                         |
+| Longbow: +13 to hit, Spell Save DC: 17, Spell Attack: +9, Passive Perc: 19  |
+| HP Rolled: 6 (+2 CON = 8 HP gained, total 129)                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
 | 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
@@ -310,6 +316,10 @@ Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 |   Touch. Target invisible for duration. Attacking/casting doesn't end it.    |
 |   (Gloom Stalker bonus spell)                                                |
 |                                                                              |
+| GREATER RESTORATION - 5th level, 1 Action, V/S/M (diamond dust 100gp)        |
+|   Touch. End one: charm, petrification, curse, 1 ability score reduction, or |
+|   1 level of exhaustion. Incredibly versatile high-level healing.            |
+|                                                                              |
 | HUNTER'S MARK - 1st level, Bonus Action, V, Concentration (1 hour)           |
 |   Choose creature you can see within 90ft. Deal extra 1d6 damage to target   |
 |   whenever you hit with weapon attack. Advantage on Perception/Survival to   |
@@ -335,6 +345,10 @@ Level & XP: 16 (175000 XP)__________________          \/        \/        \/
 | ROPE TRICK - 2nd level, 1 Action, V/S/M (corn extract & twisted loop), 1 hr  |
 |   Create invisible 60ft rope to extradimensional space holding up to 8       |
 |   creatures. Pull rope up to hide. (Gloom Stalker bonus spell)               |
+|                                                                              |
+| SEEMING - 5th level, 1 Action, V/S, 8 hours                                  |
+|   Disguise up to 8 creatures within 30ft. Like Disguise Self for whole party.|
+|   Each can look different. (Gloom Stalker bonus spell)                       |
 |                                                                              |
 | SILENCE - 2nd level, 1 Action, V/S, Concentration (10 min), Range 120ft      |
 |   Create 20ft radius sphere. No sound in/out. Creatures inside are deafened  |
