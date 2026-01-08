@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 7 (23000 XP)____________________          \/        \/        \/
+Level & XP: 8 (34000 XP)____________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   15   | | +11(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+3] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [15] |  | Hit Dice: 7d10                      |
+| Passive Wisdom (Perception)    [15] |  | Hit Dice: 8d10                      |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  45                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  45                        |
+| Successes               [ ] [ ] [ ] |  | Current:  51                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  51                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -74,6 +74,9 @@ Level & XP: 7 (23000 XP)____________________          \/        \/        \/
 |                                                                              |
 | Iron Mind (Gloom Stalker): Proficiency in WIS saving throws                  |
 |                                                                              |
+| Land's Stride: Move through nonmagical difficult terrain at normal speed,    |
+|   advantage on saves vs magical plants                                       |
+|                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
 +-Other Proficiencies & Languages------+---Feats-------------------------------+
@@ -81,9 +84,9 @@ Level & XP: 7 (23000 XP)____________________          \/        \/        \/
 | Languages: Common, Tabaxi            |   surprised, hidden enemies don't     |
 |                                      |   gain advantage vs you               |
 |                                      |                                       |
-|                                      |                                       |
-|                                      |                                       |
-|                                      |                                       |
+|                                      | Sharpshooter: Ignore half/3/4 cover,  |
+|                                      |   no disadvantage at long range,      |
+|                                      |   -5 hit/+10 damage (optional)        |
 |                                      |                                       |
 |                                      |                                       |
 |                                      |                                       |
@@ -209,8 +212,8 @@ Level & XP: 7 (23000 XP)____________________          \/        \/        \/
 | Spell: +Silence                                                              |
 | Spell Slots: 4x 1st, 3x 2nd                                                  |
 +-Level 8----------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Feat: Sharpshooter (ignore half/3/4 cover, long range, -5 hit/+10 damage)   |
+| Land's Stride: Move through nonmagical difficult terrain, adv vs plants     |
 +-Level 9----------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
