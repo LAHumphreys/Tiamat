@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 3 (900 XP)______________________          \/        \/        \/
+Level & XP: 4 (2700 XP)_____________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   15   | | +6 (+2) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   15   | | +11(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+2] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [14] |  | Hit Dice: 3d10                      |
+| Passive Wisdom (Perception)    [14] |  | Hit Dice: 4d10                      |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  18                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  18                        |
+| Successes               [ ] [ ] [ ] |  | Current:  28                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  28                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -72,9 +72,9 @@ Level & XP: 3 (900 XP)______________________          \/        \/        \/
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
 +-Other Proficiencies & Languages------+---Feats-------------------------------+
-| Tools: None                          |                                       |
-| Languages: Common, Tabaxi            |                                       |
-|                                      |                                       |
+| Tools: None                          | Alert: +5 initiative, can't be        |
+| Languages: Common, Tabaxi            |   surprised, hidden enemies don't     |
+|                                      |   gain advantage vs you               |
 |                                      |                                       |
 |                                      |                                       |
 |                                      |                                       |
@@ -189,8 +189,8 @@ Level & XP: 3 (900 XP)______________________          \/        \/        \/
 |                                                                              |
 | Spells: +1 spell known (Zephyr Strike), +1 spell slot (3 total)              |
 +-Level 4----------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Feat: Alert (+5 initiative, can't be surprised, no advantage from hidden)    |
+| Initiative now: +11 (DEX +4, WIS +2, Alert +5)                               |
 +-Level 5----------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
