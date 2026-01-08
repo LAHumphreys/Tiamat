@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 14 (140000 XP)__________________          \/        \/        \/
+Level & XP: 15 (165000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   16   | | +12(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+5] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [17] |  | Hit Dice: 14d10                     |
+| Passive Wisdom (Perception)    [17] |  | Hit Dice: 15d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current:  99                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  99                        |
+| Successes               [ ] [ ] [ ] |  | Current: 109                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 109                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -49,7 +49,8 @@ Level & XP: 14 (140000 XP)__________________          \/        \/        \/
 |                             Zephyr Strike                                    |
 | 2nd Level [ ] [ ] [ ]     : Pass Without Trace, Rope Trick*, Silence         |
 | 3rd Level [ ] [ ] [ ]     : Fear*, Lightning Arrow, Protection from Energy   |
-| 4th Level [ ]             : Freedom of Movement, Greater Invisibility*       |
+| 4th Level [ ] [ ]         : Freedom of Movement, Greater Invisibility*,      |
+|                             Locate Creature                                  |
 | 5th Level                 :                                                  |
 | * = Gloom Stalker spell, always known (doesn't count vs spells known limit)  |
 +------------------------------------------------------------------------------+
@@ -83,6 +84,9 @@ Level & XP: 14 (140000 XP)__________________          \/        \/        \/
 | Hide in Plain Sight: Spend 1 min to camouflage, +10 Stealth while motionless |
 |                                                                              |
 | Vanish: Hide as bonus action, can't be tracked by nonmagical means           |
+|                                                                              |
+| Shadowy Dodge (Gloom Stalker): When attacked, use reaction to impose         |
+|   disadvantage on attack roll. Must be able to see attacker.                 |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
@@ -247,8 +251,11 @@ Level & XP: 14 (140000 XP)__________________          \/        \/        \/
 | Favored Enemy: +Dragons                                                      |
 | Vanish: Hide as bonus action, can't be tracked by nonmagical means          |
 +-Level 15---------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Shadowy Dodge (Gloom Stalker): When attacked, use reaction to impose        |
+|   disadvantage on attack roll. Must be able to see attacker.                |
+| Spell: +Locate Creature (find that villain!)                                |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th                                 |
+| HP Rolled: 8 (+2 CON = 10 HP gained, total 109)                             |
 +-Level 16---------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
@@ -311,6 +318,11 @@ Level & XP: 14 (140000 XP)__________________          \/        \/        \/
 | LIGHTNING ARROW - 3rd level, Bonus Action, V, Concentration (1 min)          |
 |   Next ranged weapon attack that hits: 4d8 lightning (DEX save half) to      |
 |   target + 10ft radius. Normal weapon damage to primary target only.         |
+|                                                                              |
+| LOCATE CREATURE - 4th level, 1 Action, V/S/M (fur from bloodhound)           |
+|   Describe/name a creature you're familiar with. Sense direction to nearest  |
+|   within 1000ft. Tracks moving creature. Blocked by running water (10ft+).   |
+|   Duration: 1 hour, Concentration. Perfect for hunting the villain!          |
 |                                                                              |
 | PASS WITHOUT TRACE - 2nd level, 1 Action, V/S/M (ashes & pine sprigs), Conc  |
 |   (1 hour). You + creatures you choose within 30ft gain +10 Stealth and      |
