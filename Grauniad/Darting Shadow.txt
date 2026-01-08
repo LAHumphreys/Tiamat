@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 6 (14000 XP)____________________          \/        \/        \/
+Level & XP: 7 (23000 XP)____________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   15   | | +11(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+3] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [15] |  | Hit Dice: 6d10                      |
+| Passive Wisdom (Perception)    [15] |  | Hit Dice: 7d10                      |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  41                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  41                        |
+| Successes               [ ] [ ] [ ] |  | Current:  45                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  45                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -31,7 +31,7 @@ Level & XP: 6 (14000 XP)____________________          \/        \/        \/
 | Persuation                 [ ] [+0] |  | Stealth                    [x] [+7] |
 +-------------------------------------+  +-------------------------------------+
 | WISDOM                    [14] [+2] |  | INTELLIGENCE              [12] [+1] |
-| Saving Throws              [ ] [+2] |  | Saving Throws              [ ] [+1] |
+| Saving Throws              [x] [+5] |  | Saving Throws              [ ] [+1] |
 | Animal Handling            [x] [+5] |  | Arcana                     [ ] [+1] |
 | Insight                    [ ] [+2] |  | History                    [ ] [+1] |
 | Medicine                   [ ] [+2] |  | Investigation              [ ] [+1] |
@@ -47,7 +47,7 @@ Level & XP: 6 (14000 XP)____________________          \/        \/        \/
 +-Spells & Spell Slots---------------------------------------------------------+
 | 1st Level [ ] [ ] [ ] [ ] : Disguise Self*, Goodberry, Hunter's Mark,        |
 |                             Zephyr Strike                                    |
-| 2nd Level [ ] [ ]         : Pass Without Trace, Rope Trick*                  |
+| 2nd Level [ ] [ ] [ ]     : Pass Without Trace, Rope Trick*, Silence         |
 | 3rd Level                 :                                                  |
 | 4th Level                 :                                                  |
 | 5th Level                 :                                                  |
@@ -71,6 +71,8 @@ Level & XP: 6 (14000 XP)____________________          \/        \/        \/
 |                 attack first turn dealing +1d8 damage                        |
 |                                                                              |
 | Umbral Sight: Darkvision 90ft, invisible to darkvision in darkness           |
+|                                                                              |
+| Iron Mind (Gloom Stalker): Proficiency in WIS saving throws                  |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
@@ -203,8 +205,9 @@ Level & XP: 6 (14000 XP)____________________          \/        \/        \/
 | Favored Enemy: +Aberrations                                                  |
 | Natural Explorer: +Underdark                                                 |
 +-Level 7----------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Iron Mind (Gloom Stalker): Proficiency in WIS saving throws                 |
+| Spell: +Silence                                                              |
+| Spell Slots: 4x 1st, 3x 2nd                                                  |
 +-Level 8----------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
@@ -282,6 +285,10 @@ Level & XP: 6 (14000 XP)____________________          \/        \/        \/
 | ROPE TRICK - 2nd level, 1 Action, V/S/M (corn extract & twisted loop), 1 hr  |
 |   Create invisible 60ft rope to extradimensional space holding up to 8       |
 |   creatures. Pull rope up to hide. (Gloom Stalker bonus spell)               |
+|                                                                              |
+| SILENCE - 2nd level, 1 Action, V/S, Concentration (10 min), Range 120ft      |
+|   Create 20ft radius sphere. No sound in/out. Creatures inside are deafened  |
+|   and can't cast spells with verbal components.                              |
 |                                                                              |
 | ZEPHYR STRIKE - 1st level, Bonus Action, V, Concentration (1 min)            |
 |   +30ft movement, no opportunity attacks. Once before spell ends, advantage  |
