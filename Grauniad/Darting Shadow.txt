@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 1 (0 XP)________________________          \/        \/        \/
+Level & XP: 2 (300 XP)______________________          \/        \/        \/
 +-------------------------------------+  +-AC-------+ +-Ini------+ +-Speed-----+
 | Inspiration                    [  ] |  |    15    | |    +4    | |    30 ft  |
 | Proficiency Bonus              [+2] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [14] |  | Hit Dice: 1d10                      |
+| Passive Wisdom (Perception)    [14] |  | Hit Dice: 2d10                      |
 +-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  10                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  10                        |
+| Successes               [ ] [ ] [ ] |  | Current:  13                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  13                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
@@ -44,6 +44,13 @@ Level & XP: 1 (0 XP)________________________          \/        \/        \/
 +-Weapon Proficiencies---------------------------------------------------------+
 | Simple [x]           Martial [x]                                             |
 +------------------------------------------------------------------------------+
++-Spells & Spell Slots---------------------------------------------------------+
+| 1st Level [ ] [ ] : Goodberry, Hunter's Mark                                 |
+| 2nd Level           :                                                        |
+| 3rd Level           :                                                        |
+| 4th Level           :                                                        |
+| 5th Level           :                                                        |
++------------------------------------------------------------------------------+
 +-Other Proficiencies & Languages------+---Feats-------------------------------+
 | Tools: None                          |                                       |
 | Languages: Common, Tabaxi            |                                       |
@@ -58,8 +65,8 @@ Level & XP: 1 (0 XP)________________________          \/        \/        \/
 |                                      |                                       |
 +--------------------------------------+---------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Longbow       |  +6    | 1d8+4 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
-|               |        |            | Two-Handed                    |        |
+| Longbow       |  +8    | 1d8+4 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
+|               |        |            | Two-Handed, Archery Style     |        |
 | Shortsword    |  +6    | 1d6+4 pier.| Finesse, Light                |  2 lb  |
 |               |        |            |                               |        |
 | Cat's Claws   |  +6    | 1d4+4 slash| Finesse                       |   -    |
@@ -136,23 +143,21 @@ Level & XP: 1 (0 XP)________________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 |                                                                              |
-| Max. Bearing Capacity: 180 lb                               Weight: 110 lb  |
+| Max. Bearing Capacity: 180 lb                               Weight: 110 lb   |
 +------------------------------------------------------------------------------+
 +-Racial Features--------------------------------------------------------------+
-| Darkvision (60 ft), Feline Agility, Cat's Claws, Cat's Talent (Perception,  |
+| Darkvision (60 ft), Feline Agility, Cat's Claws, Cat's Talent (Perception,   |
 | Stealth), Climb speed 30 ft                                                  |
 +-Background Feature-----------------------------------------------------------+
 | Wanderer: Excellent memory for maps/geography, can find food/water for self  |
 | and up to 5 others each day                                                  |
 +-Class Features---------------------------------------------------------------+
-| Favored Enemy (Undead), Natural Explorer (Mountain)                         |
-|                                                                              |
-+-Domain Features--------------------------------------------------------------+
-|                                                                              |
+| Favored Enemy (Undead), Natural Explorer (Mountain)                          |
 |                                                                              |
 +-Level 2----------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Fighting Style: Archery (+2 to ranged attack rolls)                          |
+| Spellcasting: Spell Slots: 2x 1st level, Spells Known: 2                     |
+| Spells: Hunter's Mark (bonus action, 1d6 extra damage), Goodberry (10 HP)    |
 +-Level 3----------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
@@ -224,7 +229,15 @@ Level & XP: 1 (0 XP)________________________          \/        \/        \/
 |                                                                              |
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
++-Spell Reference--------------------------------------------------------------+
+| GOODBERRY - 1st level, 1 Action, V/S/M (sprig of mistletoe)                  |
+|   Create 10 berries for 24 hours. Eating 1 berry (action) restores 1 HP      |
+|   and provides nourishment for one day.                                      |
 |                                                                              |
+| HUNTER'S MARK - 1st level, Bonus Action, V, Concentration (1 hour)           |
+|   Choose creature you can see within 90ft. Deal extra 1d6 damage to target   |
+|   whenever you hit with weapon attack. Advantage on Perception/Survival to   |
+|   track it. If target drops to 0 HP, use bonus action to mark new target.    |
 |                                                                              |
 |                                                                              |
 |                                                                              |
