@@ -10,25 +10,25 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 11 (85000 XP)___________________          \/        \/        \/
+Level & XP: 12 (100000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   15   | | +11(+7) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   16   | | +12(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+4] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [16] |  | Hit Dice: 11d10                     |
-+-Death Saves-------------------------+  | Modifier: +1                        |
-| Successes               [ ] [ ] [ ] |  | Current:  64                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  64                        |
+| Passive Wisdom (Perception)    [16] |  | Hit Dice: 12d10                     |
++-Death Saves-------------------------+  | Modifier: +2                        |
+| Successes               [ ] [ ] [ ] |  | Current:  84                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  84                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
-| CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
-| Saving Throws              [ ] [+1] |  | Saving Throws              [x] [+5] |
+| CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
+| Saving Throws              [ ] [+2] |  | Saving Throws              [x] [+5] |
 +-------------------------------------+  | Athlethic                  [ ] [+1] |
 | CHARISMA                  [10] [+0] |  +-------------------------------------+
-| Saving Throws              [ ] [+0] |  | DEXTERITY                 [19] [+4] |
-| Deception                  [ ] [+0] |  | Saving Throws              [x] [+8] |
-| Intimidation               [ ] [+0] |  | Acrobatics                 [ ] [+4] |
-| Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+4] |
-| Persuation                 [ ] [+0] |  | Stealth                    [x] [+8] |
+| Saving Throws              [ ] [+0] |  | DEXTERITY                 [20] [+5] |
+| Deception                  [ ] [+0] |  | Saving Throws              [x] [+9] |
+| Intimidation               [ ] [+0] |  | Acrobatics                 [ ] [+5] |
+| Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+5] |
+| Persuation                 [ ] [+0] |  | Stealth                    [x] [+9] |
 +-------------------------------------+  +-------------------------------------+
 | WISDOM                    [14] [+2] |  | INTELLIGENCE              [12] [+1] |
 | Saving Throws              [x] [+6] |  | Saving Throws              [ ] [+1] |
@@ -98,14 +98,14 @@ Level & XP: 11 (85000 XP)___________________          \/        \/        \/
 |                                      |                                       |
 +--------------------------------------+---------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Longbow       | +10    | 1d8+4 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
+| Longbow       | +11    | 1d8+5 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
 |               |        |            | Two-Handed, Archery Style     |        |
-| Shortsword    |  +8    | 1d6+4 pier.| Finesse, Light                |  2 lb  |
+| Shortsword    |  +9    | 1d6+5 pier.| Finesse, Light                |  2 lb  |
 |               |        |            |                               |        |
-| Cat's Claws   |  +8    | 1d4+4 slash| Finesse                       |   -    |
+| Cat's Claws   |  +9    | 1d4+5 slash| Finesse                       |   -    |
 |               |        |            |                               |        |
 +-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
-| Studded Lthr  |  +3    | Light      |                               | 13 lb  |
+| Studded Lthr  |  +5    | Light      |                               | 13 lb  |
 |               |        |            |                               |        |
 |               |        |            |                               |        |
 |               |        |            |                               |        |
@@ -232,8 +232,10 @@ Level & XP: 11 (85000 XP)___________________          \/        \/        \/
 | Spell: +Protection from Energy (resistance to one element for 1 hour)       |
 | Spell Slots: 4x 1st, 3x 2nd, 3x 3rd                                         |
 +-Level 12---------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| ASI: +1 DEX (19->20), +1 CON (13->14)                                       |
+| DEX 20: +1 to attacks, damage, AC (now 16), initiative (+12), Stealth (+9)  |
+| CON 14: +12 HP retroactively (all levels), better concentration saves       |
+| Longbow: +11 to hit, 1d8+5 damage (or +6 hit, 1d8+15 with Sharpshooter)    |
 +-Level 13---------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
