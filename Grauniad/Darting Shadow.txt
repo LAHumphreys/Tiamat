@@ -1,254 +1,261 @@
-     1→credit: u/mogoh
-     2→link: https://www.reddit.com/r/DnD/comments/4h4fwt/i_created_a_dd_5e_ascii_character_sheet/
-     3→Modifications:
-     4→  - Slightly moved around components at the top of sheet to reduce merge conflict
-     5→    when re-working a character with different stat roles. (Previously lines that
-     6→    changed rarely (e.g stats) would clash with lines that changed often (e.g HP)
-     7→
-     8→Name: Darting Shadow_______________________  ________     ____   ________
-     9→Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
-    10→Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
-    11→Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
-    12→Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-    13→Level & XP: 1 (0 XP)________________________          \/        \/        \/
-    14→+-------------------------------------+  +-AC-------+ +-Ini------+ +-Speed-----+
-    15→| Inspiration                    [  ] |  |    14    | |    +3    | |    30 ft  |
-    16→| Proficiency Bonus              [+2] |  +-Hit Points--------------------------+
-    17→| Passive Wisdom (Perception)    [14] |  | Hit Dice: 1d10                      |
-    18→+-Death Saves-------------------------+  | Modifier: +1                        |
-    19→| Successes               [ ] [ ] [ ] |  | Current:  10                        |
-    20→| Failures                [ ] [ ] [ ] |  | Maximum:  10                        |
-    21→+-------------------------------------+  +-------------------------------------+
-    22→+-------------------------------------+  +-------------------------------------+
-    23→| CONSTITUTION              [13] [+1] |  | STRENGTH                  [10] [+0] |
-    24→| Saving Throws              [ ] [+1] |  | Saving Throws              [x] [+2] |
-    25→+-------------------------------------+  | Athlethic                  [ ] [+0] |
-    26→| CHARISMA                  [ 8] [-1] |  +-------------------------------------+
-    27→| Saving Throws              [ ] [-1] |  | DEXTERITY                 [17] [+3] |
-    28→| Deception                  [ ] [-1] |  | Saving Throws              [x] [+5] |
-    29→| Intimidation               [ ] [-1] |  | Acrobatics                 [ ] [+3] |
-    30→| Performance                [ ] [-1] |  | Sleight of Hand            [ ] [+3] |
-    31→| Persuation                 [ ] [-1] |  | Stealth                    [x] [+5] |
-    32→+-------------------------------------+  +-------------------------------------+
-    33→| WISDOM                    [14] [+2] |  | INTELLIGENCE              [12] [+1] |
-    34→| Saving Throws              [ ] [+2] |  | Saving Throws              [ ] [+1] |
-    35→| Animal Handling            [x] [+4] |  | Arcana                     [ ] [+1] |
-    36→| Insight                    [ ] [+2] |  | History                    [ ] [+1] |
-    37→| Medicine                   [ ] [+2] |  | Investigation              [ ] [+1] |
-    38→| Perception                 [x] [+4] |  | Nature                     [ ] [+1] |
-    39→| Survival                   [x] [+4] |  | Religion                   [ ] [+1] |
-    40→+-------------------------------------+  +-------------------------------------+
-    41→+-Armour / Shield Proficiencies------------------------------------------------+
-    42→| Light [x]           Medium [x]            Heavy [ ]             Shield [x]   |
-    43→+------------------------------------------------------------------------------+
-    44→+-Weapon Proficiencies---------------------------------------------------------+
-    45→| Simple [x]           Martial [x]                                             |
-    46→+------------------------------------------------------------------------------+
-    47→+-Other Proficiencies & Languages------+---Feats-------------------------------+
-    48→| Tools: None                          |                                       |
-    49→| Languages: Common, Tabaxi            |                                       |
-    50→|                                      |                                       |
-    51→|                                      |                                       |
-    52→|                                      |                                       |
-    53→|                                      |                                       |
-    54→|                                      |                                       |
-    55→|                                      |                                       |
-    56→|                                      |                                       |
-    57→|                                      |                                       |
-    58→|                                      |                                       |
-    59→+--------------------------------------+---------------------------------------+
-    60→+-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-    61→| Longbow       |  +5    | 1d8+3 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
-    62→|               |        |            | Two-Handed                    |        |
-    63→| Shortsword    |  +5    | 1d6+3 pier.| Finesse, Light                |  2 lb  |
-    64→|               |        |            |                               |        |
-    65→| Cat's Claws   |  +5    | 1d4+3 slash| Finesse                       |   -    |
-    66→|               |        |            |                               |        |
-    67→+-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
-    68→| Studded Lthr  |  +3    | Light      |                               | 13 lb  |
-    69→|               |        |            |                               |        |
-    70→|               |        |            |                               |        |
-    71→|               |        |            |                               |        |
-    72→+---------------+--------+--------------------------------------------+--------+
-    73→+-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-    74→| PP [    0 ] | | GP [   10 ] | | EP [     0 ] | | SP [    0 ] | | CP [    0 ] |
-    75→+-------------+ +-------------+ +--------------+ +-------------+ +-------------+
-    76→+-Equipment-----------------------------------------------------------+-Weight-+
-    77→| Longbow                                                             |  2 lb  |
-    78→| Quiver with 20 arrows                                               |  1 lb  |
-    79→| Shortsword                                                          |  2 lb  |
-    80→| Studded leather armor                                               | 13 lb  |
-    81→| Explorer's pack (backpack, bedroll, mess kit, tinderbox,            | 59 lb  |
-    82→|   10 torches, 10 days rations, waterskin, 50 ft rope)               |        |
-    83→| Staff (Outlander)                                                   |  4 lb  |
-    84→| Hunting trap                                                        | 25 lb  |
-    85→| Trophy from an animal kill                                          |  - lb  |
-    86→| Traveler's clothes                                                  |  4 lb  |
-    87→|                                                                              |
-    88→|                                                                              |
-    89→|                                                                              |
-    90→|                                                                              |
-    91→|                                                                              |
-    92→|                                                                              |
-    93→|                                                                              |
-    94→|                                                                              |
-    95→|                                                                              |
-    96→|                                                                              |
-    97→|                                                                              |
-    98→|                                                                              |
-    99→|                                                                              |
-   100→|                                                                              |
-   101→|                                                                              |
-   102→|                                                                              |
-   103→|                                                                              |
-   104→|                                                                              |
-   105→|                                                                              |
-   106→|                                                                              |
-   107→|                                                                              |
-   108→|                                                                              |
-   109→|                                                                              |
-   110→|                                                                              |
-   111→|                                                                              |
-   112→|                                                                              |
-   113→|                                                                              |
-   114→|                                                                              |
-   115→|                                                                              |
-   116→|                                                                              |
-   117→|                                                                              |
-   118→|                                                                              |
-   119→|                                                                              |
-   120→|                                                                              |
-   121→|                                                                              |
-   122→|                                                                              |
-   123→|                                                                              |
-   124→|                                                                              |
-   125→|                                                                              |
-   126→|                                                                              |
-   127→|                                                                              |
-   128→|                                                                              |
-   129→|                                                                              |
-   130→|                                                                              |
-   131→| Max. Bearing Capacity: 150 lb                               Weight: 110 lb  |
-   132→+------------------------------------------------------------------------------+
-   133→+-Racial Features--------------------------------------------------------------+
-   134→| Darkvision (60 ft), Feline Agility, Cat's Claws, Cat's Talent (Perception,  |
-   135→| Stealth), Climb speed 30 ft                                                  |
-   136→+-Background Feature-----------------------------------------------------------+
-   137→| Wanderer: Excellent memory for maps/geography, can find food/water for self  |
-   138→| and up to 5 others each day                                                  |
-   139→+-Class Features---------------------------------------------------------------+
-   140→| Favored Enemy (Choose 1), Natural Explorer (Choose 1 terrain)               |
-   141→|                                                                              |
-   142→+-Domain Features--------------------------------------------------------------+
-   143→|                                                                              |
-   144→|                                                                              |
-   145→+-Level 2----------------------------------------------------------------------+
-   146→|                                                                              |
-   147→|                                                                              |
-   148→+-Level 3----------------------------------------------------------------------+
-   149→|                                                                              |
-   150→|                                                                              |
-   151→+-Level 4----------------------------------------------------------------------+
-   152→|                                                                              |
-   153→|                                                                              |
-   154→+-Level 5----------------------------------------------------------------------+
-   155→|                                                                              |
-   156→|                                                                              |
-   157→+-Level 6----------------------------------------------------------------------+
-   158→|                                                                              |
-   159→|                                                                              |
-   160→+-Level 7----------------------------------------------------------------------+
-   161→|                                                                              |
-   162→|                                                                              |
-   163→+-Level 8----------------------------------------------------------------------+
-   164→|                                                                              |
-   165→|                                                                              |
-   166→+-Level 9----------------------------------------------------------------------+
-   167→|                                                                              |
-   168→|                                                                              |
-   169→+-Level 10---------------------------------------------------------------------+
-   170→|                                                                              |
-   171→|                                                                              |
-   172→+-Level 11---------------------------------------------------------------------+
-   173→|                                                                              |
-   174→|                                                                              |
-   175→+-Level 12---------------------------------------------------------------------+
-   176→|                                                                              |
-   177→|                                                                              |
-   178→+-Level 13---------------------------------------------------------------------+
-   179→|                                                                              |
-   180→|                                                                              |
-   181→+-Level 14---------------------------------------------------------------------+
-   182→|                                                                              |
-   183→|                                                                              |
-   184→+-Level 15---------------------------------------------------------------------+
-   185→|                                                                              |
-   186→|                                                                              |
-   187→+-Level 16---------------------------------------------------------------------+
-   188→|                                                                              |
-   189→|                                                                              |
-   190→|                                                                              |
-   191→|                                                                              |
-   192→+------------------------------------------------------------------------------+
-   193→+-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
-   194→| 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
-   195→+-Appearance-+------------+------------+------------+------------+-------------+
-   196→| Lithe Tabaxi with tan fur marked with faint rosettes. Moves with feline      |
-   197→| grace. Wears purple and white traveling clothes. Carries bow with practiced  |
-   198→| ease.                                                                        |
-   199→+-Backstory--------------------------------------------------------------------+
-   200→| A wanderer from distant lands, Darting Shadow learned to hunt in the high    |
-   201→| mountain passes. Now explores the wider world, drawn by tales of adventure.  |
-   202→+-Personality Traits-----------------------------------------------------------+
-   203→| Curious about new places and people. Prefers watching from a distance before |
-   204→| engaging. Values freedom of movement above all.                              |
-   205→+-Ideals-----------------------------------------------------------------------+
-   206→| Freedom: Everyone should be able to pursue their own path. (Chaotic Good)    |
-   207→|                                                                              |
-   208→+-Bonds------------------------------------------------------------------------+
-   209→| The wilderness is my true home. I protect natural places from harm.          |
-   210→|                                                                              |
-   211→+-Flaws------------------------------------------------------------------------+
-   212→| My curiosity sometimes leads me into danger. I struggle with staying still.  |
-   213→|                                                                              |
-   214→+-Allies & Organizations-------------------------------------------------------+
-   215→|                                                                              |
-   216→|                                                                              |
-   217→+-Notes------------------------------------------------------------------------+
-   218→| FAVORED ENEMY: Undead (for thematic gothic campaign feel)                    |
-   219→| NATURAL EXPLORER: Mountain                                                   |
-   220→|                                                                              |
-   221→|                                                                              |
-   222→|                                                                              |
-   223→|                                                                              |
-   224→|                                                                              |
-   225→|                                                                              |
-   226→|                                                                              |
-   227→|                                                                              |
-   228→|                                                                              |
-   229→|                                                                              |
-   230→|                                                                              |
-   231→|                                                                              |
-   232→|                                                                              |
-   233→|                                                                              |
-   234→|                                                                              |
-   235→|                                                                              |
-   236→|                                                                              |
-   237→|                                                                              |
-   238→|                                                                              |
-   239→|                                                                              |
-   240→|                                                                              |
-   241→|                                                                              |
-   242→|                                                                              |
-   243→|                                                                              |
-   244→|                                                                              |
-   245→|                                                                              |
-   246→|                                                                              |
-   247→|                                                                              |
-   248→+-Known Players----+-Character--------------+-Race----------+-Class------------+
-   249→|                  |                        |               |                  |
-   250→|                  |                        |               |                  |
-   251→|                  |                        |               |                  |
-   252→+------------------+------------------------+---------------+------------------+
-   253→
-   254→
+     credit: u/mogoh
+     link: https://www.reddit.com/r/DnD/comments/4h4fwt/i_created_a_dd_5e_ascii_character_sheet/
+     Modifications:
+       - Slightly moved around components at the top of sheet to reduce merge conflict
+         when re-working a character with different stat roles. (Previously lines that
+         changed rarely (e.g stats) would clash with lines that changed often (e.g HP)
+
+Name: Darting Shadow_______________________  ________     ____   ________
+Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
+Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
+Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
+Background: Outlander_______________________  /_______  /\_____\ \/_______  /
+Level & XP: 1 (0 XP)________________________          \/        \/        \/
++-------------------------------------+  +-AC-------+ +-Ini------+ +-Speed-----+
+| Inspiration                    [  ] |  |    15    | |    +4    | |    30 ft  |
+| Proficiency Bonus              [+2] |  +-Hit Points--------------------------+
+| Passive Wisdom (Perception)    [14] |  | Hit Dice: 1d10                      |
++-Death Saves-------------------------+  | Modifier: +1                        |
+| Successes               [ ] [ ] [ ] |  | Current:  10                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  10                        |
++-------------------------------------+  +-------------------------------------+
++-------------------------------------+  +-------------------------------------+
+| CONSTITUTION              [13] [+1] |  | STRENGTH                  [12] [+1] |
+| Saving Throws              [ ] [+1] |  | Saving Throws              [x] [+3] |
++-------------------------------------+  | Athlethic                  [ ] [+1] |
+| CHARISMA                  [10] [+0] |  +-------------------------------------+
+| Saving Throws              [ ] [+0] |  | DEXTERITY                 [19] [+4] |
+| Deception                  [ ] [+0] |  | Saving Throws              [x] [+6] |
+| Intimidation               [ ] [+0] |  | Acrobatics                 [ ] [+4] |
+| Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+4] |
+| Persuation                 [ ] [+0] |  | Stealth                    [x] [+6] |
++-------------------------------------+  +-------------------------------------+
+| WISDOM                    [14] [+2] |  | INTELLIGENCE              [12] [+1] |
+| Saving Throws              [ ] [+2] |  | Saving Throws              [ ] [+1] |
+| Animal Handling            [x] [+4] |  | Arcana                     [ ] [+1] |
+| Insight                    [ ] [+2] |  | History                    [ ] [+1] |
+| Medicine                   [ ] [+2] |  | Investigation              [ ] [+1] |
+| Perception                 [x] [+4] |  | Nature                     [ ] [+1] |
+| Survival                   [x] [+4] |  | Religion                   [ ] [+1] |
++-------------------------------------+  +-------------------------------------+
++-Armour / Shield Proficiencies------------------------------------------------+
+| Light [x]           Medium [x]            Heavy [ ]             Shield [x]   |
++------------------------------------------------------------------------------+
++-Weapon Proficiencies---------------------------------------------------------+
+| Simple [x]           Martial [x]                                             |
++------------------------------------------------------------------------------+
++-Other Proficiencies & Languages------+---Feats-------------------------------+
+| Tools: None                          |                                       |
+| Languages: Common, Tabaxi            |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
+|                                      |                                       |
++--------------------------------------+---------------------------------------+
++-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
+| Longbow       |  +6    | 1d8+4 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
+|               |        |            | Two-Handed                    |        |
+| Shortsword    |  +6    | 1d6+4 pier.| Finesse, Light                |  2 lb  |
+|               |        |            |                               |        |
+| Cat's Claws   |  +6    | 1d4+4 slash| Finesse                       |   -    |
+|               |        |            |                               |        |
++-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
+| Studded Lthr  |  +3    | Light      |                               | 13 lb  |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
+|               |        |            |                               |        |
++---------------+--------+--------------------------------------------+--------+
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
+| PP [    0 ] | | GP [   10 ] | | EP [     0 ] | | SP [    0 ] | | CP [    0 ] |
++-------------+ +-------------+ +--------------+ +-------------+ +-------------+
++-Equipment-----------------------------------------------------------+-Weight-+
+| Longbow                                                             |  2 lb  |
+| Quiver with 20 arrows                                               |  1 lb  |
+| Shortsword                                                          |  2 lb  |
+| Studded leather armor                                               | 13 lb  |
+| Explorer's pack (backpack, bedroll, mess kit, tinderbox,            | 59 lb  |
+|   10 torches, 10 days rations, waterskin, 50 ft rope)               |        |
+| Staff (Outlander)                                                   |  4 lb  |
+| Hunting trap                                                        | 25 lb  |
+| Trophy from an animal kill                                          |  - lb  |
+| Traveler's clothes                                                  |  4 lb  |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+| Max. Bearing Capacity: 180 lb                               Weight: 110 lb  |
++------------------------------------------------------------------------------+
++-Racial Features--------------------------------------------------------------+
+| Darkvision (60 ft), Feline Agility, Cat's Claws, Cat's Talent (Perception,  |
+| Stealth), Climb speed 30 ft                                                  |
++-Background Feature-----------------------------------------------------------+
+| Wanderer: Excellent memory for maps/geography, can find food/water for self  |
+| and up to 5 others each day                                                  |
++-Class Features---------------------------------------------------------------+
+| Favored Enemy (Undead), Natural Explorer (Mountain)                         |
+|                                                                              |
++-Domain Features--------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 2----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 3----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 4----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 5----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 6----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 7----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 8----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 9----------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 10---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 11---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 12---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 13---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 14---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 15---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Level 16---------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++------------------------------------------------------------------------------+
++-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
+| 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
++-Appearance-+------------+------------+------------+------------+-------------+
+| Lithe Tabaxi with tan fur marked with faint rosettes. Moves with feline      |
+| grace. Wears purple and white traveling clothes. Carries bow with practiced  |
+| ease.                                                                        |
++-Backstory--------------------------------------------------------------------+
+| A wanderer from distant lands, Darting Shadow learned to hunt in the high    |
+| mountain passes. Now explores the wider world, drawn by tales of adventure.  |
++-Personality Traits-----------------------------------------------------------+
+| Curious about new places and people. Prefers watching from a distance before |
+| engaging. Values freedom of movement above all.                              |
++-Ideals-----------------------------------------------------------------------+
+| Freedom: Everyone should be able to pursue their own path. (Chaotic Good)    |
+|                                                                              |
++-Bonds------------------------------------------------------------------------+
+| The wilderness is my true home. I protect natural places from harm.          |
+|                                                                              |
++-Flaws------------------------------------------------------------------------+
+| My curiosity sometimes leads me into danger. I struggle with staying still.  |
+|                                                                              |
++-Allies & Organizations-------------------------------------------------------+
+|                                                                              |
+|                                                                              |
++-Notes------------------------------------------------------------------------+
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
++-Known Players----+-Character--------------+-Race----------+-Class------------+
+|                  |                        |               |                  |
+|                  |                        |               |                  |
+|                  |                        |               |                  |
++------------------+------------------------+---------------+------------------+
+
