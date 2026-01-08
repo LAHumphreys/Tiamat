@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 13 (120000 XP)__________________          \/        \/        \/
+Level & XP: 14 (140000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   16   | | +12(+7) | | 30 ft / 40ft |
 | Proficiency Bonus              [+5] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [17] |  | Hit Dice: 13d10                     |
+| Passive Wisdom (Perception)    [17] |  | Hit Dice: 14d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current:  92                        |
-| Failures                [ ] [ ] [ ] |  | Maximum:  92                        |
+| Successes               [ ] [ ] [ ] |  | Current:  99                        |
+| Failures                [ ] [ ] [ ] |  | Maximum:  99                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -56,8 +56,8 @@ Level & XP: 13 (120000 XP)__________________          \/        \/        \/
 +-Class Features & Abilities---------------------------------------------------+
 | Feline Agility [ ]: Double speed until end of turn (recharge: move 0ft)      |
 |                                                                              |
-| Favored Enemy (Undead, Aberrations): Advantage on Survival to track,         |
-|   Intelligence checks to recall information about them                       |
+| Favored Enemy (Undead, Aberrations, Dragons): Advantage on Survival to       |
+|   track, Intelligence checks to recall information about them                |
 |                                                                              |
 | Natural Explorer (Mountain, Underdark, Forest): Not slowed by difficult      |
 |   terrain, advantage on initiative, first turn advantage vs creatures that   |
@@ -81,6 +81,8 @@ Level & XP: 13 (120000 XP)__________________          \/        \/        \/
 |   advantage on saves vs magical plants                                       |
 |                                                                              |
 | Hide in Plain Sight: Spend 1 min to camouflage, +10 Stealth while motionless |
+|                                                                              |
+| Vanish: Hide as bonus action, can't be tracked by nonmagical means           |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
@@ -242,8 +244,8 @@ Level & XP: 13 (120000 XP)__________________          \/        \/        \/
 | Proficiency Bonus: +4 -> +5 (all proficient skills/saves/attacks increase)  |
 | Longbow: +12 to hit, 1d8+5 damage (or +7 hit, 1d8+15 with Sharpshooter)    |
 +-Level 14---------------------------------------------------------------------+
-|                                                                              |
-|                                                                              |
+| Favored Enemy: +Dragons                                                      |
+| Vanish: Hide as bonus action, can't be tracked by nonmagical means          |
 +-Level 15---------------------------------------------------------------------+
 |                                                                              |
 |                                                                              |
