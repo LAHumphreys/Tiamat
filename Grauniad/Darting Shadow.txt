@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 17 (195000 XP)__________________          \/        \/        \/
+Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   16   | | +13(+8) | | 30 ft / 40ft |
 | Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [19] |  | Hit Dice: 17d10                     |
+| Passive Wisdom (Perception)    [19] |  | Hit Dice: 18d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current: 129                        |
-| Failures                [ ] [ ] [ ] |  | Maximum: 129                        |
+| Successes               [ ] [ ] [ ] |  | Current: 132                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 132                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -87,6 +87,9 @@ Level & XP: 17 (195000 XP)__________________          \/        \/        \/
 |                                                                              |
 | Shadowy Dodge (Gloom Stalker): When attacked, use reaction to impose         |
 |   disadvantage on attack roll. Must be able to see attacker.                 |
+|                                                                              |
+| Feral Senses: No disadvantage attacking unseen creatures. Aware of invisible |
+|   creatures within 30ft (unless hidden, and you're not blinded/deafened)     |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
@@ -219,54 +222,59 @@ Level & XP: 17 (195000 XP)__________________          \/        \/        \/
 | Favored Enemy: +Aberrations                                                  |
 | Natural Explorer: +Underdark                                                 |
 +-Level 7----------------------------------------------------------------------+
-| Iron Mind (Gloom Stalker): Proficiency in WIS saving throws                 |
+| Iron Mind (Gloom Stalker): Proficiency in WIS saving throws                  |
 | Spell: +Silence                                                              |
 | Spell Slots: 4x 1st, 3x 2nd                                                  |
 +-Level 8----------------------------------------------------------------------+
-| Feat: Sharpshooter (ignore half/3/4 cover, long range, -5 hit/+10 damage)   |
-| Land's Stride: Move through nonmagical difficult terrain, adv vs plants     |
+| Feat: Sharpshooter (ignore half/3/4 cover, long range, -5 hit/+10 damage)    |
+| Land's Stride: Move through nonmagical difficult terrain, adv vs plants      |
 +-Level 9----------------------------------------------------------------------+
-| 3rd Level Spells unlocked: Lightning Arrow, Fear* (Gloom Stalker)           |
-| Spell Slots: 4x 1st, 3x 2nd, 2x 3rd                                         |
-| Proficiency Bonus: +3 -> +4 (all proficient skills/saves/attacks increase)  |
+| 3rd Level Spells unlocked: Lightning Arrow, Fear* (Gloom Stalker)            |
+| Spell Slots: 4x 1st, 3x 2nd, 2x 3rd                                          |
+| Proficiency Bonus: +3 -> +4 (all proficient skills/saves/attacks increase)   |
 +-Level 10---------------------------------------------------------------------+
-| Hide in Plain Sight: 1 min to camouflage, +10 Stealth while motionless      |
+| Hide in Plain Sight: 1 min to camouflage, +10 Stealth while motionless       |
 | Natural Explorer: +Forest                                                    |
 +-Level 11---------------------------------------------------------------------+
-| Stalker's Flurry (Gloom Stalker): Once per turn, if miss attack, make       |
+| Stalker's Flurry (Gloom Stalker): Once per turn, if miss attack, make        |
 |   another weapon attack as part of same action                               |
-| Spell: +Protection from Energy (resistance to one element for 1 hour)       |
-| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd                                         |
+| Spell: +Protection from Energy (resistance to one element for 1 hour)        |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd                                          |
 +-Level 12---------------------------------------------------------------------+
-| ASI: +1 DEX (19->20), +1 CON (13->14)                                       |
-| DEX 20: +1 to attacks, damage, AC (now 16), initiative (+12), Stealth (+9)  |
-| CON 14: +12 HP retroactively (all levels), better concentration saves       |
-| Longbow: +11 to hit, 1d8+5 damage (or +6 hit, 1d8+15 with Sharpshooter)    |
+| ASI: +1 DEX (19->20), +1 CON (13->14)                                        |
+| DEX 20: +1 to attacks, damage, AC (now 16), initiative (+12), Stealth (+9)   |
+| CON 14: +12 HP retroactively (all levels), better concentration saves        |
+| Longbow: +11 to hit, 1d8+5 damage (or +6 hit, 1d8+15 with Sharpshooter)      |
 +-Level 13---------------------------------------------------------------------+
-| 4th Level Spells unlocked: Freedom of Movement, Greater Invisibility*       |
-| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 1x 4th                                 |
-| Proficiency Bonus: +4 -> +5 (all proficient skills/saves/attacks increase)  |
-| Longbow: +12 to hit, 1d8+5 damage (or +7 hit, 1d8+15 with Sharpshooter)    |
+| 4th Level Spells unlocked: Freedom of Movement, Greater Invisibility*        |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 1x 4th                                  |
+| Proficiency Bonus: +4 -> +5 (all proficient skills/saves/attacks increase)   |
+| Longbow: +12 to hit, 1d8+5 damage (or +7 hit, 1d8+15 with Sharpshooter)      |
 +-Level 14---------------------------------------------------------------------+
 | Favored Enemy: +Dragons                                                      |
-| Vanish: Hide as bonus action, can't be tracked by nonmagical means          |
+| Vanish: Hide as bonus action, can't be tracked by nonmagical means           |
 +-Level 15---------------------------------------------------------------------+
-| Shadowy Dodge (Gloom Stalker): When attacked, use reaction to impose        |
-|   disadvantage on attack roll. Must be able to see attacker.                |
-| Spell: +Locate Creature (find that villain!)                                |
-| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th                                 |
-| HP Rolled: 8 (+2 CON = 10 HP gained, total 109)                             |
+| Shadowy Dodge (Gloom Stalker): When attacked, use reaction to impose         |
+|   disadvantage on attack roll. Must be able to see attacker.                 |
+| Spell: +Locate Creature (find that villain!)                                 |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th                                  |
+| HP Rolled: 8 (+2 CON = 10 HP gained, total 109)                              |
 +-Level 16---------------------------------------------------------------------+
 | ASI: +2 WIS (14->16)                                                         |
-| WIS 16: Initiative +13, Passive Perception 18, Spell Save DC 16, Attack +8  |
-| HP Rolled: 10 (+2 CON = 12 HP gained, total 121)                            |
+| WIS 16: Initiative +13, Passive Perception 18, Spell Save DC 16, Attack +8   |
+| HP Rolled: 10 (+2 CON = 12 HP gained, total 121)                             |
 |                                                                              |
 +-Level 17---------------------------------------------------------------------+
-| Proficiency Bonus: +5 -> +6 (all proficient skills/saves/attacks increase)  |
-| 5th Level Spells unlocked: Greater Restoration, Seeming* (Gloom Stalker)    |
-| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th, 1x 5th                         |
-| Longbow: +13 to hit, Spell Save DC: 17, Spell Attack: +9, Passive Perc: 19  |
-| HP Rolled: 6 (+2 CON = 8 HP gained, total 129)                              |
+| Proficiency Bonus: +5 -> +6 (all proficient skills/saves/attacks increase)   |
+| 5th Level Spells unlocked: Greater Restoration, Seeming* (Gloom Stalker)     |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 2x 4th, 1x 5th                          |
+| Longbow: +13 to hit, Spell Save DC: 17, Spell Attack: +9, Passive Perc: 19   |
+| HP Rolled: 6 (+2 CON = 8 HP gained, total 129)                               |
++-Level 18---------------------------------------------------------------------+
+| Feral Senses: No disadvantage attacking unseen creatures. Aware of invisible |
+|   creatures within 30ft (unless hidden, and you're not blinded/deafened)     |
+| HP Rolled: 1 (+2 CON = 3 HP gained, total 132)                               |
+|                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
 | 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
