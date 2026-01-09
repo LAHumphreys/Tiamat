@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 18 (210000 XP)__________________          \/        \/        \/
+Level & XP: 19 (225000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   16   | | +13(+8) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   16   | | +14(+9) | | 30 ft / 40ft |
 | Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [19] |  | Hit Dice: 18d10                     |
+| Passive Wisdom (Perception)    [20] |  | Hit Dice: 19d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current: 132                        |
-| Failures                [ ] [ ] [ ] |  | Maximum: 132                        |
+| Successes               [ ] [ ] [ ] |  | Current: 137                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 137                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -30,13 +30,13 @@ Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 | Performance                [ ] [+0] |  | Sleight of Hand            [ ] [+5] |
 | Persuation                 [ ] [+0] |  | Stealth                    [x] [+11]|
 +-------------------------------------+  +-------------------------------------+
-| WISDOM                    [16] [+3] |  | INTELLIGENCE              [12] [+1] |
-| Saving Throws              [x] [+9] |  | Saving Throws              [ ] [+1] |
-| Animal Handling            [x] [+9] |  | Arcana                     [ ] [+1] |
-| Insight                    [ ] [+3] |  | History                    [ ] [+1] |
-| Medicine                   [ ] [+3] |  | Investigation              [ ] [+1] |
-| Perception                 [x] [+9] |  | Nature                     [ ] [+1] |
-| Survival                   [x] [+9] |  | Religion                   [ ] [+1] |
+| WISDOM                    [18] [+4] |  | INTELLIGENCE              [12] [+1] |
+| Saving Throws              [x] [+10]|  | Saving Throws              [ ] [+1] |
+| Animal Handling            [x] [+10]|  | Arcana                     [ ] [+1] |
+| Insight                    [ ] [+4] |  | History                    [ ] [+1] |
+| Medicine                   [ ] [+4] |  | Investigation              [ ] [+1] |
+| Perception                 [x] [+10]|  | Nature                     [ ] [+1] |
+| Survival                   [x] [+10]|  | Religion                   [ ] [+1] |
 +-------------------------------------+  +-------------------------------------+
 +-Armour / Shield Proficiencies------------------------------------------------+
 | Light [x]           Medium [x]            Heavy [ ]             Shield [x]   |
@@ -45,13 +45,15 @@ Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 | Simple [x]           Martial [x]                                             |
 +------------------------------------------------------------------------------+
 +-Spells & Spell Slots---------------------------------------------------------+
+| Spell Save DC: 18  |  Spell Attack Bonus: +10                                |
 | 1st Level [ ] [ ] [ ] [ ] : Disguise Self*, Goodberry, Hunter's Mark,        |
 |                             Zephyr Strike                                    |
 | 2nd Level [ ] [ ] [ ]     : Pass Without Trace, Rope Trick*, Silence         |
 | 3rd Level [ ] [ ] [ ]     : Fear*, Lightning Arrow, Protection from Energy   |
 | 4th Level [ ] [ ]         : Freedom of Movement, Greater Invisibility*,      |
 |                             Locate Creature                                  |
-| 5th Level [ ]             : Greater Restoration, Seeming*                    |
+| 5th Level [ ] [ ]         : Commune with Nature, Greater Restoration,        |
+|                             Seeming*                                         |
 | * = Gloom Stalker spell, always known (doesn't count vs spells known limit)  |
 +------------------------------------------------------------------------------+
 +-Class Features & Abilities---------------------------------------------------+
@@ -68,7 +70,7 @@ Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 |                                                                              |
 | Extra Attack: Attack twice when you take the Attack action                   |
 |                                                                              |
-| Dread Ambusher: +WIS (3) to initiative, +10ft speed first turn, extra        |
+| Dread Ambusher: +WIS (4) to initiative, +10ft speed first turn, extra        |
 |                 attack first turn dealing +1d8 damage                        |
 |                                                                              |
 | Stalker's Flurry (Gloom Stalker): Once per turn, if you miss with an attack, |
@@ -275,6 +277,12 @@ Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 |   creatures within 30ft (unless hidden, and you're not blinded/deafened)     |
 | HP Rolled: 1 (+2 CON = 3 HP gained, total 132)                               |
 |                                                                              |
++-Level 19---------------------------------------------------------------------+
+| ASI: +2 WIS (16->18)                                                         |
+| WIS 18: Initiative +14, Passive Perception 20, Spell Save DC 18, Attack +10  |
+| Spell: +Commune with Nature (scout terrain, gain info about surroundings)   |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 3x 4th, 2x 5th                         |
+| HP Rolled: 3 (+2 CON = 5 HP gained, total 137)                               |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
 | 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
@@ -303,6 +311,10 @@ Level & XP: 18 (210000 XP)__________________          \/        \/        \/
 +-Notes------------------------------------------------------------------------+
 |                                                                              |
 +-Spell Reference--------------------------------------------------------------+
+| COMMUNE WITH NATURE - 5th level, 1 Action (ritual), V/S, Instant             |
+|   Outdoors: Learn 3 facts about terrain within 3 miles (plants, minerals,    |
+|   creatures, water, structures). Indoors/underground: radius 300ft.          |
+|                                                                              |
 | DISGUISE SELF - 1st level, 1 Action, V/S, 1 hour                             |
 |   Make yourself look different (height +/- 1ft, body type, features). Does   |
 |   not hold up to physical inspection. (Gloom Stalker bonus spell)            |
