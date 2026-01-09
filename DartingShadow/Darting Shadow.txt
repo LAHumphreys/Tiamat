@@ -12,7 +12,7 @@ Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
 Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   17   | | +14(+9) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   18   | | +14(+9) | | 30 ft / 40ft |
 | Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
 | Passive Wisdom (Perception)    [20] |  | Hit Dice: 20d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
@@ -50,7 +50,7 @@ Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 |                             Zephyr Strike                                    |
 | 2nd Level [ ] [ ] [ ]     : Pass Without Trace, Rope Trick*, Silence         |
 | 3rd Level [ ] [ ] [ ]     : Fear*, Lightning Arrow, Protection from Energy   |
-| 4th Level [ ] [ ]         : Freedom of Movement, Greater Invisibility*,      |
+| 4th Level [ ] [ ] [ ]     : Freedom of Movement, Greater Invisibility*,      |
 |                             Locate Creature                                  |
 | 5th Level [ ] [ ]         : Commune with Nature, Greater Restoration,        |
 |                             Seeming*                                         |
