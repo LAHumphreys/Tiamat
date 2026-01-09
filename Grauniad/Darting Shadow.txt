@@ -12,7 +12,7 @@ Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
 Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
-| Inspiration                    [  ] |  |   16   | | +14(+9) | | 30 ft / 40ft |
+| Inspiration                    [  ] |  |   17   | | +14(+9) | | 30 ft / 40ft |
 | Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
 | Passive Wisdom (Perception)    [20] |  | Hit Dice: 20d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
@@ -93,7 +93,7 @@ Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 | Feral Senses: No disadvantage attacking unseen creatures. Aware of invisible |
 |   creatures within 30ft (unless hidden, and you're not blinded/deafened)     |
 |                                                                              |
-| Foe Slayer: Once per turn, add WIS (+4) to attack or damage roll vs favored |
+| Foe Slayer: Once per turn, add WIS (+4) to attack or damage roll vs favored  |
 |   enemies (Undead, Aberrations, Dragons). Choose before/after roll.          |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
@@ -112,26 +112,29 @@ Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 |                                      |                                       |
 +--------------------------------------+---------------------------------------+
 +-Weapon--------+-ATK B.-+-Damage/Typ-+-Properties--------------------+-Weight-+
-| Longbow       | +13    | 1d8+5 pier.| Ammunition (150/600), Heavy,  |  2 lb  |
-|               |        |            | Two-Handed, Archery Style     |        |
-| Shortsword    | +11    | 1d6+5 pier.| Finesse, Light                |  2 lb  |
+| Longbow +3    | +16    | 1d8+10 pier| Ammunition (150/600), Heavy,  |  2 lb  |
+|               |        |            | Two-Handed, Archery Style,    |        |
+|               |        |            | +3 magic, +2 Bracers          |        |
+| Rapier +1     | +12    | 1d8+6 pier.| Finesse, +1 magic             |  2 lb  |
 |               |        |            |                               |        |
 | Cat's Claws   | +11    | 1d4+5 slash| Finesse                       |   -    |
 |               |        |            |                               |        |
 +-Armor/Shild---+-AC B.--+-Properties-+-------------------------------+-Weight-+
-| Studded Lthr  |  +5    | Light      |                               | 13 lb  |
-|               |        |            |                               |        |
-|               |        |            |                               |        |
-|               |        |            |                               |        |
+| Studded Lthr  |  +6    | Light, +1 magic armor                      | 13 lb  |
+| +1            |        |                                            |        |
+|               |        |                                            |        |
+|               |        |                                            |        |
 +---------------+--------+--------------------------------------------+--------+
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 | PP [    0 ] | | GP [   10 ] | | EP [     0 ] | | SP [    0 ] | | CP [    0 ] |
 +-------------+ +-------------+ +--------------+ +-------------+ +-------------+
 +-Equipment-----------------------------------------------------------+-Weight-+
-| Longbow                                                             |  2 lb  |
-| Quiver with 20 arrows                                               |  1 lb  |
-| Shortsword                                                          |  2 lb  |
-| Studded leather armor                                               | 13 lb  |
+| Longbow +3 (Very Rare, attunement)                                  |  2 lb  |
+| Quiver of Ehlonna (Uncommon, infinite arrows + storage)             |  2 lb  |
+| Rapier +1 (Uncommon)                                                |  2 lb  |
+| Studded leather armor +1 (Rare)                                     | 13 lb  |
+| Bracers of Archery (Uncommon, attunement, +2 bow damage)            |  1 lb  |
+| Mantle of Spell Resistance (Rare, attunement, adv vs spells)        |  1 lb  |
 | Explorer's pack (backpack, bedroll, mess kit, tinderbox,            | 59 lb  |
 |   10 torches, 10 days rations, waterskin, 50 ft rope)               |        |
 | Staff (Outlander)                                                   |  4 lb  |
@@ -190,7 +193,26 @@ Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 |                                                                              |
 |                                                                              |
 |                                                                              |
-| Max. Bearing Capacity: 180 lb                               Weight: 110 lb   |
+| Max. Bearing Capacity: 180 lb                               Weight: 113 lb   |
++------------------------------------------------------------------------------+
++-Magic Items------------------------------------------------------------------+
+| LONGBOW +3 (Very Rare, attunement): +3 to attack and damage rolls            |
+|                                                                              |
+| BRACERS OF ARCHERY (Uncommon, attunement): Proficiency with longbows and     |
+|   shortbows, +2 damage with ranged attacks made with longbows/shortbows      |
+|                                                                              |
+| QUIVER OF EHLONNA (Uncommon): Contains six compartments. Three hold arrows   |
+|   (60 each), two hold javelins/similar (18 each), one holds bows/staffs      |
+|   (6). Weighs 2 lbs regardless of contents. Endless mundane arrows.          |
+|                                                                              |
+| STUDDED LEATHER ARMOR +1 (Rare): +1 bonus to AC (already included)           |
+|                                                                              |
+| RAPIER +1 (Uncommon): +1 to attack and damage rolls                          |
+|                                                                              |
+| MANTLE OF SPELL RESISTANCE (Rare, attunement): Advantage on saving throws    |
+|   against spells.                                                            |
+|                                                                              |
+| Attunement Slots Used: 3/3 (Longbow +3, Bracers, Mantle)                     |
 +------------------------------------------------------------------------------+
 +-Racial Features--------------------------------------------------------------+
 | Darkvision (60 ft), Feline Agility, Cat's Claws, Cat's Talent (Perception,   |
@@ -283,12 +305,12 @@ Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 +-Level 19---------------------------------------------------------------------+
 | ASI: +2 WIS (16->18)                                                         |
 | WIS 18: Initiative +14, Passive Perception 20, Spell Save DC 18, Attack +10  |
-| Spell: +Commune with Nature (scout terrain, gain info about surroundings)   |
-| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 3x 4th, 2x 5th                         |
+| Spell: +Commune with Nature (scout terrain, gain info about surroundings)    |
+| Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 3x 4th, 2x 5th                          |
 | HP Rolled: 3 (+2 CON = 5 HP gained, total 137)                               |
 +-Level 20---------------------------------------------------------------------+
-| Foe Slayer: Once per turn, add WIS modifier (+4) to attack or damage roll   |
-|   against favored enemies (Undead, Aberrations, Dragons)                    |
+| Foe Slayer: Once per turn, add WIS modifier (+4) to attack or damage roll    |
+|   against favored enemies (Undead, Aberrations, Dragons)                     |
 | HP Rolled: 3 (+2 CON = 5 HP gained, total 142)                               |
 |                                                                              |
 +------------------------------------------------------------------------------+
