@@ -10,14 +10,14 @@ Race: Tabaxi________________________________  \______ \   /  _ \  \______ \
 Class: Ranger________________________________   |    |  \  >  _ </\ |    |  \
 Alignment: Neutral Good_____________________   |    `   \/  <_\ \/ |    `   \
 Background: Outlander_______________________  /_______  /\_____\ \/_______  /
-Level & XP: 19 (225000 XP)__________________          \/        \/        \/
+Level & XP: 20 (300000 XP)__________________          \/        \/        \/
 +-------------------------------------+  +-AC--- -+ +-Ini-----+ +-Speed--------+
 | Inspiration                    [  ] |  |   16   | | +14(+9) | | 30 ft / 40ft |
 | Proficiency Bonus              [+6] |  +-Hit Points--------------------------+
-| Passive Wisdom (Perception)    [20] |  | Hit Dice: 19d10                     |
+| Passive Wisdom (Perception)    [20] |  | Hit Dice: 20d10                     |
 +-Death Saves-------------------------+  | Modifier: +2                        |
-| Successes               [ ] [ ] [ ] |  | Current: 137                        |
-| Failures                [ ] [ ] [ ] |  | Maximum: 137                        |
+| Successes               [ ] [ ] [ ] |  | Current: 142                        |
+| Failures                [ ] [ ] [ ] |  | Maximum: 142                        |
 +-------------------------------------+  +-------------------------------------+
 +-------------------------------------+  +-------------------------------------+
 | CONSTITUTION              [14] [+2] |  | STRENGTH                  [12] [+1] |
@@ -92,6 +92,9 @@ Level & XP: 19 (225000 XP)__________________          \/        \/        \/
 |                                                                              |
 | Feral Senses: No disadvantage attacking unseen creatures. Aware of invisible |
 |   creatures within 30ft (unless hidden, and you're not blinded/deafened)     |
+|                                                                              |
+| Foe Slayer: Once per turn, add WIS (+4) to attack or damage roll vs favored |
+|   enemies (Undead, Aberrations, Dragons). Choose before/after roll.          |
 |                                                                              |
 | Primeval Awareness: Spend spell slot to detect creature types (1 mile)       |
 +------------------------------------------------------------------------------+
@@ -283,6 +286,11 @@ Level & XP: 19 (225000 XP)__________________          \/        \/        \/
 | Spell: +Commune with Nature (scout terrain, gain info about surroundings)   |
 | Spell Slots: 4x 1st, 3x 2nd, 3x 3rd, 3x 4th, 2x 5th                         |
 | HP Rolled: 3 (+2 CON = 5 HP gained, total 137)                               |
++-Level 20---------------------------------------------------------------------+
+| Foe Slayer: Once per turn, add WIS modifier (+4) to attack or damage roll   |
+|   against favored enemies (Undead, Aberrations, Dragons)                    |
+| HP Rolled: 3 (+2 CON = 5 HP gained, total 142)                               |
+|                                                                              |
 +------------------------------------------------------------------------------+
 +-Age--------+-Height-----+-Weight-----+-Eyes-------+-Skin-------+-Hair--------+
 | 25 years   | 6'2"       | 165 lb     | Yellow     | Tan/Brown  | Light brown |
